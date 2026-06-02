@@ -391,6 +391,11 @@ Evropský advokát ve všech těchto případech zastupování **smí poskytovat
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [8 Tz 60/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B89298971747C81AC12588CE00160396?openDocument) — 13. 7. 2022, kat. A
+  > „Obhájcem v trestním řízení podle § 35 odst. 1 tr. ř. nemůže být usazený evropský advokát, dokud po dohodě s obviněným neustanoví advokáta jako svého konzultanta v otázkách procesního práva podle § 35p odst. 1 zákona o advokacii a dokud neoznámí soudu nebo jinému orgánu činnému v trestním řízení adresu sídla konzultanta podle § 35p odst. 2 zákona o advokacii"
+
 #### Institut konzultanta — kompromis mezi otevřením a ochranou
 
 § 35p je **kompromisní úpravou**, jíž zákonodárce smiřuje dva protichůdné zájmy:
@@ -686,6 +691,11 @@ Seznam advokátních koncipientů je jedním ze čtyř hlavních seznamů veden�
 > *(6) V případě vyškrtnutí ze seznamu advokátních koncipientů nebo pozastavení výkonu právní praxe advokátního koncipienta se § 7b odst. 1 písm. a) až d) a g), § 7b odst. 2, § 8 odst. 3, § 8b odst. 1 písm. d), e), g) a h) a § 8b odst. 2, § 9 odst. 4, § 9a odst. 1 písm. a) a b) a § 9a odst. 2 písm. d) a § 9b použijí přiměřeně.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [32 Cdo 583/2010](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/992D8CDB01160797C1257A4E0066A87C?openDocument) — 25. 1. 2012, kat. A
+  > „Absolvent Policejní akademie České republiky v Praze oboru policejní management a kriminalistika nesplňuje podmínku získání vysokoškolského vzdělání v rámci magisterského studijního programu v oblasti práva uvedenou v ustanovení § 37 odst. 1 písm. b) zákona č. 85/1996 Sb., o advokacii (ve znění účinném do 31. srpna 2009) pro zápis do seznamu advokátních koncipientů vedeného Českou advokátní komorou"
 
 #### Pět kumulativních podmínek zápisu (odst. 1)
 
