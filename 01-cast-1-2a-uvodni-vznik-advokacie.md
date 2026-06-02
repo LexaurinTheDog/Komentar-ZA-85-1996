@@ -18,7 +18,7 @@
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [32 Cdo 3532/2014](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2016%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2016&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-32_Cdo_3532_2014.txt) — 23. 11. 2015, kat. A
+- *NS* [32 Cdo 3532/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/88213E1139559509C1257F4C00364B96?openDocument) — 23. 11. 2015, kat. A
   > „Výkon funkce správce konkursní podstaty advokátem nelze považovat za výkon advokacie podle ustanovení § 1 zákona č. 85/1996 Sb., o advokacii, ve znění účinném do 31. 12. 2007"
 
 #### Dvojí předmět úpravy (odst. 1)
@@ -1381,7 +1381,7 @@ Sjednocení sídla s ekonomickým subjektem je významné pro **konzistenci regi
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [32 Cdo 3532/2014](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2016%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2016&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-32_Cdo_3532_2014.txt) — 23. 11. 2015, kat. A
+- *NS* [32 Cdo 3532/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/88213E1139559509C1257F4C00364B96?openDocument) — 23. 11. 2015, kat. A
   > „Výkon funkce správce konkursní podstaty advokátem nelze považovat za výkon advokacie podle ustanovení § 1 zákona č. 85/1996 Sb., o advokacii, ve znění účinném do 31. 12. 2007"
 
 #### Sdružení jako „společnost" dle obč. zák. (§ 2716 a násl.)
