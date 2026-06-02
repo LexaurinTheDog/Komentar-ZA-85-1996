@@ -224,15 +224,35 @@ Usazený evropský advokát si přitom **zachovává původní profesní označe
 >
 > *(2) Komora evropského advokáta do seznamu evropských advokátů nezapíše, pokud mu bylo uloženo kárné opatření dočasného zákazu poskytování právních služeb (§ 35q odst. 2) a ode dne, kdy rozhodnutí o uložení tohoto kárného opatření bylo vykonáno, neuplynula doba alespoň jednoho roku.*
 >
-> *(3) Usazený evropský advokát prokazuje oprávnění k poskytování právních služeb podle tohoto zákona osvědčením o zápisu do seznamu evropských advokátů nebo identifikačním průkazem usazeného evropského advokáta; tyto dokumenty mu Komora vydá nejpozději do jednoho týdne po zápisu do seznamu evropských advokátů. […]*
+> *(3) Usazený evropský advokát prokazuje oprávnění k poskytování právních služeb podle tohoto zákona osvědčením o zápisu do seznamu evropských advokátů nebo identifikačním průkazem usazeného evropského advokáta; tyto dokumenty mu Komora vydá nejpozději do jednoho týdne po zápisu do seznamu evropských advokátů. Vydání identifikačního průkazu usazeného evropského advokáta a náležitosti identifikačního průkazu usazeného evropského advokáta s výjimkou náležitostí, které jsou v seznamu evropských advokátů již zapsány, zaznamená Komora v seznamu evropských advokátů. Vzor, náležitosti a způsob používání identifikačního průkazu usazeného evropského advokáta stanoví prováděcí právní předpis; prováděcí právní předpis může též stanovit dobu platnosti identifikačního průkazu usazeného evropského advokáta. Pro osvědčení a identifikační průkaz usazeného evropského advokáta se použije § 5d odst. 3 a 4 obdobně.*
+>
+> *(4) Zápis do seznamu evropských advokátů zaznamená Komora v seznamu evropských advokátů ve lhůtě uvedené v odstavci 3; Komora v téže lhůtě informuje o zápisu do seznamu evropských advokátů v potřebném rozsahu příslušný orgán domovského státu.*
 >
 > *(5) Usazenému evropskému advokátovi se pozastavuje oprávnění k poskytování právních služeb podle tohoto zákona, nastane-li některá ze skutečností uvedených v § 8b odst. 1 písm. a), b), d) až h).*
 >
-> *(6) Komora pozastaví usazenému evropskému advokátovi oprávnění k poskytování právních služeb podle tohoto zákona v případech uvedených v § 9 odst. 1, jakož i v případě, kdy bylo pozastaveno jeho oprávnění poskytovat v domovském státě právní služby pod profesním označením podle § 2 odst. 1 písm. b); […]*
+> *(6) Komora pozastaví usazenému evropskému advokátovi oprávnění k poskytování právních služeb podle tohoto zákona v případech uvedených v § 9 odst. 1, jakož i v případě, kdy bylo pozastaveno jeho oprávnění poskytovat v domovském státě právní služby pod profesním označením podle § 2 odst. 1 písm. b); Komora může pozastavit usazenému evropskému advokátovi oprávnění k poskytování právních služeb podle tohoto zákona v případech uvedených v § 9 odst. 2 a 3.*
 >
-> *(7) [důvody vyškrtnutí ze seznamu]*
+> *(7) Usazený evropský advokát,*
 >
-> *(8) Komora usazeného evropského advokáta ze seznamu evropských advokátů vyškrtne […]*
+> *- a) který zemřel, je vyškrtnut ze seznamu evropských advokátů ke dni úmrtí,*
+>
+> *- b) který byl prohlášen za mrtvého, je vyškrtnut ze seznamu evropských advokátů ke dni právní moci rozhodnutí o prohlášení za mrtvého,*
+>
+> *- c) kterému bylo uloženo kárné opatření dočasného zákazu poskytování právních služeb (§ 35q odst. 2), je vyškrtnut ze seznamu evropských advokátů ke dni právní moci rozhodnutí o uložení tohoto kárného opatření,*
+>
+> *- d) který podal Komoře písemnou žádost o vyškrtnutí ze seznamu evropských advokátů, je vyškrtnut uplynutím kalendářního měsíce, ve kterém byla žádost Komoře doručena, nebo k pozdějšímu dni uvedenému v žádosti; podpis na žádosti v listinné podobě musí být úředně ověřen,*
+>
+> *- e) který byl zapsán do seznamu advokátů (§ 5b), je vyškrtnut ze seznamu evropských advokátů dnem zápisu do seznamu advokátů; tím není dotčeno jeho oprávnění požívat současně též profesní označení svého domovského státu ani jeho oprávnění podle § 35na.*
+>
+> *(8) Komora usazeného evropského advokáta ze seznamu evropských advokátů vyškrtne*
+>
+> *- a) jestliže přestal splňovat podmínku podle § 2 odst. 1 písm. b) bodu 1,*
+>
+> *- b) zaniklo-li jeho oprávnění poskytovat v domovském státě právní služby podle § 2 odst. 1 písm. b) bodu 2, nebo*
+>
+> *- c) z důvodů uvedených v § 7b odst. 1 písm. e) a f) a v § 8 odst. 1 písm. b) až d).*
+>
+> *(9) V případě pozastavení oprávnění usazeného evropského advokáta k poskytování právních služeb podle tohoto zákona se použijí přiměřeně ustanovení § 8b odst. 2, § 9 odst. 4, § 9a, 9b a § 55 odst. 7. V případě vyškrtnutí usazeného evropského advokáta ze seznamu evropských advokátů se použijí přiměřeně ustanovení § 7b odst. 2 a § 8 odst. 2 a 3.*
 >
 > *(10) O pozastavení oprávnění usazeného evropského advokáta k poskytování právních služeb podle tohoto zákona, jakož i o jeho vyškrtnutí ze seznamu evropských advokátů informuje Komora bez odkladu, nejpozději do jednoho týdne, příslušný orgán domovského státu.*
 
@@ -284,7 +304,7 @@ Klíčový institut **administrativní spolupráce** podle směrnice 98/5/ES —
 >
 > *(1) Není-li dále stanoveno jinak, použijí se pro usazeného evropského advokáta přiměřeně ustanovení tohoto zákona a stavovských předpisů o právech a povinnostech advokátů, popřípadě ustanovení zvláštních právních předpisů, pokud stanoví práva a povinnosti advokátů v souvislosti s výkonem advokacie.*
 >
-> *(2) Usazený evropský advokát je povinen používat při poskytování právních služeb profesní označení podle § 2 odst. 1 písm. b); toto označení musí být vyjádřeno v oficiálním jazyku nebo v jednom z oficiálních jazyků domovského státu. K tomuto označení je usazený evropský advokát povinen uvádět odkaz na jeho zápis do seznamu evropských advokátů. […]*
+> *(2) Usazený evropský advokát je povinen používat při poskytování právních služeb profesní označení podle § 2 odst. 1 písm. b); toto označení musí být vyjádřeno v oficiálním jazyku nebo v jednom z oficiálních jazyků domovského státu. K tomuto označení je usazený evropský advokát povinen uvádět odkaz na jeho zápis do seznamu evropských advokátů. Pokud usazený evropský advokát poskytuje právní služby jménem zahraniční společnosti podle § 35s, platí ustanovení § 12 odst. 4 obdobně.*
 >
 > *(3) Usazený evropský advokát je oprávněn uvádět ke svému označení podle odstavce 2 i dodatek vyjadřující skutečnost, že v domovském státě, popřípadě i v jiných cizích státech poskytuje právní služby společně s jinými osobami jako účastník (společník) sdružení nebo právnické osoby obdobné sdružení nebo společnosti podle tohoto zákona (§ 14 a 15).*
 >
@@ -539,15 +559,23 @@ Odst. 4 stanoví **přiměřenou aplikaci** klíčových ustanovení ZA o povinn
 
 > **§ 35t**
 >
-> *(1) Každý společník zahraniční společnosti, který ručí za její dluhy celým svým majetkem (dále jen „neomezeně ručící společník"), musí být pro případ odpovědnosti zahraniční společnosti za újmu vzniklou v souvislosti s poskytováním právních služeb na území České republiky ode dne zápisu zahraniční společnosti nebo její organizační složky do obchodního rejstříku pojištěn obdobně jako společník veřejné obchodní společnosti nebo komplementář komanditní společnosti podle § 24a (dále jen „pojištění společníků zahraniční společnosti").*
+> *(1) Každý společník zahraniční společnosti, který ručí za její dluhy celým svým majetkem (dále jen „neomezeně ručící společník“), musí být pro případ odpovědnosti zahraniční společnosti za újmu vzniklou v souvislosti s poskytováním právních služeb na území České republiky ode dne zápisu zahraniční společnosti nebo její organizační složky do obchodního rejstříku pojištěn obdobně jako společník veřejné obchodní společnosti nebo komplementář komanditní společnosti podle § 24a (dále jen „pojištění společníků zahraniční společnosti“).*
 >
-> *(2) Zahraniční společnost, která nemá žádné neomezeně ručící společníky, musí být ode dne jejího zápisu nebo zápisu její organizační složky do obchodního rejstříku pojištěna pro případ odpovědnosti za újmu vzniklou v souvislosti s poskytováním právních služeb na území České republiky obdobně jako společnost s ručením omezeným podle tohoto zákona; zahraniční společnost, která má kromě jiných společníků alespoň jednoho neomezeně ručícího společníka, musí být pojištěna obdobně jako komanditní společnost podle tohoto zákona (dále jen „pojištění zahraniční společnosti").*
+> *(2) Zahraniční společnost, která nemá žádné neomezeně ručící společníky, musí být ode dne jejího zápisu nebo zápisu její organizační složky do obchodního rejstříku pojištěna pro případ odpovědnosti za újmu vzniklou v souvislosti s poskytováním právních služeb na území České republiky obdobně jako společnost s ručením omezeným podle tohoto zákona; zahraniční společnost, která má kromě jiných společníků alespoň jednoho neomezeně ručícího společníka, musí být pojištěna obdobně jako komanditní společnost podle tohoto zákona (dále jen „pojištění zahraniční společnosti“).*
 >
-> *(3) Zahraniční společnost je povinna předložit Komoře stejnopis nebo úředně ověřenou kopii pojistné smlouvy o pojištění společníků zahraniční společnosti nebo o pojištění zahraniční společnosti, popřípadě doklad vydaný pojišťovnou […].*
+> *(3) Zahraniční společnost je povinna předložit Komoře stejnopis nebo úředně ověřenou kopii pojistné smlouvy o pojištění společníků zahraniční společnosti nebo o pojištění zahraniční společnosti, popřípadě doklad vydaný pojišťovnou nebo zahraniční pojišťovnou anebo jinou příslušnou osobou, dosvědčující existenci co do podmínek a rozsahu odpovídajícího pojištění společníků zahraniční společnosti nebo pojištění zahraniční společnosti (dále jen „doklad o pojištění zahraniční společnosti“), a to do konce kalendářního roku, ve kterém byla zapsána do seznamu zahraničních společností, a dále vždy do konce kalendářního roku, který předchází kalendářnímu roku, na nějž se pojištění vztahuje, jakož i kdykoli jindy, pokud o to Komora požádá.*
 >
-> *(4) Splnění podmínek uvedených v § 35s odst. 1 písm. a) až c) a pojištění společníků zahraniční společnosti nebo pojištění zahraniční společnosti je předpokladem zápisu zahraniční společnosti nebo její organizační složky do obchodního rejstříku. […]*
+> *(4) Splnění podmínek uvedených v § 35s odst. 1 písm. a) až c) a pojištění společníků zahraniční společnosti nebo pojištění zahraniční společnosti je předpokladem zápisu zahraniční společnosti nebo její organizační složky do obchodního rejstříku. Listiny dokládající splňování podmínek uvedených v § 35s odst. 1 písm. a) až c) a doklad o pojištění zahraniční společnosti musejí být připojeny k návrhu na zápis zahraniční společnosti nebo její organizační složky do obchodního rejstříku a ukládají se do sbírky listin obchodního rejstříku, včetně jejich změn.*
 >
-> *(5) Komora podá bez odkladu soudu návrh na výmaz zahraniční společnosti nebo její organizační složky z obchodního rejstříku, pokud zjistí, že [zahraniční společnost přestala splňovat podmínky].*
+> *(5) Komora podá bez odkladu soudu návrh na výmaz zahraniční společnosti nebo její organizační složky z obchodního rejstříku, pokud zjistí, že*
+>
+> *- a) zahraniční společnost nesplňuje podmínky uvedené v § 35s odst. 1 písm. a) až c) a e),*
+>
+> *- b) společníci zahraniční společnosti nejsou pojištěni podle § 35t odst. 1,*
+>
+> *- c) zahraniční společnost není pojištěna podle § 35t odst. 2,*
+>
+> *- d) zahraniční společnost nesplnila povinnost uvedenou v § 35t odst. 3.*
 
 **Výklad:**
 
@@ -627,33 +655,33 @@ Seznam advokátních koncipientů je jedním ze čtyř hlavních seznamů veden�
 >
 > *- b) kdo získal vysokoškolské vzdělání v oboru právo*
 >
-> *  - 1. v magisterském studijním programu studiem na vysoké škole v České republice, nebo*
+> *- 1. v magisterském studijním programu studiem na vysoké škole v České republice1b), nebo*
 >
-> *  - 2. studiem na vysoké škole v zahraničí, pokud je takové vzdělání v České republice uznáváno za rovnocenné […]*
+> *- 2. studiem na vysoké škole v zahraničí, pokud je takové vzdělání v České republice uznáváno za rovnocenné vzdělání uvedenému v bodě 1 na základě mezinárodní smlouvy, kterou je Česká republika vázána, anebo pokud takové vzdělání bylo uznáno podle zvláštního právního předpisu1d), a současně takové vzdělání odpovídá obsahem a rozsahem obecnému vzdělání, které lze získat v oboru právo na vysoké škole v České republice,*
 >
 > *- c) kdo je bezúhonný,*
 >
 > *- d) komu nebylo uloženo kárné opatření vyškrtnutí ze seznamu advokátních koncipientů nebo na něhož se hledí, jako by mu toto kárné opatření nebylo uloženo, a*
 >
-> *- e) kdo je k advokátovi, usazenému evropskému advokátovi, ke společnosti nebo k zahraniční společnosti v pracovním poměru sjednaném na stanovenou týdenní pracovní dobu podle zvláštního právního předpisu; z důvodů zvláštního zřetele hodných může Komora podmínku stanovené týdenní pracovní doby prominout, pokud sjednaný rozsah pracovní doby zajišťuje řádnou přípravu advokátního koncipienta na výkon advokacie.*
+> *- e) kdo je k advokátovi, usazenému evropskému advokátovi, ke společnosti nebo k zahraniční společnosti v pracovním poměru sjednaném na stanovenou týdenní pracovní dobu podle zvláštního právního předpisu14c); z důvodů zvláštního zřetele hodných může Komora podmínku stanovené týdenní pracovní doby prominout, pokud sjednaný rozsah pracovní doby zajišťuje řádnou přípravu advokátního koncipienta na výkon advokacie.*
 >
-> *(2) Splňuje-li žadatel podmínky uvedené v odstavci 1, Komora ho zapíše do seznamu advokátních koncipientů na základě jeho písemné žádosti, a to ke dni uvedenému v této žádosti; […]*
+> *(2) Splňuje-li žadatel podmínky uvedené v odstavci 1, Komora ho zapíše do seznamu advokátních koncipientů na základě jeho písemné žádosti, a to ke dni uvedenému v této žádosti; tento den však nesmí předcházet dni vzniku pracovního poměru podle odstavce 1 písm. e) ani dni podání žádosti. Není-li takový den v žádosti o zápis do seznamu advokátních koncipientů uveden, zapíše Komora žadatele do seznamu koncipientů ke dni podání žádosti. Zápis do seznamu advokátních koncipientů zaznamená Komora v seznamu advokátních koncipientů bez odkladu, nejpozději do jednoho týdne ode dne zápisu, a vydá advokátnímu koncipientovi identifikační průkaz advokátního koncipienta; identifikačním průkazem se advokátní koncipient prokazuje při výkonu právní praxe včetně při zastupování advokáta na základě jeho pověření při jednotlivých úkonech právní pomoci. Vydání identifikačního průkazu advokátního koncipienta a náležitosti identifikačního průkazu advokátního koncipienta s výjimkou náležitostí, které jsou v seznamu advokátních koncipientů již zapsány, zaznamená Komora v seznamu advokátních koncipientů. Vzor, náležitosti a způsob používání identifikačního průkazu advokátního koncipienta stanoví prováděcí právní předpis; prováděcí právní předpis může též stanovit dobu platnosti identifikačního průkazu advokátního koncipienta. Pro identifikační průkazy advokátních koncipientů se použije § 5d odst. 3 a 4 obdobně.*
 >
 > *(3) Komora advokátního koncipienta ze seznamu advokátních koncipientů vyškrtne, zjistí-li, že nesplňuje některou z podmínek uvedených v odstavci 1 písm. a) až d).*
 >
 > *(4) Ten,*
 >
-> *- a) komu bylo uloženo kárné opatření vyškrtnutí ze seznamu advokátních koncipientů, je vyškrtnut […]*
+> *- a) komu bylo uloženo kárné opatření vyškrtnutí ze seznamu advokátních koncipientů, je vyškrtnut ze seznamu advokátních koncipientů ke dni právní moci rozhodnutí o uložení tohoto kárného opatření,*
 >
-> *- b) kdo podal Komoře písemnou žádost o vyškrtnutí […]*
+> *- b) kdo podal Komoře písemnou žádost o vyškrtnutí ze seznamu advokátních koncipientů, je vyškrtnut uplynutím kalendářního měsíce, ve kterém byla žádost Komoře doručena, nebo k pozdějšímu dni uvedenému v žádosti; podpis na žádosti v listinné podobě musí být úředně ověřen,*
 >
-> *- c) kdo byl zapsán do seznamu advokátů, je vyškrtnut […]*
+> *- c) kdo byl zapsán do seznamu advokátů, je vyškrtnut ze seznamu advokátních koncipientů dnem zápisu do seznamu advokátů,*
 >
-> *- d) kdo složil advokátní zkoušku, je vyškrtnut […] uplynutím šestého kalendářního měsíce následujícího po měsíci, ve kterém byla zkouška složena; […]*
+> *- d) kdo složil advokátní zkoušku, je vyškrtnut ze seznamu advokátních koncipientů uplynutím šestého kalendářního měsíce následujícího po měsíci, ve kterém byla zkouška složena; ustanovení písmen b) a c) tím není dotčeno,*
 >
-> *- e) komu skončil pracovní poměr […], je vyškrtnut […] ke dni skončení pracovního poměru.*
+> *- e) komu skončil pracovní poměr k advokátovi, usazenému evropskému advokátovi, ke společnosti nebo k zahraniční společnosti, je vyškrtnut ze seznamu advokátních koncipientů ke dni skončení pracovního poměru.*
 >
-> *(5) Advokátnímu koncipientovi, který podal Komoře písemnou žádost o pozastavení výkonu právní praxe advokátního koncipienta, je pozastaven výkon právní praxe […]. Advokátnímu koncipientovi je pozastaven výkon právní praxe, byl-li vzat do vazby, nastoupil-li výkon trestu odnětí svobody nebo byl-li mu uložen trest zákazu činnosti spočívající v zákazu výkonu právní praxe advokátního koncipienta.*
+> *(5) Advokátnímu koncipientovi, který podal Komoře písemnou žádost o pozastavení výkonu právní praxe advokátního koncipienta, je pozastaven výkon právní praxe advokátního koncipienta uplynutím kalendářního měsíce, ve kterém byla žádost Komoře doručena, nebo k pozdějšímu dni uvedenému v žádosti; podpis na žádosti v listinné podobě musí být úředně ověřen. Komora může pozastavit advokátnímu koncipientovi výkon právní praxe z důvodů uvedených v § 9 odst. 2 a 3. Advokátnímu koncipientovi je pozastaven výkon právní praxe, byl-li vzat do vazby, nastoupil-li výkon trestu odnětí svobody nebo byl-li mu uložen trest zákazu činnosti spočívající v zákazu výkonu právní praxe advokátního koncipienta.*
 >
 > *(6) V případě vyškrtnutí ze seznamu advokátních koncipientů nebo pozastavení výkonu právní praxe advokátního koncipienta se § 7b odst. 1 písm. a) až d) a g), § 7b odst. 2, § 8 odst. 3, § 8b odst. 1 písm. d), e), g) a h) a § 8b odst. 2, § 9 odst. 4, § 9a odst. 1 písm. a) a b) a § 9a odst. 2 písm. d) a § 9b použijí přiměřeně.*
 
@@ -906,11 +934,11 @@ Komora **může** (fakultativně) zřizovat **poradní orgány** — ty však ne
 >
 > *(3) Představenstvo svolává sněm tak, aby se sešel nejpozději do konce čtvrtého kalendářního roku od předchozího sněmu.*
 >
-> *(4) Představenstvo sněm svolá též tehdy, pokud o to písemně požádá v průběhu dvou kalendářních měsíců alespoň třetina všech advokátů nebo pokud o to požádá kontrolní rada. […]*
+> *(4) Představenstvo sněm svolá též tehdy, pokud o to písemně požádá v průběhu dvou kalendářních měsíců alespoň třetina všech advokátů nebo pokud o to požádá kontrolní rada. Představenstvo je v těchto případech povinno svolat sněm nejpozději do dvou měsíců; pokud tak představenstvo neučiní, je oprávněna svolat sněm kontrolní rada. Sněm musí být v těchto případech svolán tak, aby se sešel nejdříve do jednoho a nejpozději do tří měsíců ode dne svolání.*
 >
-> *(5) Sněm je schopný se unášet bez ohledu na počet zúčastněných advokátů. Usnesení sněmu je přijato, hlasovala-li pro něj nadpoloviční většina zúčastněných advokátů. […] K odvolání člena nebo náhradníka orgánů Komory postačí alespoň tři pětiny hlasů advokátů, kteří se zúčastnili hlasování o odvolání.*
+> *(5) Sněm je schopný se unášet bez ohledu na počet zúčastněných advokátů. Usnesení sněmu je přijato, hlasovala-li pro něj nadpoloviční většina zúčastněných advokátů. Při volbě členů a náhradníků orgánů Komory rozhoduje počet hlasů odevzdaných jednotlivým kandidátům advokáty, kteří se volby zúčastnili. K odvolání člena nebo náhradníka orgánů Komory postačí alespoň tři pětiny hlasů advokátů, kteří se zúčastnili hlasování o odvolání.*
 >
-> *(6) Sněm se svolává pozvánkou uveřejněnou ve Věstníku; […]*
+> *(6) Sněm se svolává pozvánkou uveřejněnou ve Věstníku; sněm je svolán dnem, který je uveden v záhlaví příslušné částky Věstníku jako den jejího zpřístupnění.*
 >
 > *(7) Sněm může přijímat usnesení i mimo zasedání v písemné formě nebo s využitím technických prostředků za podmínek stanovených jednacím řádem.*
 
@@ -978,7 +1006,7 @@ Sněm může přijímat usnesení i **mimo zasedání** (per rollam) — v píse
 >
 > *- g) projednávat a schvalovat zprávu o činnosti ostatních orgánů Komory,*
 >
-> *- h) rušit nebo měnit rozhodnutí představenstva, vyjma rozhodnutí podle § 44 odst. 3. […]*
+> *- h) rušit nebo měnit rozhodnutí představenstva, vyjma rozhodnutí podle § 44 odst. 3. Práva, která ze zrušeného rozhodnutí představenstva vznikla advokátům nebo jiným osobám, však nemohou být dotčena,*
 >
 > *- i) schvalovat volební řád (§ 49 odst. 2) a svůj jednací řád,*
 >
@@ -1046,9 +1074,9 @@ Volby se konají tajně, na základě rovného a přímého volebního práva (�
 >
 > *(4) Představenstvu dále přísluší*
 >
-> *- a) volit ze svých členů a odvolávat předsedu a místopředsedy Komory. […]*
+> *- a) volit ze svých členů a odvolávat předsedu a místopředsedy Komory. Jeden místopředseda volený z advokátů se sídlem v územní působnosti pobočky Komory dohlíží na činnost pobočky. Počet místopředsedů Komory určí organizační řád,*
 >
-> *- b) přijímat stavovské předpisy, vyjma stavovských předpisů, jejichž schválení podle tohoto zákona nebo usnesení sněmu přísluší sněmu. […]*
+> *- b) přijímat stavovské předpisy, vyjma stavovských předpisů, jejichž schválení podle tohoto zákona nebo usnesení sněmu přísluší sněmu. Pokud si však sněm vyhradil schválení stavovského předpisu přijatého představenstvem [§ 43 písm. i)], pozbude tento stavovský předpis platnosti, neschválí-li jej nejbližší sněm; práva, která z tohoto stavovského předpisu vznikla, však nemohou být dotčena,*
 >
 > *- c) vydávat Věstník,*
 >
@@ -1189,13 +1217,13 @@ Předseda je oprávněn činit **další opatření** dle ZA nebo stavovských p
 >
 > *(3) Kontrolní rada volí ze svých členů a odvolává předsedu kontrolní rady, a stanoví-li tak organizační řád, i místopředsedy kontrolní rady. Předseda kontrolní rady je oprávněn vystupovat v kárném řízení podle tohoto zákona jako kárný žalobce.*
 >
-> *(4) Kontrolní radě přísluší dohlížet na dodržování tohoto zákona, zvláštních právních předpisů včetně zákona o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu, pokud souvisejí s výkonem advokacie nebo s činností Komory, jakož i stavovských předpisů jinými orgány Komory, zaměstnanci Komory, advokáty, evropskými advokáty a advokátními koncipienty. […]*
+> *(4) Kontrolní radě přísluší dohlížet na dodržování tohoto zákona, zvláštních právních předpisů včetně zákona o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu, pokud souvisejí s výkonem advokacie nebo s činností Komory, jakož i stavovských předpisů jinými orgány Komory, zaměstnanci Komory, advokáty, evropskými advokáty a advokátními koncipienty. Advokáti, evropští advokáti a advokátní koncipienti jsou povinni předložit členům kontrolní rady veškeré jimi požadované písemnosti nebo jiné dokumenty vzniklé v souvislosti s poskytováním právních služeb nebo, není-li to dobře možné, umožnit členům kontrolní rady přístup k nim; stejnou povinnost mají jiné orgány Komory a zaměstnanci Komory, pokud jde o písemnosti nebo jiné dokumenty vzniklé v souvislosti s jejich činností.*
 >
-> *(5) Kontrolní rada plní úkoly Komory stanovené zákonem o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu a daňovým řádem; […]*
+> *(5) Kontrolní rada plní úkoly Komory stanovené zákonem o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu a daňovým řádem; podrobnosti o postupu kontrolní rady a o povinnostech advokátů vyplývajících z těchto zvláštních právních předpisů stanoví stavovský předpis.*
 >
 > *(6) Kontrolní rada rozhoduje o nahrazení souhlasu zástupce Komory k seznámení se s obsahem listin podle zákona upravujícího zpracování osobních údajů.*
 >
-> *(7) Má-li kontrolní rada za to, že rozhodnutí, vyjma rozhodnutí podle § 44 odst. 3, nebo jiné opatření představenstva, včetně jím přijatého stavovského předpisu, je v rozporu s právním předpisem nebo usnesením sněmu, je oprávněna jeho výkon pozastavit; […]*
+> *(7) Má-li kontrolní rada za to, že rozhodnutí, vyjma rozhodnutí podle § 44 odst. 3, nebo jiné opatření představenstva, včetně jím přijatého stavovského předpisu, je v rozporu s právním předpisem nebo usnesením sněmu, je oprávněna jeho výkon pozastavit; pozastavení však pozbude platnosti, pokud představenstvo pozastavené rozhodnutí potvrdí dvoutřetinovou většinou všech svých členů. Kontrolní rada je oprávněna pozastavit i výkon potvrzeného rozhodnutí; pozastaví-li takto potvrzené rozhodnutí, je povinna požádat současně představenstvo o svolání sněmu k rozhodnutí podle § 43 písm. g).*
 
 **Výklad:**
 
