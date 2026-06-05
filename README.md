@@ -31,6 +31,10 @@ V Části III (Evropský advokát) jsou některé dlouhé citace § 35f–35r v 
 
 Tento komentář **není autoritativním právním stanoviskem** ve smyslu § 4 odst. 1 OZ. Slouží jako orientační průvodce stavovským právem advokátů. Pro praktickou aplikaci je nutné ověřit aktuální znění a stavovské předpisy ČAK (advokátní řád, etický kodex). Sektor se mění (LegalTech, AML, transparence úschov).
 
+## Důvodová zpráva
+
+Původní **důvodová zpráva** k zákonu (z oficiálního sněmovního tisku Poslanecké sněmovny ČR) je k dispozici v souboru [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) — podklad pro historický a teleologický výklad jednotlivých ustanovení.
+
 ## Licence
 
 Tento projekt je open source a je licencován pod licencí **Apache License 2.0** — viz soubor [LICENSE](LICENSE).
