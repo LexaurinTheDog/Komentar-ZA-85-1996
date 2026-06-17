@@ -28,10 +28,10 @@ Numerace zde sleduje rubriky platného zákona o advokacii ke konsolidovanému z
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [30 Cdo 207/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9EFD1957AC494B00C125871000189D4A?openDocument) — 11. 5. 2021, kat. A
-  > „Nedostatek způsobilosti žalobce být účastníkem řízení v den jeho zahájení vede vždy k zastavení řízení a nemůže být zhojen cestou tzv. neodkladného úkonu za zemřelého. Jednání zmocněnce v takovém případě musí být činěno již jménem právních nástupců zůstavitele"
-- *NS* [11 Tvo 20/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C3D0EB5CFEA4DD59C1257EEB00365413?openDocument) — 20. 8. 2015, kat. A
+- *NS* [11 Tvo 20/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C3D0EB5CFEA4DD59C1257EEB00365413?openDocument) — kat. A, 20. 8. 2015
   > „Jestliže obviněný při uzavření dohody o ukončení právního zastoupení dá obhájci pokyn, aby ve věci již nečinil žádné další úkony, je povinností obhájce poučit jej o tom, že takový pokyn může odporovat znění § 37 odst. 2 tr. ř. a že ve smyslu ustanovení § 16 odst. 1 zákona č. 85/1996 Sb., o advokacii, ve znění pozdějších předpisů, jím nebude vázán. Ustanovení § 20 odst. 6 poslední věta zákona o advokacii se v takovém případě neuplatní (srov. rozhodnutí uveřejněné pod č. 32/2015-II. Sb. rozh. tr.)"
+- *NS* [30 Cdo 207/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9EFD1957AC494B00C125871000189D4A?openDocument) — kat. A, 11. 5. 2021
+  > „Nedostatek způsobilosti žalobce být účastníkem řízení v den jeho zahájení vede vždy k zastavení řízení a nemůže být zhojen cestou tzv. neodkladného úkonu za zemřelého. Jednání zmocněnce v takovém případě musí být činěno již jménem právních nástupců zůstavitele"
 
 #### Asymetrie výpovědního práva — klient × advokát
 
@@ -104,8 +104,8 @@ V trestní obhajobě se obdobné pravidlo aplikuje s ohledem na § 41 odst. 5 tr
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 Cdo 2797/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6D6CEC11C7093BA5C12587D9001B86B6?openDocument) — 12. 11. 2021, kat. A
-  > „Plní-li osoba, která má peněžitý závazek (dluh) vůči (insolvenčnímu) dlužníku, tento závazek (dluh) po prohlášení konkursu podle pokynů dlužníka tak, že peněžní prostředky poukáže (na úhradu dlužníkova dluhu) věřiteli dlužníka, pak tím ve smyslu ustanovení § 249 odst. 2 insolvenčního zákona plní (insolvenčnímu) dlužníku. Advokát, který se jako schovatel ve smlouvě o advokátní úschově peněz zavazuje (má zavázat) složiteli (klientu) k tomu, že se složenou částkou bude nakládat podle pokynů složitele tím, že ji vyplatí složiteli nebo jiné osobě určené složitelem, je povinen si před uzavřením takové smlouvy ověřit, zda je vedeno insolvenční řízení na majetek složitele a zda splnění tohoto závazku nebrání některý z účinků takového řízení. Vyjde-li na základě takového ověření najevo, že je sice vedeno insolvenční řízení na majetek složitele, avšak splnění závazku ze smlouvy o advokátní…"
+- *ÚS* [II.ÚS 889/10](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-889-10_1) — nález, 25. 11. 2010
+  > „Povinnost mlčenlivosti je základním předpokladem pro poskytování právní pomoci a tím i nezbytnou podmínkou fungování demokratické společnosti. Výkon profese advokáta vychází z důvěrného vztahu mezi advokátem a klientem a z důvěry klienta v mlčenlivost advokáta. Nejedná se o výsadu advokáta, která by měla založit vynětí z obecně platného a závazného právního řádu, ale jde o povinnost uloženou advokátovi v zájmu jeho klientů a pro jejich ochranu"
 
 #### Ústavněprávní ukotvení mlčenlivosti
 
@@ -266,17 +266,13 @@ Ustanovení promítá obecné pravidlo zákona č. 235/2004 Sb., o dani z přida
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 ICdo 12/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AD92917475B1DABCC12588230015FEE4?openDocument) — 31. 1. 2022, kat. A
-  > „V rozsahu nezbytném pro řízení o odpůrčí žalobě, kterou se insolvenční správce domáhá vůči advokátu určení neúčinnosti právního jednání, jímž mu insolvenční dlužník (klient nebo jeho právní nástupce) uhradil pohledávku z titulu odměny za zastupování a za poskytnuté právní rady a služby, a (současně) zaplacení (vrácení) poskytnutého plnění do majetkové podstaty, není advokát vázán povinností mlčenlivosti ve smyslu ustanovení § 21 odst. 4 zákona o advokacii se takový spor považuje za spor (o úhradu palmáre) mezi advokátem a klientem nebo právním nástupcem klienta. Úprava obsažená v § 111 insolvenčního zákona se uplatní bez omezení i na právní jednání, jímž dlužník (klient) poté, co nastaly účinky spojené se zahájením insolvenčního řízení, a před rozhodnutím o úpadku uhradil svému advokátu pohledávku z titulu odměny za zastupování a za poskytnuté právní rady a služby. Lze-li na základě…"
-- *NS* [25 Cdo 2429/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C537262C366EC138C125831A00265AFA?openDocument) — 25. 7. 2018, kat. A
-  > „Ztráta sexuálních funkcí (tj. nemožnost plození a soulože) není novým následkem původního poškození zdraví dítěte útlého věku, jenž se projevil později a nemohl být původně předvídán, ani nepředstavuje změnu (zhoršení) zdravotního stavu, a tedy není důvod vyčleňovat náhradu za ztrátu sexuálních funkcí z celkového odškodnění ztížení společenského uplatnění do doby dovršení zletilosti, jestliže vzhledem k ustálenému zdravotnímu stavu bylo v době původního řízení zřejmé, že tyto funkce jsou pro poškozeného do budoucna ztraceny"
-- *NS* [25 Cdo 347/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6C88BC87DEA71F1CC125826A003C2AA1?openDocument) — 20. 12. 2017, kat. A
-  > „Neodpovídá-li advokátem sepsaný text smlouvy o půjčce skutečnému průběhu realizace půjčky, nelze právní služby advokáta (výkon advokacie) omezit jen na samotný sepis smlouvy a ve sporu o náhradu škody způsobené advokátem je třeba posoudit i případný nedostatek poučení klienta o právních důsledcích okolnosti, že v rozporu s textem smlouvy nebyly peníze řádně předány, že závazkový vztah dosud nevznikl a jeho vznik bude závislý na dalším postupu stran"
-- *NS* [25 Cdo 4009/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4DF4E4E858E5D37AC1257DEA00358C94?openDocument) — 6. 1. 2015, kat. A
+- *NS* [25 Cdo 4009/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4DF4E4E858E5D37AC1257DEA00358C94?openDocument) — kat. A, 6. 1. 2015
   > „Pro posouzení odpovědnosti advokáta za škodu podle § 24 odst. 1 zákona o advokacii není rozhodující, zda právní služba byla advokátem poskytnuta za odměnu podstatné je, zda šlo o vadný výkon advokacie"
-- *NS* [25 Cdo 3672/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E0A540D0EE34A3A1C1257C9F0031F67D?openDocument) — 26. 2. 2014, kat. A
+- *NS* [25 Cdo 347/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6C88BC87DEA71F1CC125826A003C2AA1?openDocument) — kat. A, 20. 12. 2017
+  > „Neodpovídá-li advokátem sepsaný text smlouvy o půjčce skutečnému průběhu realizace půjčky, nelze právní služby advokáta (výkon advokacie) omezit jen na samotný sepis smlouvy a ve sporu o náhradu škody způsobené advokátem je třeba posoudit i případný nedostatek poučení klienta o právních důsledcích okolnosti, že v rozporu s textem smlouvy nebyly peníze řádně předány, že závazkový vztah dosud nevznikl a jeho vznik bude závislý na dalším postupu stran"
+- *NS* [25 Cdo 3672/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E0A540D0EE34A3A1C1257C9F0031F67D?openDocument) — kat. A, 26. 2. 2014
   > „Škoda spočívající v nedobytnosti pohledávky pro její promlčení nevzniká již uplynutím promlčecí doby, nýbrž okamžikem, kdy je vzhledem k okolnostem případu nepochybné, že dlužník dobrovolně plnit odmítá a neuspokojená pohledávka je soudně nevymahatelná, bez ohledu na to, zda o ní probíhá soudní řízení"
-- *NS* [25 Cdo 520/2009](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D7384D415495D9A1C1257A4E0067AED6?openDocument) — 23. 8. 2011, kat. A
+- *NS* [25 Cdo 520/2009](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D7384D415495D9A1C1257A4E0067AED6?openDocument) — kat. A, 23. 8. 2011
   > „Jestliže byla smlouva o poskytování právních služeb uzavřena mezi podnikatelem a advokátem a jestliže při vzniku tohoto závazkového vztahu bylo zřejmé s přihlédnutím ke všem okolnostem, že se týká podnikatelské činnosti klienta, řídí se promlčení práva na náhradu škody způsobené advokátem při výkonu advokacie obchodním zákoníkem"
 
 #### Konstrukce odpovědnosti — objektivní s omezenou liberací
@@ -440,7 +436,7 @@ Tato čtveřice paragrafů transformuje advokátní úřad ve **plně digitalizo
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [27 Cdo 3120/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7E49D15A6C687948C1258C1F0052950B?openDocument) — 8. 1. 2025, kat. A
+- *NS* [27 Cdo 3120/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7E49D15A6C687948C1258C1F0052950B?openDocument) — kat. A, 8. 1. 2025
   > „Pro posouzení, zda smlouva o převodu podílu byla opatřena „úředním ověřením podpisu“ společníka ve smyslu § 209 odst. 2 z. o. k., respektive jej nahrazujícím prohlášením o pravosti podpisu podle § 25a zákona o advokacii, není významné, že advokát, jenž takto ověřil podpis zástupce společníka, byl současně zástupcem nabyvatele. Absence úředního ověření podpisu na smlouvě o převodu podílu nenarušuje veřejný pořádek a nezakládá tak její absolutní neplatnost"
 
 ---
@@ -526,7 +522,7 @@ V případě smrti advokáta soud (nikoli Komora) jmenuje **správce části poz
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [23 Cdo 62/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/47BBB9CCE5A558A1C12585EC0018AF8C?openDocument) — 24. 6. 2020, kat. A
+- *NS* [23 Cdo 62/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/47BBB9CCE5A558A1C12585EC0018AF8C?openDocument) — kat. A, 24. 6. 2020
   > „Skutečnost, že sporu mezi advokáty nebo advokátními koncipienty nepředcházelo smírčí řízení podle § 28 zákona o advokacii, není důvodem k zastavení řízení o žalobě podle § 104 o. s. ř. nejde o podmínku řízení ve smyslu § 103 o. s. ř"
 
 #### Korporativní samoregulace sporů
@@ -687,6 +683,11 @@ Porušení této povinnosti je **kárným proviněním advokáta-zaměstnavatele
 > *(8) Pro ukládání kárného opatření se použijí přiměřeně ustanovení trestního zákoníku upravující úhrnný a souhrnný trest a ukládání společného trestu za pokračování v trestném činu.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II.ÚS 1295/11](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1295-11_1) — usnesení, 7. 6. 2011
+  > „Nad dodržováním těchto a řady dalších pravidel vymezených uvedeným zákonem nicméně nedohlíží stát, nýbrž samosprávná stavovská organizace advokátů, kterou je Česká advokátní komora, a to v rámci kárného řízení dle § 32 odst. 2 zákona č. 85/1996 Sb"
 
 #### Pojem kárného provinění (odst. 2) — dvojí kvantifikátor
 

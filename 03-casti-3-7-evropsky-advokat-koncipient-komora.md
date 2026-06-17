@@ -393,7 +393,7 @@ Evropský advokát ve všech těchto případech zastupování **smí poskytovat
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [8 Tz 60/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B89298971747C81AC12588CE00160396?openDocument) — 13. 7. 2022, kat. A
+- *NS* [8 Tz 60/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B89298971747C81AC12588CE00160396?openDocument) — kat. A, 13. 7. 2022
   > „Obhájcem v trestním řízení podle § 35 odst. 1 tr. ř. nemůže být usazený evropský advokát, dokud po dohodě s obviněným neustanoví advokáta jako svého konzultanta v otázkách procesního práva podle § 35p odst. 1 zákona o advokacii a dokud neoznámí soudu nebo jinému orgánu činnému v trestním řízení adresu sídla konzultanta podle § 35p odst. 2 zákona o advokacii"
 
 #### Institut konzultanta — kompromis mezi otevřením a ochranou
@@ -694,7 +694,7 @@ Seznam advokátních koncipientů je jedním ze čtyř hlavních seznamů veden�
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [32 Cdo 583/2010](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/992D8CDB01160797C1257A4E0066A87C?openDocument) — 25. 1. 2012, kat. A
+- *NS* [32 Cdo 583/2010](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/992D8CDB01160797C1257A4E0066A87C?openDocument) — kat. A, 25. 1. 2012
   > „Absolvent Policejní akademie České republiky v Praze oboru policejní management a kriminalistika nesplňuje podmínku získání vysokoškolského vzdělání v rámci magisterského studijního programu v oblasti práva uvedenou v ustanovení § 37 odst. 1 písm. b) zákona č. 85/1996 Sb., o advokacii (ve znění účinném do 31. srpna 2009) pro zápis do seznamu advokátních koncipientů vedeného Českou advokátní komorou"
 
 #### Pět kumulativních podmínek zápisu (odst. 1)
@@ -763,6 +763,11 @@ Pozastavení výkonu praxe je dočasným zánikem oprávnění koncipienta vykon
 > *(3) Při výkonu právní praxe je koncipient povinen postupovat v souladu s tímto zákonem a stavovskými předpisy. Advokátní koncipient je povinen absolvovat vzdělávací akce, které stanoví Komora stavovským předpisem jako součást právní praxe; účast na těchto vzdělávacích akcích se považuje za výkon práce.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [9 As 6/2013 - 26](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/629453) — 23. 10. 2013
+  > „… advokátním koncipientem příslušné advokátky, tj. jejím zaměstnancem, který u této advokátky vykonával právní praxi, jejímž cílem je podle § 38 odst. 1 zákona č. 85/1996 Sb., o advokacii získat pod vedením a dohledem advokáta znalosti a osvojit si zkušenosti potřebné k výkonu advokacie. To nepochybně nevylučuje, aby byl touto advokátkou substitučně pověřen k určitým úkonům, nicméně zvoleným zástupcem zůstává … advokátka, která také … za poskytnuté právní služby odpovídá"
 
 #### Účel a cíl koncipientské praxe (odst. 1)
 
@@ -1236,6 +1241,11 @@ Předseda je oprávněn činit **další opatření** dle ZA nebo stavovských p
 > *(7) Má-li kontrolní rada za to, že rozhodnutí, vyjma rozhodnutí podle § 44 odst. 3, nebo jiné opatření představenstva, včetně jím přijatého stavovského předpisu, je v rozporu s právním předpisem nebo usnesením sněmu, je oprávněna jeho výkon pozastavit; pozastavení však pozbude platnosti, pokud představenstvo pozastavené rozhodnutí potvrdí dvoutřetinovou většinou všech svých členů. Kontrolní rada je oprávněna pozastavit i výkon potvrzeného rozhodnutí; pozastaví-li takto potvrzené rozhodnutí, je povinna požádat současně představenstvo o svolání sněmu k rozhodnutí podle § 43 písm. g).*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 29/2000](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-29-2000) — nález, 20. 2. 2001
+  > „Pojistku stejného typu v návaznosti na § 46 odst. 4 zákona o advokacii, k textu za středníkem, nabízí podle názoru Ústavního soudu ustanovení § 33 odst. 5, 6 zákona o advokacii. … povinnosti mlčenlivosti se advokát nemůže dovolávat v kárném řízení, jakož i vůči advokátovi, který byl pověřen předsedou kontrolní rady provedením přípravných úkonů k prověření, zda došlo ke kárnému provinění (§ 33 odst. 3 a § 46 odst. 4 za středníkem zákona o advokacii). … musel by respektovat požadavek výkladu zákona, tedy výkladu jen ústavně konformního"
 
 #### Kontrolní rada jako interní dohled
 

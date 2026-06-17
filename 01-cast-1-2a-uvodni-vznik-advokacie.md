@@ -18,8 +18,10 @@
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [32 Cdo 3532/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/88213E1139559509C1257F4C00364B96?openDocument) — 23. 11. 2015, kat. A
+- *NS* [32 Cdo 3532/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/88213E1139559509C1257F4C00364B96?openDocument) — kat. A, 23. 11. 2015
   > „Výkon funkce správce konkursní podstaty advokátem nelze považovat za výkon advokacie podle ustanovení § 1 zákona č. 85/1996 Sb., o advokacii, ve znění účinném do 31. 12. 2007"
+- *ÚS* [III.ÚS 555/06](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-555-06_1) — nález, 31. 1. 2007
+  > „…považovat za výkon advokacie ve smyslu ustanovení § 1 odst. 1 zákona č. 85/1996 Sb., o advokacii, ve znění pozdějších předpisů, v němž se za poskytování právních služeb považuje i činnost opatrovníka pro řízení podle zvláštního předpisu, je-li vykonávána advokátem"
 
 #### Dvojí předmět úpravy (odst. 1)
 
@@ -86,8 +88,10 @@ Druhá věta odst. 2 byla vložena novelou č. 79/2006 Sb. v reakci na pochybnos
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [5 Tdo 409/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FC8F7DB182745C1AC1258BA2004D3B6B?openDocument) — 30. 5. 2024, kat. A
-  > „Doručování, Rozsudek, Opatrovník § 64 odst. 5 písm. a), § 130 odst. 2 tr. ř., § 34 odst. 8 t. o. p. o. I. Rozsudek se podle § 34 odst. 8 t. o. p. o. a § 130 odst. 2 tr. ř. doručuje jak obviněné právnické osobě, tak i jejímu opatrovníkovi, byl-li jí určen. Obviněné právnické osobě, která je nefunkční, nemá statutární orgán ani zaměstnance a nikdo za ni nejedná, postačí doručení opatrovníkovi. Neoprávněné podnikání § 251 odst. 1 tr. zákoníku, § 2 odst. 2 písm. b) zákona č. 85/1996 Sb., o advokacii, ve znění pozdějších předpisů II. Přečinu neoprávněného podnikání podle § 251 odst. 1 tr. zákoníku se za splnění dalších podmínek dopustí i pachatel, který v rozporu s § 2 odst. 2 písm. b) zákona č. 85/1996 Sb., o advokacii, ve znění pozdějších předpisů, jako zaměstnanec družstva poskytuje právní služby nejen družstvu, ale i jeho členům, zejména bylo-li družstvo založeno právě s cílem…"
+- *NSS* [42 A 21/2023 - 35](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/739102) — 29. 1. 2025
+  > „Uvedená činnost je svěřena v nejširším rozsahu advokátům; v užším rozsahu též notářům, soudním exekutorům, patentovým zástupcům, daňovým poradcům, popř. dalším subjektům (srov. výčet uvedený v § 2 zákona č. 85/1996 Sb.)"
+- *NSS* [6 A 84/2016 - 49](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/415950) — 17. 6. 2020
+  > „…poskytl-li daňový poradce za úplatu činnost, jejíž podstatou je poskytování právní pomoci ve správním (tj. jiném než daňovém) řízení, pak k jejímu poskytnutí nebyl oprávněn, neboť dle ust. § 2 odst. 1 zákona č. 85/1996 Sb., o advokacii, ve znění pozdějších předpisů, takové oprávnění svědčí pouze tam vyjmenovaným subjektům, především advokátům"
 
 #### Tři okruhy oprávněných subjektů (odst. 1 a 2)
 
@@ -190,6 +194,11 @@ V této souvislosti je třeba upozornit na **nález Pl.ÚS 32/25** (publikovaný
 > *(3) Ustanovením odstavce 2 není dotčeno omezení rozsahu oprávnění advokátů poskytovat právní služby stanovené tímto zákonem (§ 5a odst. 2).*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS-st. 42/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=St-42-15_1) — 8. 10. 2015
+  > „Předně, smyslem zastoupení advokátem není zaručovat klientovi objektivitu (to je úkolem soudu), nýbrž chránit a prosazovat práva a oprávněné zájmy svého klienta a poslouchat jeho příkazy (§ 3 odst. 1 a § 16 odst. 1 zákona č. 85/1996 Sb., o advokacii, ve znění zákona č. 79/2006 Sb.)"
 
 #### Nezávislost advokáta (odst. 1) — ústavní princip
 
@@ -294,6 +303,11 @@ Tento třípilířový systém byl předmětem **Pl.ÚS 4/19** (zachování př�
 > *Advokátem je ten, kdo je zapsán v seznamu advokátů vedeném Českou advokátní komorou (dále jen „Komora").*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [1 Ads 93/2015 - 19](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/635575) — 5. 8. 2015
+  > „Advokátem ve smyslu českých procesních předpisů je totiž třeba dle § 4 zákona č. 85/1996 Sb. o advokacii rozumět toho, kdo je zapsán v seznamu advokátů vedeném Českou advokátní komorou"
 
 #### Formálně-statusová definice
 
@@ -896,6 +910,11 @@ Komora zaznamená vyškrtnutí **bez odkladu, nejpozději do 1 měsíce** od chv
 > *(3) Vyškrtnutí ze seznamu advokátů zaznamená Komora v seznamu advokátů bez odkladu, nejpozději však do jednoho měsíce poté, co se rozhodnutí o vyškrtnutí stalo vykonatelným.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [4 Ads 126/2009 - 94](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/616926) — 6. 11. 2009
+  > „Ohrožení důvěry v řádný výkon advokacie, jako jedna z podmínek pro vyškrtnutí advokáta ze seznamu advokátů vedeného Českou advokátní komorou z důvodu podle § 8 odst. 1 písm. c) zákona č. 85/1996 Sb., o advokacii, musí být vyvoláno konkrétní trestnou činností tohoto advokáta, za kterou byl pravomocně odsouzen"
 
 #### Pět důvodů vyškrtnutí na základě rozhodnutí Komory (odst. 1)
 
@@ -1762,14 +1781,14 @@ Pokud byl spolupracující advokát **určen Komorou** (§ 18 a násl.) nebo **u
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 Cdo 2797/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6D6CEC11C7093BA5C12587D9001B86B6?openDocument) — 12. 11. 2021, kat. A
-  > „Plní-li osoba, která má peněžitý závazek (dluh) vůči (insolvenčnímu) dlužníku, tento závazek (dluh) po prohlášení konkursu podle pokynů dlužníka tak, že peněžní prostředky poukáže (na úhradu dlužníkova dluhu) věřiteli dlužníka, pak tím ve smyslu ustanovení § 249 odst. 2 insolvenčního zákona plní (insolvenčnímu) dlužníku. Advokát, který se jako schovatel ve smlouvě o advokátní úschově peněz zavazuje (má zavázat) složiteli (klientu) k tomu, že se složenou částkou bude nakládat podle pokynů složitele tím, že ji vyplatí složiteli nebo jiné osobě určené složitelem, je povinen si před uzavřením takové smlouvy ověřit, zda je vedeno insolvenční řízení na majetek složitele a zda splnění tohoto závazku nebrání některý z účinků takového řízení. Vyjde-li na základě takového ověření najevo, že je sice vedeno insolvenční řízení na majetek složitele, avšak splnění závazku ze smlouvy o advokátní…"
-- *NS* [23 Cdo 1858/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/64F83D306FA34476C12585D500188732?openDocument) — 27. 5. 2020, kat. A
-  > „Advokát, který zastupuje oprávněného při vymáhání pohledávky v exekuci, je povinen pravidelně ověřovat v insolvenčním rejstříku, zda nebylo zahájeno insolvenční řízení na majetek povinného. Vyjde-li v průběhu exekučního řízení najevo, že ve vztahu k majetku povinného bylo zahájeno insolvenční řízení, je advokát povinen konzultovat s oprávněným další postup nebo zajistit práva oprávněného přihlášením vymáhané pohledávky do insolvenčního řízení"
-- *NS* [25 Cdo 347/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6C88BC87DEA71F1CC125826A003C2AA1?openDocument) — 20. 12. 2017, kat. A
+- *NS* [25 Cdo 347/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6C88BC87DEA71F1CC125826A003C2AA1?openDocument) — kat. A, 20. 12. 2017
   > „Neodpovídá-li advokátem sepsaný text smlouvy o půjčce skutečnému průběhu realizace půjčky, nelze právní služby advokáta (výkon advokacie) omezit jen na samotný sepis smlouvy a ve sporu o náhradu škody způsobené advokátem je třeba posoudit i případný nedostatek poučení klienta o právních důsledcích okolnosti, že v rozporu s textem smlouvy nebyly peníze řádně předány, že závazkový vztah dosud nevznikl a jeho vznik bude závislý na dalším postupu stran"
-- *NS* [11 Tvo 20/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C3D0EB5CFEA4DD59C1257EEB00365413?openDocument) — 20. 8. 2015, kat. A
+- *NS* [23 Cdo 1858/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/64F83D306FA34476C12585D500188732?openDocument) — kat. A, 27. 5. 2020
+  > „Advokát, který zastupuje oprávněného při vymáhání pohledávky v exekuci, je povinen pravidelně ověřovat v insolvenčním rejstříku, zda nebylo zahájeno insolvenční řízení na majetek povinného. Vyjde-li v průběhu exekučního řízení najevo, že ve vztahu k majetku povinného bylo zahájeno insolvenční řízení, je advokát povinen konzultovat s oprávněným další postup nebo zajistit práva oprávněného přihlášením vymáhané pohledávky do insolvenčního řízení"
+- *NS* [11 Tvo 20/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C3D0EB5CFEA4DD59C1257EEB00365413?openDocument) — kat. A, 20. 8. 2015
   > „Jestliže obviněný při uzavření dohody o ukončení právního zastoupení dá obhájci pokyn, aby ve věci již nečinil žádné další úkony, je povinností obhájce poučit jej o tom, že takový pokyn může odporovat znění § 37 odst. 2 tr. ř. a že ve smyslu ustanovení § 16 odst. 1 zákona č. 85/1996 Sb., o advokacii, ve znění pozdějších předpisů, jím nebude vázán. Ustanovení § 20 odst. 6 poslední věta zákona o advokacii se v takovém případě neuplatní (srov. rozhodnutí uveřejněné pod č. 32/2015-II. Sb. rozh. tr.)"
+- *ÚS* [II.ÚS 913/09](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-913-09_1) — nález, 4. 8. 2010
+  > „Podobně advokát je podle § 16 zákona č. 85/1996 Sb., o advokacii, povinen chránit a prosazovat práva a oprávněné zájmy klienta a řídit se jeho pokyny, jimiž není vázán jen, jsou-li v rozporu s právním nebo stavovským předpisem, přičemž je advokát povinen jednat čestně a svědomitě; je povinen využívat důsledně všechny zákonné prostředky a v jejich rámci uplatnit v zájmu klienta vše, co podle svého přesvědčení pokládá za prospěšné"
 
 #### Loyalty princip a jeho meze (odst. 1)
 
@@ -1809,6 +1828,13 @@ Druhý odstavec formuluje **standard kvality výkonu advokacie**:
 > *Advokát postupuje zejména při výkonu advokacie tak, aby nesnižoval důstojnost advokátního stavu; za tím účelem je zejména povinen dodržovat pravidla profesionální etiky a pravidla soutěže. Výkon politických práv tím není dotčen. Pravidla profesionální etiky a pravidla soutěže stanoví stavovský předpis.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 A 138/2023 - 52](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/723963) — 20. 6. 2024
+  > „Zatím co závazek ctít právo, tj. dodržovat ústavní předpisy a další zákony, je předpokladem zcela zásadním, potom svědomité a čestné plnění povinností advokáta je vyjádřením zásady právnické etiky (srov. § 16 odst. 2, § 17 zákona č. 85/1996 Sb. o tom, že „při výkonu advokacie je advokát povinen jednat čestně a svědomitě …“ a že „… při výkonu advokacie postupuje tak, aby nesnižoval důstojnost advokátního stavu; za tím účelem je zejména povinen dodržovat pravidla profesionální etiky…“)"
+- *ÚS* [III.ÚS 594/07](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-594-07_1) — nález, 23. 10. 2007
+  > „…čl. 10 odst. 1 Pravidel profesionální etiky a Pravidel soutěže advokátů České republiky, která je každý advokát povinen podle § 17 zákona č. 85/1996 Sb., o advokacii, dodržovat, podle něhož je advokát při sjednávání smluvní odměny povinen klientovi poskytnout pravdivé informace o očekávaném rozsahu svých výkonů a na jeho žádost i úplné vysvětlení o výši mimosmluvní odměny"
 
 #### Důstojnost stavu jako abstraktní rámec
 
@@ -2018,8 +2044,8 @@ Cíl: **rovnoměrné rozdělování** povinnosti právní pomoci mezi advokáty 
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [27 Cdo 3120/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7E49D15A6C687948C1258C1F0052950B?openDocument) — 8. 1. 2025, kat. A
-  > „Pro posouzení, zda smlouva o převodu podílu byla opatřena „úředním ověřením podpisu“ společníka ve smyslu § 209 odst. 2 z. o. k., respektive jej nahrazujícím prohlášením o pravosti podpisu podle § 25a zákona o advokacii, není významné, že advokát, jenž takto ověřil podpis zástupce společníka, byl současně zástupcem nabyvatele. Absence úředního ověření podpisu na smlouvě o převodu podílu nenarušuje veřejný pořádek a nezakládá tak její absolutní neplatnost"
+- *NSS* [8 Ad 21/2017 - 44](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/596771) — 10. 2. 2021
+  > „…ustanovení § 19 odst. 1 písm. a) zákona č. 85/1996 Sb., o advokacii, předchází již jen potenciálnímu střetu zájmů, který by mohl sám o sobě znehodnotit vztah důvěry mezi advokátem a jeho klientem. Pro jeho porušení je tedy nerozhodné, zda při poskytnutí právních služeb dvěma subjektům s vzájemně rozpornými zájmy reálně došlo ke zvýhodnění jednoho nebo druhého subjektu, či nikoliv"
 
 #### Princip kolize zájmů — jeden z pilířů profesní etiky
 

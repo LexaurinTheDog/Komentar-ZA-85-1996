@@ -1007,6 +1007,13 @@ Advokát určený podle § 18a nebo 18b je povinen poskytnout právní službu *
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [3 Ads 98/2007 - 37](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/610977) — 6. 3. 2008
+  > „V žádném z případů uvedených v ust. § 55b odst. 1 zákona o advokacii […] žalovaná, i když vykonává veřejnou správu na úseku advokacie (§ 40 odst. 3 zákona o advokacii), nevydává správní rozhodnutí, které by bylo možno přezkoumat soudem ve správním soudnictví. Případy uvedené v ust. § 55b odst. 1 zákona o advokacii se týkají především provedení (resp. neprovedení) zápisu do seznamu advokátních koncipientů, do seznamu advokátů a do seznamu evropských advokátů, tedy provedení faktického úkonu. […] Stejně tak žalovaná nevydává žádné správní rozhodnutí, jestliže neumožní vykonat zkoušky uvedené v písm. c) nebo neumožní složení slibu podle písm. d)"
+- *NSS* [Konf 28/2014 - 55](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/643133) — 1. 8. 2017
+  > „Práva uvedená v § 55b odst. 1 zákona č. 85/1996 Sb., o advokacii […], jsou veřejnými subjektivními právy, avšak žalobu pro tvrzené porušení těchto práv projednává a rozhoduje o ní okresní (obvodní) soud v občanském soudním řízení (§ 7 odst. 3 o. s. ř.). V souvislosti s přijetím soudního řádu správního nedošlo […] ke změně výkladu uvedeného ustanovení. K projednání a rozhodnutí o žalobě toho, kdo nebyl ve lhůtě stanovené zákonem o advokacii zapsán do seznamu advokátních koncipientů, je proto věcně příslušný soud jednající v občanském soudním řízení"
+
 #### Soudní ochrana proti nečinnosti a vadnému postupu Komory
 
 § 55b vybavuje uchazeče a advokáty **přímou cestou k soudu** v případech, kdy Komora není činná nebo postupuje v rozporu se zákonem. Jde o specifickou cestu ochrany subjektivních veřejných práv vůči samosprávné komoře.
@@ -1168,6 +1175,11 @@ Standardizovaný obsah průkazu: jméno, ev. číslo, fotografie, datum narozen�
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [8 As 9/2007 - 74](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/612024) — 10. 6. 2008
+  > „Místem pro doručování písemností advokátu je v souladu s § 55e zákona č. 85/1996 Sb., o advokacii, ve znění pozdějších předpisů, sídlo advokáta. […] Nejvyšší správní soud rovněž připomíná, že řádně provedené uložení nemůže být v případě doručování advokátu prohlášeno za neúčinné, neboť u advokáta se vždy předpokládá, že se v místě doručení zdržuje"
+
 #### Doručovací adresa — sídlo advokáta
 
 Komora doručuje advokátovi do jeho **sídla** zapsaného v seznamu advokátů (§ 13 ZA — sídlo je obligatorní údaj). Pro **hostující evropské advokáty** se doručuje do místa dle § 35j odst. 1 (jejich českého kontaktního místa). Pro **koncipienty** se doručuje do sídla advokáta, k němuž je v pracovním poměru.
@@ -1282,6 +1294,13 @@ Poslední kategorie odráží **federální kontinuitu** — do rozdělení ČSF
 - ČSR (1918–1960, resp. jejich předchůdci — Karlova univerzita do 1918, Univerzita Komenského od 1919 atd.).
 
 Toto pravidlo se v praxi týká zejména **slovenských absolventů z období ČSFR**, kteří chtějí v ČR působit. Po 1. 1. 1993 vzdělání získané v SR formálně už není „české" — uplatňuje se režim **uznávání zahraničního vzdělání** dle zákona č. 111/1998 Sb., o vysokých školách a smlouvy mezi ČR a SR o vzájemném uznávání rovnocennosti dokladů o vzdělání.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [3 Ads 30/2006 - 49](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/249868) — 18. 4. 2007
+  > „Absolvováním této fakulty […] stěžovatel nezískal univerzální právní vzdělání ve všech oborech práva a nevyhovuje tak nárokům stanoveným v ust. § 5 odst. 1 písm. b) zákona č. 85/1996 Sb. pro výkon advokacie, jejímž obsahem je právní pomoc v nejširším rozsahu a ve všech právních odvětvích. V daném případě nelze aplikovat ust. § 61 zákona č. 85/1996 Sb., neboť […] studium na Fakultě Veřejné bezpečnosti Vysoké školy Sboru národní bezpečnosti nelze považovat za studium na právnické fakultě, a to nejen z formálního, ale i obsahového (tj. materiálněprávního) hlediska"
+- *ÚS* [III.ÚS 195/99](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-195-99) — usnesení, 17. 6. 1999
+  > „Tímto vzděláním se ve smyslu § 5 odst. 1 písmeno b) a § 61 zákona č. 85/1996 Sb. rozumí právě vysokoškolské vzdělání získané na právnické fakultě vysoké školy se sídlem v České republice nebo vysokoškolské vzdělání získané na právnické fakultě vysoké školy se sídlem na území ČSFR nebo jejich právních předchůdců. […] podmínku právnického vzdělání podle § 241 o.s.ř. splňuje též dovolatel s nostrifikovaným zahraničním vysokoškolským právnickým vzděláním"
 
 ---
 
