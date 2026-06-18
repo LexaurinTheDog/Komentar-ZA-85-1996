@@ -70,6 +70,43 @@ V trestní obhajobě se obdobné pravidlo aplikuje s ohledem na § 41 odst. 5 tr
 
 > **Srovnání:** Notářský řád (§ 14 odst. 1 NotŘ) zná obdobnou povinnost; daňový poradce dle zákona č. 523/1992 Sb. má méně přísně formulovanou povinnost informovat klienta a předat podklady, advokátní úprava je však výrazně preciznější s ohledem na riziko procesního poškození klienta.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Advokát A zastupuje žalovaného M ve sporu o zaplacení 800 000 Kč; běží lhůta k podání odvolání proti rozsudku I. stupně. Klient M přestane reagovat na výzvy, nepředá potřebné podklady a nezaplatí přiměřenou zálohu, o niž byl písemně požádán. A se rozhodne smlouvu vypovědět pro narušení nezbytné důvěry a nesložení zálohy (odst. 2, 3). Tři dny před koncem odvolací lhůty doručí klientovi výpověď e-mailem. Důkazy: smlouva o poskytování právních služeb, písemná výzva k záloze, výpověď s doručenkou, doklad o lhůtě k odvolání.
+
+**2. Právní otázka.** Zbavuje výpověď smlouvy advokáta povinnosti podat odvolání v běžící lhůtě, nebo jej tíží povinnost neodkladných úkonů podle § 20 odst. 6?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 20 odst. 2 a 3 (fakultativní výpovědní důvody), § 20 odst. 6 (patnáctidenní povinnost neodkladných úkonů).
+- *Související ustanovení téhož zákona:* § 16 odst. 1 (pokyny klienta), § 19 (důvody odmítnutí), § 24 odst. 1 (odpovědnost za újmu), § 26 (substituce).
+- *Související předpisy:* § 41 odst. 5 trestního řádu (přiměřeně k obhajobě), § 1746 a § 580 občanského zákoníku.
+- *Judikatura:* NS 11 Tvo 20/2015 (poučovací povinnost obhájce o tom, že není vázán pokynem nečinit úkony, a o neuplatnění § 20 odst. 6 v takovém případě); NS 30 Cdo 207/2021 (meze institutu neodkladného úkonu).
+
+**4. Subsumpce.** Narušení důvěry a nesložení zálohy zakládají výpovědní důvody (odst. 2, 3). Tím však nezaniká povinnost dle odst. 6 — A musí 15 dnů činit neodkladné úkony, aby M neutrpěl újmu; podání odvolání v hrozící lhůtě je typickým neodkladným úkonem. Klient se této ochrany nevzdal.
+
+**5. Řešení.** A je povinen ve lhůtě podat alespoň blanketní odvolání (nebo zajistit jeho podání), ledaže mu M výslovně sdělí, že na plnění netrvá. Opomenutí by založilo odpovědnost dle § 24 odst. 1 (ztráta opravného prostředku). Procesní krok: podat odvolání, klienta písemně poučit o lhůtě a o ukončení zastoupení.
+
+**6. Varianty.** (a) Pokud M dá výslovný pokyn, aby A již nečinil žádné úkony, povinnost dle odst. 6 odpadá (srov. NS 11 Tvo 20/2015). (b) Pokud by šlo o dodatečně zjištěný střet zájmů dle § 19, výpověď by byla obligatorní (odst. 1), avšak povinnost neodkladných úkonů by trvala stejně.
+
+#### G. Protiargumenty a rizika
+
+- *„Výpovědí vztah skončil, žádná povinnost netrvá."* Odst. 6 výslovně ukládá povinnost činit neodkladné úkony 15 dnů po zániku smlouvy „z jakéhokoli důvodu"; neutralizace: doložit, že klient se ochrany výslovně nevzdal.
+- *„Klient nezaplatil zálohu, nejsem povinen pracovat zdarma."* Nesložení zálohy je výpovědním důvodem, ne důvodem k okamžitému ukončení ochrany; po dobu 15 dnů přetrvává prevenční povinnost bez ohledu na úhradu.
+- Slabé místo: hranice „neodkladného" úkonu je neostrá — riziko sporu o rozsah povinnosti. Doporučuje se písemná komunikace fixující, co klient požaduje a čeho se vzdává.
+
+#### H. Praktický závěr
+
+Výpověď advokáta je vázána na zákonné důvody (odst. 1–3), klient může vypovědět kdykoli (odst. 4); po zániku smlouvy advokáta tíží 15denní povinnost neodkladných úkonů (odst. 6), nevzdá-li se jí klient.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Existuje zákonný výpovědní důvod (odst. 1 obligatorní / odst. 2–3 fakultativní)?
+- [ ] Je výpovědní doba sjednána jen v přípustných případech a nejvýše na 3 měsíce (odst. 5)?
+- [ ] Hrozí v 15denním období zmeškání lhůty nebo jiná újma klienta?
+- [ ] Vzdal se klient výslovně povinnosti neodkladných úkonů?
+- [ ] Je vše písemně doloženo pro případný spor o odměnu/újmu?
+
+**Typicky rozhodné důkazy / podklady:** smlouva o poskytování právních služeb, plná moc, výzva k záloze, výpověď s dokladem o doručení, evidence běžících lhůt, písemné sdělení klienta.
+
 ---
 
 ### § 21 — Povinnost mlčenlivosti
@@ -164,6 +201,43 @@ Mlčenlivost ze zákona zavazuje **i zaměstnance, koncipienty a další osoby**
 
 > **Srovnání s daňovým řádem (§ 52 DŘ):** povinnost mlčenlivosti **úředních osob** finanční správy je oboustranně provázána s mlčenlivostí advokáta. Daňový subjekt nesmí být povinen prozradit obsah komunikace s advokátem (§ 96 odst. 1 DŘ — výpověď svědka může být odepřena, je-li svědek vázán zákonnou povinností mlčenlivosti); advokát se ovšem nemůže dovolávat mlčenlivosti ve vztahu k vlastní daňové povinnosti, neboť tato je rovněž veřejnoprávní povinností (odst. 5).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Policejní orgán provádí prohlídku advokátní kanceláře A a chce zajistit klientský spis týkající se klienta K, jenž není podezřelým ve věci. A se dovolává mlčenlivosti. Současně dědic zemřelého klienta Z předkládá A písemné prohlášení, že jej zprošťuje mlčenlivosti; A však ví, že existují dva další dědicové, kteří souhlas nedali. Důkazy: protokol o prohlídce, listina o zproštění, dědické usnesení o okruhu dědiců.
+
+**2. Právní otázka.** Smí orgán zajistit klientskou dokumentaci bez splnění záruk a postačuje zproštění učiněné jen jedním z více právních nástupců?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 21 odst. 1 (rozsah), odst. 2 (zproštění — souhlasný projev všech nástupců, písemná forma), odst. 8 (trvalost).
+- *Související ustanovení téhož zákona:* § 21 odst. 6 (vyloučení mlčenlivosti v kárném a AML řízení), § 21 odst. 9 (rozšíření na zaměstnance a orgány Komory).
+- *Související předpisy:* § 85b trestního řádu (souhlas zástupce Komory nahrazující souhlas klienta), čl. 37 odst. 2 a čl. 40 odst. 3 Listiny, čl. 7 Listiny základních práv EU.
+- *Judikatura:* ÚS II.ÚS 889/10 (mlčenlivost jako povinnost ve prospěch klienta, nikoli výsada advokáta); SDEU C‑694/20 Orde van Vlaamse Balies (ochrana komunikace advokát–klient před oznamovacími povinnostmi).
+
+**4. Subsumpce.** Spis K je chráněn odst. 1 plošně; zajištění je možné jen postupem dle § 85b TŘ se souhlasem zástupce Komory. Zproštění ve věci Z je neúčinné — odst. 2 vyžaduje souhlasný projev všech nástupců; chybí-li dva, A zůstává vázán.
+
+**5. Řešení.** A trvá na účasti zástupce Komory u prohlídky a odmítne vydat spis K bez postupu dle § 85b TŘ. Ve věci Z nesmí informaci poskytnout, dokud nezprostí všichni dědicové písemně. Procesní krok: vyžádat součinnost ČAK, dokumentovat odmítnutí.
+
+**6. Varianty.** (a) Jediný dědic by zprostil platně písemně → A může vypovídat v rozsahu zproštění, ledaže je zřejmá tíseň/nátlak. (b) Jde-li o povinnost překazit trestný čin dle § 367 TZ, mlčenlivost ustupuje bezvýjimečně (odst. 7).
+
+#### G. Protiargumenty a rizika
+
+- *„AML povinnosti prolamují mlčenlivost vždy."* Neutralizace: dle C‑694/20 zůstává běžná právní agenda chráněna; prolomení dopadá jen na advokáta v neadvokátní roli (specifická agenda dle § 2 AML).
+- *„Smrt klienta ukončuje mlčenlivost."* Odst. 8 a odst. 2: povinnost trvá vůči právním nástupcům i po vyškrtnutí advokáta ze seznamu.
+- Slabé místo: posouzení autenticity zproštění (tíseň/nátlak dle odst. 2 in fine) je na advokátovi a může být zpochybněno — vhodné je zproštění ověřit a archivovat.
+
+#### H. Praktický závěr
+
+Mlčenlivost je plošná, ústavně zakotvená a trvá i po smrti klienta a po vyškrtnutí advokáta; výjimky se vykládají striktně, zproštění musí být písemné a od všech právních nástupců.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spadá informace pod „souvislost s poskytováním právních služeb" (odst. 1)?
+- [ ] Je zproštění písemné, adresované advokátovi a od všech nástupců (odst. 2)?
+- [ ] Není zproštění učiněno v tísni/pod nátlakem?
+- [ ] Při prohlídce kanceláře: je zajištěn postup dle § 85b TŘ a účast zástupce Komory?
+- [ ] Nejde o výjimku dle odst. 4–7 (spor s klientem, kárné řízení, AML, překažení TČ)?
+
+**Typicky rozhodné důkazy / podklady:** listina o zproštění, dědické usnesení (okruh nástupců), protokol o prohlídce, stanovisko zástupce Komory, korespondence dokládající roli advokáta (advokátní vs. neadvokátní agenda).
+
 ---
 
 ### § 22 — Odměna advokáta
@@ -204,6 +278,43 @@ Odst. 3 obsahuje **zákonné zmocnění** pro vyhlášku Ministerstva spravedlno
 
 **Smluvní odměnu** zákon nereguluje plně — strany smí sjednat časovou (hodinovou), úkonovou nebo paušální odměnu, případně i **podílovou odměnu** (success fee). Podílová odměna je však předmětem etických omezení stavovského předpisu (Etický kodex stavovských povinností) — typicky nesmí překročit 25 % přiznané hodnoty nároku a její sjednání podléhá zvláštním povinnostem (písemná forma, vysvětlení důsledků).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Advokát A a klient K písemně neujednají výši odměny; A poskytne poradenství a sepíše tři podání. Po skončení věci A vyúčtuje odměnu podle advokátního tarifu (mimosmluvní odměna), K namítá, že část služeb poskytl A vadně a odměnu odmítá zaplatit. Současně A před převzetím věci žádal přiměřenou zálohu, kterou K nesložil. Důkazy: záznamy o úkonech, korespondence, doklad o výzvě k záloze.
+
+**2. Právní otázka.** Podle jakého režimu se určí odměna při absenci ujednání a má vliv na nárok na odměnu tvrzená vadnost služby?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 22 odst. 1 (úplatnost „zpravidla", přiměřená záloha), odst. 3 (zmocnění k advokátnímu tarifu).
+- *Související ustanovení téhož zákona:* § 24 (odpovědnost za újmu — samostatný nárok), § 20 odst. 3 (výpověď při nesložení zálohy).
+- *Související předpisy:* vyhláška č. 177/1996 Sb. (advokátní tarif — mimosmluvní odměna), zákon č. 235/2004 Sb. (DPH — § 23a).
+- *Judikatura:* NS 25 Cdo 4009/2014 (pro odpovědnost advokáta není rozhodné, zda byla služba za odměnu; rozhodný je vadný výkon — odměna a odpovědnost jsou oddělené nároky).
+
+**4. Subsumpce.** Bez ujednání se uplatní mimosmluvní odměna dle tarifu (odst. 3). Tvrzená vadnost služby nezakládá automaticky zánik nároku na odměnu — jde o samostatný nárok na náhradu újmy dle § 24, který K musí uplatnit a prokázat.
+
+**5. Řešení.** A má nárok na mimosmluvní odměnu za skutečně provedené úkony; případnou újmu řeší K samostatnou žalobou/námitkou započtení dle § 24. Procesní krok: vyúčtovat dle tarifu, doložit úkony.
+
+**6. Varianty.** (a) Byla-li sjednána podílová odměna, podléhá etickým limitům (max. 25 %, písemná forma). (b) Jde-li o zaměstnaného advokáta (odst. 2), odměnou je mzda dle zákoníku práce, nikoli tarif.
+
+#### G. Protiargumenty a rizika
+
+- *„Vadná služba znamená, že odměna nenáleží."* Neutralizace: dle NS 25 Cdo 4009/2014 jsou nárok na odměnu a odpovědnost za újmu odlišné; vadnost se řeší v režimu § 24, nikoli odepřením celé odměny.
+- *„Bez písemné smlouvy nelze odměnu žádat."* Mimosmluvní odměna dle tarifu nastupuje právě při absenci ujednání.
+- Slabé místo: přiměřenost zálohy a tarifní sazba mohou být sporné; doporučuje se přesná evidence úkonů a jejich časové náročnosti.
+
+#### H. Praktický závěr
+
+Advokacie se vykonává zpravidla za odměnu; bez ujednání platí mimosmluvní odměna dle advokátního tarifu. Nárok na odměnu je oddělen od odpovědnosti za případnou újmu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla výše odměny ujednána (smluvní), nebo nastupuje tarif (mimosmluvní)?
+- [ ] Je záloha přiměřená předpokládaným nákladům a poměrům klienta?
+- [ ] Nepředstavuje záloha bariéru přístupu k právní pomoci?
+- [ ] U podílové odměny: dodrženy etické limity a písemná forma?
+- [ ] U zaměstnaného advokáta: odměnou je mzda dle ZP?
+
+**Typicky rozhodné důkazy / podklady:** smlouva/plná moc, evidence úkonů, výzva k záloze, vyúčtování dle tarifu, doklad o registraci k DPH.
+
 ---
 
 ### § 23 — Úhrada odměny státem
@@ -236,6 +347,42 @@ V režimu odst. 3 je úhrada státu omezena na věci před orgány veřejné spr
 
 Odst. 4 stanoví **třístupňový kontrolní mechanismus**: (i) advokát vyúčtuje a do měsíce zašle Komoře; (ii) Komora do měsíce zkontroluje úplnost a bezvadnost; (iii) Komora předkládá ministerstvu k proplacení. Tato architektura zajišťuje, že čerpání veřejných prostředků prochází kontrolou profesní samosprávy.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Advokát A byl Komorou určen podle § 18c k bezplatnému zastoupení nemajetného žadatele v řízení před správním orgánem a posléze před Ústavním soudem. Po skončení věci A do jednoho měsíce zasílá Komoře vyúčtování dle vyhlášky o mimosmluvní odměně. Komora shledá ve vyúčtování nesprávnost a vrací je k opravě. Důkazy: rozhodnutí Komory o určení dle § 18c, vyúčtování, doklady o úkonech.
+
+**2. Právní otázka.** Kdo hradí odměnu advokáta určeného dle § 18c v řízení před správním orgánem a před Ústavním soudem a jaký je postup vyúčtování?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 23 odst. 3 (úhrada státem ve věcech před orgány veřejné správy a před ÚS), odst. 4 (procesní pravidla vyúčtování).
+- *Související ustanovení téhož zákona:* § 18a, § 18b, § 18c (určení Komorou), § 22 odst. 3 (advokátní tarif).
+- *Související předpisy:* vyhláška č. 177/1996 Sb.; § 30 OSŘ, § 39 TŘ, § 35 odst. 8 SŘS (ustanovení soudem dle § 23 odst. 1).
+- *Judikatura:* k povaze nároku na odměnu ustanoveného/určeného advokáta srov. obecnou linii správních soudů o vázanosti tarifem; nosný závěr — nárok je veřejnoprávní a procesně formalizovaný.
+
+**4. Subsumpce.** Jde o určení dle § 18c k bezplatné službě; ve věcech před správním orgánem a ÚS hradí odměnu stát dle mimosmluvní odměny (odst. 3). A musí vyúčtovat do měsíce; Komora kontroluje a vrací k opravě (odst. 4).
+
+**5. Řešení.** A opraví vyúčtování a znovu předloží; Komora je předloží ministerstvu k proplacení. V „ostatních věcech" (typicky civilní spory) by A měl jen nárok na stavovskou náhradu — fakticky pro bono. Procesní krok: dodržet měsíční lhůtu, doložit úkony.
+
+**6. Varianty.** (a) Při určení dle § 18c za úplatu hradí odměnu klient dle mimosmluvní odměny (odst. 5). (b) Při ustanovení soudem (odst. 1) hradí odměnu stát přímo v rámci soudního řízení, nikoli přes Komoru.
+
+#### G. Protiargumenty a rizika
+
+- *„Stát hradí odměnu ve všech věcech dle § 18c."* Neutralizace: odst. 3 omezuje státní úhradu na věci před orgány veřejné správy a před ÚS; jinde jen stavovská náhrada.
+- *„Lhůtu k vyúčtování lze zmeškat bez následku."* Měsíční lhůta je organizační podmínkou proplacení; opožděné/vadné vyúčtování Komora vrací, čerpání se oddaluje.
+- Slabé místo: rozlišení „věcí před orgány veřejné správy a ÚS" od „ostatních věcí" může být v hraničních případech sporné.
+
+#### H. Praktický závěr
+
+Stát hradí odměnu advokáta ustanoveného soudem a určeného Komorou dle § 18a/§ 18b; u § 18c jen ve věcech před správními orgány a ÚS, jinak náleží stavovská náhrada. Vyúčtování prochází měsíční kontrolou Komory.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Z jakého titulu vznikl vztah (ustanovení soudem / určení dle § 18a–18c)?
+- [ ] Jde o věc před orgánem veřejné správy nebo ÚS (úhrada státem dle odst. 3)?
+- [ ] Bylo vyúčtování zasláno Komoře do jednoho měsíce?
+- [ ] Je vyúčtování úplné a bezvadné (jinak vrácení k opravě)?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o ustanovení/určení, vyúčtování dle tarifu, doklady o úkonech a hotových výdajích, korespondence s Komorou.
+
 ---
 
 ### § 23a — DPH
@@ -247,6 +394,42 @@ Odst. 4 stanoví **třístupňový kontrolní mechanismus**: (i) advokát vyúč
 **Výklad:**
 
 Ustanovení promítá obecné pravidlo zákona č. 235/2004 Sb., o dani z přidané hodnoty — k odměně (i k té státem hrazené) se připočítává DPH ve výši odpovídající aktuálně platné sazbě (k 1. 1. 2026: základní sazba 21 %). Smyslem normy je vyloučit, aby plátce DPH (advokát-podnikatel) nesl daň ze své odměny ekonomicky sám; pravidlo platí i pro státem hrazené odměny (jejich rozpočtové krytí proto musí zahrnovat i DPH).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Advokát A je plátcem DPH a byl ustanoven obhájcem ex offo. Při vyúčtování odměny hrazené státem uplatní k mimosmluvní odměně a náhradám rovněž částku odpovídající DPH 21 %. Soud (resp. orgán proplácející ex offo odměnu) DPH odmítne s tím, že jde o navýšení odměny. Důkazy: doklad o registraci k DPH, vyúčtování s rozlišením odměny, náhrad a DPH.
+
+**2. Právní otázka.** Náleží advokátovi plátci DPH k odměně hrazené státem i částka odpovídající DPH?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 23a (navýšení odměny a náhrad o DPH u plátce).
+- *Související ustanovení téhož zákona:* § 22, § 23 (odměna a její úhrada státem).
+- *Související předpisy:* zákon č. 235/2004 Sb., o DPH; vyhláška č. 177/1996 Sb.
+- *Judikatura:* ustálená praxe správních a trestních soudů — advokátovi plátci DPH se k přiznané odměně připočte DPH; nosný závěr, že DPH není „navýšením" odměny, ale zákonným nárokem dle § 23a.
+
+**4. Subsumpce.** A je plátce DPH; vyúčtovává odměnu a náhrady dle § 22/§ 23. § 23a přiznává nárok na částku odpovídající dani, kterou je A povinen odvést. Stát je tedy povinen proplatit odměnu i DPH.
+
+**5. Řešení.** A doloží status plátce a v rozhodnutí o odměně musí být DPH přiznána. Při odmítnutí lze podat opravný prostředek/námitku. Procesní krok: v každém vyúčtování ex offo výslovně uvést a vyčíslit DPH.
+
+**6. Varianty.** (a) Není-li advokát plátcem DPH, § 23a se neuplatní a odměna se nenavyšuje. (b) U společnosti/zahraniční společnosti plátce DPH platí § 23a obdobně.
+
+#### G. Protiargumenty a rizika
+
+- *„DPH navyšuje odměnu nad tarif."* Neutralizace: § 23a výslovně přiznává částku odpovídající dani vedle odměny a náhrad; nejde o navýšení odměny, ale o zákonný daňový komponent.
+- *„Stát neplatí DPH z ex offo odměn."* Pravidlo platí i pro státem hrazené odměny; rozpočtové krytí musí DPH zahrnovat.
+- Slabé místo: spor může vzniknout u sazby a u okamžiku registrace k DPH; nutno doložit aktuální status plátce.
+
+#### H. Praktický závěr
+
+Advokátovi (společnosti) plátci DPH náleží k odměně a náhradám dle § 22/§ 23 i částka odpovídající DPH, a to i u odměn hrazených státem.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je advokát/společnost plátcem DPH?
+- [ ] Je DPH ve vyúčtování vyčíslena samostatně vedle odměny a náhrad?
+- [ ] Je uplatněna správná sazba (k 1. 1. 2026 základní 21 %)?
+- [ ] U ex offo: obsahuje rozhodnutí o odměně i výrok o DPH?
+
+**Typicky rozhodné důkazy / podklady:** osvědčení o registraci k DPH, vyúčtování s rozčleněním odměny/náhrad/DPH, rozhodnutí o přiznání odměny.
 
 ---
 
@@ -309,6 +492,43 @@ Odst. 4 formuluje liberační podmínku natolik přísně, že v praxi je její 
 
 > **Srovnání s § 2950 občanského zákoníku** (odpovědnost za škodu při výkonu profese): tato obecná norma vyžaduje zavinění v podobě nedbalosti. § 24 ZA jde dál — zakládá objektivní odpovědnost s úzkou liberací, čímž posiluje pozici klienta jako spotřebitele specializované profesní služby.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Advokát A měl pro klienta P vymáhat pohledávku 1,2 mil. Kč. A přehlédl běžící promlčecí dobu a žalobu podal opožděně; dlužník vznesl námitku promlčení a soud žalobu zamítl. P žaluje A o náhradu škody ve výši nedobytné pohledávky. A namítá, že informace o splatnosti dostal od klienta nepřesně. Důkazy: spis, korespondence o pokynech, doklady o splatnosti, rozsudek zamítající původní žalobu.
+
+**2. Právní otázka.** Odpovídá A za škodu spočívající v nedobytnosti promlčené pohledávky a kdy taková škoda vzniká?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 24 odst. 1 (objektivní odpovědnost za újmu v souvislosti s výkonem advokacie), odst. 4 (liberace při vynaložení veškerého úsilí).
+- *Související ustanovení téhož zákona:* § 16 odst. 2 (odborná péče), § 24a–24c (pojištění), § 22.
+- *Související předpisy:* § 2913, § 2950 občanského zákoníku; promlčení dle § 609 a násl. OZ, případně obchodní režim.
+- *Judikatura:* NS 25 Cdo 3672/2012 (škoda z nedobytnosti pro promlčení vzniká okamžikem nepochybné nevymahatelnosti); NS 25 Cdo 347/2016 (povinnost poučení nad rámec sepisu listiny); NS 25 Cdo 520/2009 (promlčení nároku u podnikatele dle obchodního zákoníku); NS 25 Cdo 4009/2014 (rozhodný je vadný výkon).
+
+**4. Subsumpce.** A způsobil újmu v souvislosti s výkonem advokacie (opomenutí lhůty). Odpovědnost je objektivní; postačuje příčinná souvislost. Liberace dle odst. 4 by vyžadovala prokázat, že újmě nešlo zabránit při veškerém úsilí — pouhé nepřesné info klienta zpravidla nestačí, neboť odborná péče zahrnuje ověření splatnosti.
+
+**5. Řešení.** A pravděpodobně odpovídá za škodu ve výši nedobytné pohledávky; vznik škody se váže k okamžiku nepochybné nevymahatelnosti (NS 25 Cdo 3672/2012), což je rozhodné i pro promlčení nároku P vůči A. Procesní krok: oznámit pojistnou událost pojistiteli (§ 24a).
+
+**6. Varianty.** (a) Prokáže-li A, že klient zatajil rozhodnou skutečnost, již nešlo profesní péčí odhalit, může se liberovat (odst. 4). (b) Vykonává-li A advokacii ve společnosti, odpovídá klientovi společnost (odst. 2).
+
+#### G. Protiargumenty a rizika
+
+- *„Klient mi dal špatné údaje, neodpovídám."* Neutralizace: standard veškerého úsilí (odst. 4) je vysoký; ověření splatnosti patří k odborné péči — liberace je výjimečná.
+- *„Škoda vznikla už uplynutím promlčecí doby, nárok klienta je promlčen."* Dle NS 25 Cdo 3672/2012 škoda vzniká až okamžikem nepochybné nevymahatelnosti, nikoli uplynutím promlčecí doby — počátek běhu nároku klienta je tím odsunut.
+- Slabé místo: prokázání příčinné souvislosti a výše (zda by pohledávka byla vůbec dobytná) může být sporné; nutný důkaz o solventnosti dlužníka.
+
+#### H. Praktický závěr
+
+Advokát odpovídá za újmu objektivně, s velmi úzkou liberací; odpovídá i za zástupce a zaměstnance (nikoli za zaměstnaného advokáta — odpovídá zaměstnavatel). Škoda z promlčení vzniká až nepochybnou nevymahatelností.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vznikla újma v souvislosti s výkonem advokacie?
+- [ ] Je dána příčinná souvislost mezi pochybením a újmou?
+- [ ] Lze prokázat liberaci (újmě nešlo zabránit ani při veškerém úsilí)?
+- [ ] Kdo je odpovědným subjektem (advokát / společnost / zaměstnavatel)?
+- [ ] Byla událost nahlášena pojistiteli (§ 24a–24c)?
+
+**Typicky rozhodné důkazy / podklady:** advokátní spis, korespondence o pokynech, doklady o lhůtách a splatnosti, rozhodnutí v původní věci, podklady o dobytnosti pohledávky, pojistná smlouva.
+
 ---
 
 ### § 24a — Povinné pojištění advokáta
@@ -330,6 +550,42 @@ Limity pojistného plnění určuje stavovský předpis ČAK. Aktuální minimum
 V praxi je v advokátní obci běžné **vyšší pojištění** než minimum (10–50 mil. Kč u jednotlivců, vyšší u kanceláří specializovaných na velké korporátní transakce, kde rizika přesahují regulovanou minimální hranici).
 
 > **Srovnání:** Notář (§ 30 NotŘ) má rovněž povinné pojištění — limity stanoví Notářská komora; soudní exekutor (§ 11 EŘ) má povinné pojištění s minimem 10 mil. Kč; lékař (§ 45 zákona č. 372/2011 Sb., o zdravotních službách) je rovněž povinně pojištěn. Profese s vysokým rizikem újmy způsobené třetím osobám tedy mají systematickou regulaci povinného profesního pojištění.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Advokát A vykonává advokacii samostatně. Z důvodu finančních potíží nezaplatí pojistné a jeho profesní pojištění zanikne pro neplacení. A přesto dále přijímá nové klienty. Komora to zjistí při kontrole. Mezitím A způsobí klientovi škodu, na niž by se pojištění vztahovalo. Důkazy: pojistná smlouva, doklad o zániku pojištění, evidence Komory, doklad o nové věci.
+
+**2. Právní otázka.** Smí advokát bez existujícího pojištění vykonávat advokacii a jaké jsou následky absence pojištění?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 24a odst. 1 (povinnost být pojištěn pro odpovědnost dle § 24 odst. 1), odst. 2 (minimální limit dle stavovského předpisu).
+- *Související ustanovení téhož zákona:* § 9 odst. 1 písm. f) (pozastavení výkonu při nezaplaceném pojistném), § 24c (hromadné pojištění), § 32 odst. 2 (kárné provinění).
+- *Související předpisy:* zákon č. 89/2012 Sb. (pojistná smlouva), stavovský předpis ČAK o minimálních limitech.
+- *Judikatura:* k povaze pojištění jako podmínky výkonu profese srov. obecné závěry o regulaci profesního pojištění; nosný závěr — absence pojištění zakládá důvod k zásahu komory.
+
+**4. Subsumpce.** A je samostatný advokát, musí být pojištěn (odst. 1). Zánik pojištění pro neplacení zakládá důvod pozastavení dle § 9 odst. 1 písm. f) a kárné provinění (§ 32 odst. 2). Výkon advokacie bez pojištění je porušením zákonné podmínky.
+
+**5. Řešení.** A musí pojištění bez prodlení obnovit; do té doby fakticky nesmí poskytovat služby. Komora pozastaví výkon advokacie a může zahájit kárné řízení. Procesní krok: doložit obnovené pojištění, jinak hrozí sankce.
+
+**6. Varianty.** (a) A se účastní hromadného pojištění (§ 24c) → pojistné platí Komoře, opomenutí má obdobné následky. (b) A vykonává advokacii ve v.o.s./jako komplementář k.s. → musí být pojištěn samostatně nebo v rámci pojištění společnosti pro ručení dle § 24 odst. 2.
+
+#### G. Protiargumenty a rizika
+
+- *„Dočasná absence pojištění nic nemění."* Neutralizace: pojištění je trvající podmínkou výkonu; § 9 odst. 1 písm. f) umožňuje pozastavení a § 32 odst. 2 kárný postih.
+- *„Stačí minimální limit dle stavovského předpisu."* U rizikové agendy může být minimum nedostatečné; limit musí být „přiměřený možné újmě" (odst. 2).
+- Slabé místo: výše minimálního limitu je v textu uvedena orientačně; rozhodný je aktuální stavovský předpis ČAK.
+
+#### H. Praktický závěr
+
+Pojištění je zákonnou podmínkou výkonu advokacie; jeho absence vede k pozastavení výkonu (§ 9) a je kárným proviněním. Limit musí být přiměřený riziku, nejméně ve výši stavovského minima.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je advokát pojištěn pro odpovědnost dle § 24 odst. 1 po celou dobu výkonu?
+- [ ] Dosahuje limit alespoň stavovského minima a je přiměřený rizikové agendě?
+- [ ] U sdružení/v.o.s./k.s.: je kryto i ručení/solidární odpovědnost?
+- [ ] Bylo pojistné včas uhrazeno (hrozba pozastavení dle § 9)?
+
+**Typicky rozhodné důkazy / podklady:** pojistná smlouva a doklad o jejím trvání, doklad o úhradě pojistného, stavovský předpis o limitech, evidence Komory.
 
 ---
 
@@ -376,6 +632,42 @@ Pojištění je **konstitutivní podmínkou** zápisu společnosti do obchodníh
 
 Při zvýšení počtu společníků nebo zániku pozastavení výkonu advokacie společníka **musí být limit zvýšen ihned** — ode dne, kdy ke změně došlo. Tato úprava vylučuje, aby společnost mohla po určitou dobu fungovat s podpojištěním. Praktická povinnost ve společnostech ČAK se proto kombinuje s **upraveným pojistným cyklem** (typicky kalendářní rok s dovetail-klauzulí).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Advokátní s.r.o. má tři společníky a pojištění na 150 mil. Kč. Přistoupí čtvrtý společník, jemuž není pozastaven výkon advokacie, ale společnost limit nezvýší. Současně do týdne nepředloží Komoře doklad o pojištění. Komora reaguje. Důkazy: pojistná smlouva, doklad o přistoupení společníka, evidence v OR, výzva Komory.
+
+**2. Právní otázka.** Jaký minimální limit musí mít advokátní s.r.o. po přistoupení nového společníka a jaké jsou následky nezvýšení a nepředložení dokladu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 24b odst. 2 (min. 50 mil. Kč na společníka s.r.o., absolutní minimum 50 mil. Kč), odst. 3 (okamžité zvýšení limitu), odst. 5 (předkládací povinnost), odst. 6 (návrh na zrušení a likvidaci).
+- *Související ustanovení téhož zákona:* § 24 odst. 2 (odpovědnost společnosti), § 24a (pojištění společníka).
+- *Související předpisy:* zákon č. 90/2012 Sb. (ZOK), zákon o veřejných rejstřících (zápis a sbírka listin).
+- *Judikatura:* k zápisovým podmínkám a likvidaci pro nesplnění zákonných podmínek srov. obecnou rejstříkovou praxi; nosný závěr — pojištění je konstitutivní podmínkou existence společnosti.
+
+**4. Subsumpce.** Po přistoupení čtvrtého společníka musí limit činit nejméně 4 × 50 mil. = 200 mil. Kč (odst. 2), a to ode dne změny (odst. 3). Společnost limit nezvýšila a nepředložila doklad ve lhůtě jednoho týdne (odst. 5) → naplněn důvod postupu Komory dle odst. 6.
+
+**5. Řešení.** Společnost musí ihned navýšit limit na 200 mil. Kč a doložit to Komoře. Jinak Komora bez odkladu podá soudu návrh na zrušení společnosti s likvidací (odst. 6). Procesní krok: bezodkladné navýšení a založení dokladu do sbírky listin.
+
+**6. Varianty.** (a) U komanditní společnosti je minimum 10 mil. Kč na komanditistu (odst. 2). (b) Má-li nový společník pozastaven výkon advokacie, do limitu se pro účely navýšení nezapočítává.
+
+#### G. Protiargumenty a rizika
+
+- *„Limit lze dorovnat až v dalším pojistném období."* Neutralizace: odst. 3 vyžaduje zvýšení ode dne změny — žádné přechodné podpojištění není přípustné.
+- *„Nepředložení dokladu je formalita."* Odst. 6 spojuje neplnění s návrhem na zrušení a likvidaci společnosti — jde o existenční sankci.
+- Slabé místo: výpočet limitu při kombinaci společníků s pozastaveným a nepozastaveným výkonem vyžaduje pečlivost.
+
+#### H. Praktický závěr
+
+Advokátní s.r.o. a k.s. musí být pojištěny od vzniku do zrušení; limit (50 mil. Kč na společníka s.r.o., 10 mil. Kč na komanditistu) se zvyšuje okamžitě při změně počtu společníků. Neplnění vede k návrhu Komory na zrušení a likvidaci.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Dosahuje limit minima dle počtu společníků s nepozastaveným výkonem (odst. 2)?
+- [ ] Byl limit navýšen ode dne změny počtu společníků (odst. 3)?
+- [ ] Byl doklad o pojištění předložen Komoře ve lhůtě (odst. 5) a založen do sbírky listin?
+- [ ] Je pojištění připojeno k návrhu na zápis společnosti/nového společníka?
+
+**Typicky rozhodné důkazy / podklady:** pojistná smlouva a doklad o pojištění, výpis z OR, doklad o přistoupení společníka, korespondence s Komorou, sbírka listin.
+
 ---
 
 ### § 24c — Hromadné pojištění advokátů
@@ -389,6 +681,42 @@ Při zvýšení počtu společníků nebo zániku pozastavení výkonu advokacie
 **Výklad:**
 
 ČAK kolektivně vyjednává **hromadné pojištění advokátů** s vybraným pojistitelem (typicky Generali, KOOP nebo jiný velký český pojistitel) — výsledkem je sleva z pojistného a standardizovaný rozsah krytí. Advokát do tohoto pojištění vstupuje **opt-in/opt-out modelem**: implicitně se účastní (nepředloží-li doklad o samostatném pojištění), ale může vystoupit, prokáže-li individuálně sjednanou pojistnou smlouvu s krytím odpovídajícím alespoň minimu dle § 24a odst. 2. Hromadné pojištění reprezentuje princip **profesního společenství rizika**, jenž je v advokacii tradiční (paralelu lze najít u notářské stavovské pojistné kasy).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Advokát A si sjednal individuální pojištění s vyšším limitem, protože dělá rozsáhlou korporátní agendu. Doklad o samostatném pojištění však Komoře nepředloží do konce kalendářního roku předcházejícího roku krytí. Komora ho proto považuje za účastníka hromadného pojištění a vyzve k úhradě pojistného z hromadného pojištění. Důkazy: individuální pojistná smlouva, doklad o datu jejího sjednání, výzva Komory.
+
+**2. Právní otázka.** Je advokát se samostatným pojištěním povinen platit pojistné z hromadného pojištění, nepředloží-li doklad o samostatném pojištění ve lhůtě?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 24c odst. 1 (účast a platba pojistného do konce předchozího roku), odst. 2 (opt-out doložením samostatného pojištění).
+- *Související ustanovení téhož zákona:* § 24a (povinné pojištění a minimální limit), § 30 (platby Komoře).
+- *Související předpisy:* zákon č. 89/2012 Sb. (pojistná smlouva), Věstník ČAK (zveřejnění smlouvy o hromadném pojištění).
+- *Judikatura:* k povaze opt-out povinnosti srov. obecné závěry o důsledcích nesplnění oznamovací lhůty; nosný závěr — bez včasného doložení nastupuje účast na hromadném pojištění.
+
+**4. Subsumpce.** A je implicitně účastníkem hromadného pojištění (odst. 1); opt-out je podmíněn předložením dokladu o samostatném pojištění do uplynutí lhůty (odst. 2). A lhůtu zmeškal → zůstává účastníkem a je povinen pojistné Komoře zaplatit.
+
+**5. Řešení.** A buď doloží opt-out v příští periodě, nebo zaplatí pojistné z hromadného pojištění za daný rok. Procesní krok: hlídat lhůtu opt-out a doklad předkládat s předstihem.
+
+**6. Varianty.** (a) Doloží-li A samostatné pojištění včas, opt-out je účinný a hromadné pojistné neplatí. (b) Má-li samostatné pojištění nižší limit než minimum dle § 24a odst. 2, opt-out není přípustný.
+
+#### G. Protiargumenty a rizika
+
+- *„Mám vlastní pojištění, hromadné platit nemusím."* Neutralizace: opt-out je účinný jen při včasném doložení dokladu (odst. 2); jinak nastupuje účast a povinnost platit.
+- *„Lhůta je pořádková."* Lhůta je podmínkou opt-out — její zmeškání má hmotný následek (povinnost platby).
+- Slabé místo: prokázání data sjednání a rozsahu krytí samostatného pojištění — nutné doložit, že kryje alespoň minimum.
+
+#### H. Praktický závěr
+
+Hromadné pojištění funguje na principu opt-out: advokát je jeho účastníkem, dokud včas nepředloží doklad o vyhovujícím samostatném pojištění. Při zmeškání lhůty platí pojistné Komoře.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Chce se advokát účastnit hromadného pojištění, nebo zvolit opt-out?
+- [ ] Byl doklad o samostatném pojištění předložen Komoře ve lhůtě (odst. 2)?
+- [ ] Kryje samostatné pojištění alespoň minimum dle § 24a odst. 2?
+- [ ] Bylo pojistné z hromadného pojištění uhrazeno včas (odst. 1)?
+
+**Typicky rozhodné důkazy / podklady:** individuální pojistná smlouva, doklad o jejím sjednání a limitu, doklad o předložení Komoře, výzva Komory, smlouva o hromadném pojištění z Věstníku.
 
 ---
 
@@ -421,6 +749,42 @@ V kárné praxi se ustáleně dovozuje, že dokumentace má obsahovat alespoň:
 
 V praxi je zvláště významná **délka uchování dokumentace** — Komora stavovským předpisem (Etický kodex) stanoví minimum 5 let od skončení věci; obecná promlčecí lhůta v občanském právu je však 3 roky (objektivní 10 let), což advokátovi z hlediska obrany v případném sporu o náhradu újmy diktuje uchovávat dokumentaci po delší dobu (i 10 let).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Klient K žaluje advokáta A o náhradu škody šest let po skončení věci s tvrzením, že A nedostatečně poučil o důsledcích smlouvy. A však již spis skartoval po pěti letech a nemá záznam o poskytnutém poučení; nedoloží tak, co klientovi sdělil. Důkazy: chybějící spis, e-mailová korespondence (částečně dostupná), tvrzení obou stran.
+
+**2. Právní otázka.** Jaký je rozsah a doba uchování „přiměřené dokumentace" a jaké riziko nese advokát z její absence ve sporu o náhradu újmy?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 25 odst. 1 (přiměřená dokumentace), odst. 2 (vztah k účetním předpisům).
+- *Související ustanovení téhož zákona:* § 24 odst. 1 (odpovědnost za újmu — důkazní břemeno), § 21 (mlčenlivost při nakládání se spisem), § 56 (úschovy).
+- *Související předpisy:* zákon č. 563/1991 Sb. (účetnictví), zákon č. 280/2009 Sb. (daňový řád), § 609 a násl. OZ (promlčení), Etický kodex ČAK.
+- *Judikatura:* NS 25 Cdo 347/2016 (povinnost poučení a jeho prokázání); obecně k důkaznímu významu advokátní dokumentace.
+
+**4. Subsumpce.** Dokumentace musí být „přiměřená" předmětu a riziku věci (odst. 1). Absence záznamu o poučení znesnadňuje A obranu — v případném sporu o újmu fakticky nese důsledky neunesení důkazu o řádném výkonu péče, ač zákonné minimum (5 let) dodržel.
+
+**5. Řešení.** A by měl u rizikové agendy uchovávat dokumentaci po delší dobu (až 10 let dle objektivní promlčecí lhůty), zejména záznamy o poučení klienta. Procesní krok: doložit dostupnou korespondenci a rekonstruovat průběh.
+
+**6. Varianty.** (a) Měl-li by A robustní záznam o poučení, byla by jeho obrana výrazně silnější. (b) U bagatelní jednorázové porady postačí minimální dokumentace; riziko je nízké.
+
+#### G. Protiargumenty a rizika
+
+- *„Dodržel jsem stavovské minimum 5 let, víc nemusím."* Neutralizace: minimum chrání před kárným postihem, ne před civilní odpovědností — objektivní promlčecí lhůta může být delší (až 10 let).
+- *„Přiměřenost je vágní, nelze ji vymáhat."* Kárná praxe stanovila funkční obsah (identifikace věci, smlouva, úkony, korespondence, vyúčtování).
+- Slabé místo: rozsah dokumentace je posuzován ex post a individuálně; u sporné agendy se vyplatí nadstandard.
+
+#### H. Praktický závěr
+
+Advokát musí vést přiměřenou dokumentaci o poskytování právních služeb; její rozsah a doba uchování se řídí předmětem, délkou vztahu a rizikem. Z hlediska obrany proti nárokům na újmu je vhodné uchovávat ji déle než stavovské minimum.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Obsahuje dokumentace identifikaci klienta a věci, smlouvu/plnou moc, záznamy o úkonech a korespondenci?
+- [ ] Jsou zdokumentována zásadní poučení klienta?
+- [ ] Je doba uchování přiměřená riziku (zvážit až 10 let)?
+- [ ] Je oddělena účetní dokumentace dle zvláštních předpisů (odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** advokátní spis, smlouva/plná moc, evidence úkonů, korespondence s klientem, písemné posudky, vyúčtování, záznamy o poučení.
+
 ---
 
 ### §§ 25a–25d — Specifické úkony advokáta
@@ -438,6 +802,42 @@ Tato čtveřice paragrafů transformuje advokátní úřad ve **plně digitalizo
 
 - *NS* [27 Cdo 3120/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7E49D15A6C687948C1258C1F0052950B?openDocument) — kat. A, 8. 1. 2025
   > „Pro posouzení, zda smlouva o převodu podílu byla opatřena „úředním ověřením podpisu“ společníka ve smyslu § 209 odst. 2 z. o. k., respektive jej nahrazujícím prohlášením o pravosti podpisu podle § 25a zákona o advokacii, není významné, že advokát, jenž takto ověřil podpis zástupce společníka, byl současně zástupcem nabyvatele. Absence úředního ověření podpisu na smlouvě o převodu podílu nenarušuje veřejný pořádek a nezakládá tak její absolutní neplatnost"
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Advokát A, jenž zastupuje nabyvatele N při převodu obchodního podílu, opatří smlouvu o převodu podílu prohlášením o pravosti podpisu (§ 25a) zástupce převodce. Rejstříkový soud i protistrana namítají, že ověření je neúčinné, neboť A je současně zástupcem nabyvatele, a dovozují absolutní neplatnost smlouvy. Důkazy: smlouva, kniha prohlášení, plné moci.
+
+**2. Právní otázka.** Je prohlášení advokáta o pravosti podpisu dle § 25a platnou náhradou úředního ověření i tehdy, je-li advokát zástupcem jedné ze stran, a způsobuje jeho případná absence neplatnost smlouvy?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 25a (prohlášení o pravosti podpisu s účinky úředního ověření), § 25b (kniha prohlášení), § 25c (autorizovaná konverze), § 25d (identifikace na dálku).
+- *Související ustanovení téhož zákona:* § 21 (mlčenlivost), § 24 (odpovědnost), § 32 odst. 3 písm. f) (odnětí knihy o prohlášeních).
+- *Související předpisy:* § 209 odst. 2 ZOK, zákon č. 300/2008 Sb., nařízení (EU) 910/2014 (eIDAS), zákon č. 250/2017 Sb. (elektronická identifikace), § 6 NotŘ.
+- *Judikatura:* NS 27 Cdo 3120/2023 (ověření dle § 25a je platné i u advokáta-zástupce strany; absence ověření na smlouvě o převodu podílu nezakládá absolutní neplatnost).
+
+**4. Subsumpce.** Prohlášení dle § 25a má účinky úředního ověření; skutečnost, že A je zástupcem nabyvatele, jeho platnost dle NS 27 Cdo 3120/2023 nevylučuje. Případná absence ověření nenarušuje veřejný pořádek a nezpůsobuje absolutní neplatnost.
+
+**5. Řešení.** Smlouva je platná; ověření A je účinné. Rejstříkový zápis nelze odmítnout jen pro souběh role advokáta. Procesní krok: doložit zápis do knihy prohlášení (§ 25b) a plné moci.
+
+**6. Varianty.** (a) Identifikace klienta na dálku (§ 25d) vyžaduje prostředek s vysokou úrovní záruky dle eIDAS — jinak je vadná. (b) Veřejnou listinu (§ 6 NotŘ) advokát nahradit nemůže — tam jsou účinky odlišné.
+
+#### G. Protiargumenty a rizika
+
+- *„Advokát nemůže ověřit podpis ve věci, kde zastupuje stranu."* Neutralizace: NS 27 Cdo 3120/2023 výslovně připouští platnost i v této situaci.
+- *„Absence ověření = absolutní neplatnost smlouvy."* Dle téhož rozhodnutí nenarušuje veřejný pořádek a absolutní neplatnost nezakládá.
+- Slabé místo: u identifikace na dálku (§ 25d) je riziko v nesplnění technického standardu eIDAS; kniha prohlášení (§ 25b) podléhá kontrole a odnětí.
+
+#### H. Praktický závěr
+
+Advokát disponuje notarizačními oprávněními (prohlášení o pravosti podpisu, konverze, identifikace na dálku); prohlášení dle § 25a má účinky úředního ověření i u advokáta-zástupce strany a jeho absence nezpůsobuje absolutní neplatnost.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je prohlášení o pravosti podpisu řádně zapsáno v knize prohlášení (§ 25b)?
+- [ ] U identifikace na dálku: použit prostředek s vysokou úrovní záruky dle eIDAS (§ 25d)?
+- [ ] Nejde o úkon vyhrazený veřejné listině (§ 6 NotŘ)?
+- [ ] Nehrozí kárné riziko (odnětí knihy dle § 32 odst. 3 písm. f))?
+
+**Typicky rozhodné důkazy / podklady:** smlouva s ověřením, kniha prohlášení, plné moci, doklad o použitém prostředku elektronické identifikace, protokol o konverzi.
 
 ---
 
@@ -463,6 +863,42 @@ Advokátní koncipient může advokáta zastoupit při **jednotlivých úkonech*
 - V řízeních před Nejvyšším soudem, Nejvyšším správním soudem a Ústavním soudem advokát musí jednat osobně (povinné zastoupení advokátem dle § 30a OSŘ, § 105 SŘS, § 30 ZÚS — koncipient zde nemůže advokáta plně zastoupit);
 - V trestním řízení může koncipient činit jednotlivé úkony obhajoby ad hoc (§ 35 odst. 1 TŘ — substituční zastoupení obhájce, ovšem koncipient zde nemůže být formálně obhájcem);
 - Při sepisu zvláštních listin (např. veřejných listin) — vyhrazeno notáři.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Advokát A je zaneprázdněn na jiném jednání a nechá se na ústním jednání v civilní věci zastoupit advokátem B (substituce). V téže věci podává dovolání k Nejvyššímu soudu; toto dovolání nechá zpracovat a osobně podepíše advokátní koncipient C. Plná moc substituci nevylučuje. Důkazy: plná moc, substituční plná moc, podání dovolání.
+
+**2. Právní otázka.** Smí advokáta substituovat jiný advokát a může koncipient samostatně zastoupit advokáta v řízení s povinným advokátním zastoupením před Nejvyšším soudem?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 26 odst. 1 (substituce advokátem, není-li v plné moci vyloučena), odst. 2 (zastoupení zaměstnancem/koncipientem při jednotlivých úkonech).
+- *Související ustanovení téhož zákona:* § 24 odst. 1 (odpovědnost za jednání substituta), § 25 (dokumentace).
+- *Související předpisy:* § 30a OSŘ, § 105 SŘS, § 30 ZÚS (povinné zastoupení advokátem), § 35 odst. 1 TŘ.
+- *Judikatura:* obecná procesní praxe — v řízení s povinným advokátním zastoupením musí úkon učinit advokát, koncipient jej zde plně nenahradí; nosný závěr o neúčinnosti úkonu učiněného jen koncipientem v těchto řízeních.
+
+**4. Subsumpce.** Substituce B je přípustná (odst. 1), neboť plná moc ji nevylučuje; A za jednání B odpovídá (§ 24 odst. 1). Dovolání před NS spadá pod povinné advokátní zastoupení — koncipient C zde advokáta plně nezastoupí (omezení dle odst. 2).
+
+**5. Řešení.** Zastoupení B je platné. Dovolání musí učinit advokát osobně; podání jen koncipientem C by bylo vadné. Procesní krok: dovolání podepíše advokát.
+
+**6. Varianty.** (a) Při běžném úkonu (např. nahlédnutí do spisu, jednání u okresního soudu) může koncipient advokáta zastoupit (odst. 2). (b) Vyloučí-li klient v plné moci substituci, B nesmí jednat bez nové plné moci od klienta.
+
+#### G. Protiargumenty a rizika
+
+- *„Koncipient může zastoupit advokáta vždy."* Neutralizace: odst. 2 omezuje koncipienta na jednotlivé úkony; v řízeních s povinným advokátním zastoupením (NS, NSS, ÚS) advokáta plně nenahradí.
+- *„Substituce zbavuje advokáta odpovědnosti."* Substituce nepřenáší odpovědnost — A nadále odpovídá klientovi dle § 24 odst. 1.
+- Slabé místo: nutno ověřit, zda plná moc substituci nevyloučila; jinak je úkon substituta vadný.
+
+#### H. Praktický závěr
+
+Substituce advokátem je přípustná, není-li v plné moci vyloučena; koncipient může zastupovat jen při jednotlivých úkonech a nikoli v řízeních s povinným advokátním zastoupením. Odpovědnost zůstává na pověřujícím advokátovi.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vylučuje plná moc substituci?
+- [ ] Je substitut advokátem (u koncipienta jen jednotlivý úkon)?
+- [ ] Nejde o řízení s povinným advokátním zastoupením (NS/NSS/ÚS)?
+- [ ] Je doložena substituční plná moc soudu/orgánu?
+
+**Typicky rozhodné důkazy / podklady:** plná moc klienta, substituční plná moc, podání s podpisem oprávněné osoby, evidence úkonů.
 
 ---
 
@@ -506,6 +942,43 @@ Toto ustanovení chrání zástupce před nepředvídatelnými finančními rizi
 
 V případě smrti advokáta soud (nikoli Komora) jmenuje **správce části pozůstalosti** sloužící k výkonu advokacie. Toto pravidlo respektuje, že **klientské spisy** a **úschovy** jsou součástí pozůstalosti zemřelého advokáta, ale podléhají zvláštnímu režimu (mlčenlivost, ochrana klientů). Pozůstalostní řízení (zákon č. 292/2013 Sb.) tak musí být koordinováno s režimem ZA. V praxi soudy téměř výhradně jmenují správcem osobu navrženou Komorou — typicky **dalšího advokáta** s odpovídajícími profesními zkušenostmi.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Samostatný advokát A náhle dlouhodobě onemocní a neučiní žádné opatření k ochraně klientů. Po více než měsíci Komora určí jeho zástupcem advokáta Z. Klient K, jemuž A drží v úschově 400 000 Kč, je o určení zástupce vyrozuměn, do měsíce nereaguje ani nesjedná jiné zastoupení. Z se domáhá osvědčení přechodu práv a povinností. Důkazy: doklad o překážce, určení zástupce Komorou, vyrozumění klientů, evidence úschovy.
+
+**2. Právní otázka.** Přecházejí na zástupce určeného Komorou práva a povinnosti ze smlouvy, a vztahuje se přechod i na povinnost vrátit úschovu a na odpovědnost za újmu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 27 odst. 1 (povinnost ustanovit zástupce do měsíce), odst. 2 (přechod práv a povinností ex lege), odst. 3 (co nepřechází), odst. 4 (nástupnictví po vyškrtnutí), odst. 5 (správce pozůstalosti po smrti).
+- *Související ustanovení téhož zákona:* § 24 odst. 1 (odpovědnost za újmu), § 26 (substituce), § 29 odst. 2, § 56 (úschovy), § 19 a § 20 (obdobně pro zástupce).
+- *Související předpisy:* zákon č. 292/2013 Sb. (pozůstalostní řízení), § 41 odst. 5 TŘ.
+- *Judikatura:* NS 30 Cdo 207/2021 (meze jednání za zemřelého/neexistujícího účastníka — jednání nástupců vlastním jménem).
+
+**4. Subsumpce.** Po marném uplynutí měsíční lhůty (odst. 2) přecházejí na Z práva a povinnosti ze smlouvy s K, včetně zastupování v řízení. Nepřechází však povinnost vrátit úschovu (400 000 Kč) ani odpovědnost A za případnou újmu (odst. 3) — ty zůstávají na A.
+
+**5. Řešení.** Z převezme zastoupení K, Komora přechod na žádost osvědčí. Úschovu řeší samostatně A (resp. Garanční fond dle § 29a při trestné činnosti). Procesní krok: vyžádat osvědčení přechodu, vyrozumět soud/orgány.
+
+**6. Varianty.** (a) Při vyškrtnutí A určí Komora nástupce (odst. 4) za obdobných pravidel. (b) Při smrti A jmenuje soud na návrh Komory správce části pozůstalosti sloužící k advokacii (odst. 5).
+
+#### G. Protiargumenty a rizika
+
+- *„Na zástupce přechází vše včetně úschovy a odpovědnosti."* Neutralizace: odst. 3 výslovně vylučuje přechod povinnosti vrátit věci/peníze a odpovědnosti za újmu — zůstávají na původním advokátovi.
+- *„Klient se přechodu nemůže bránit."* Klient má měsíc na jiné opatření; učiní-li je, přechod nenastane.
+- Slabé místo: koordinace s pozůstalostním řízením a ochrana mlčenlivosti spisu vyžaduje opatrnost; správce musí být sám advokátem vázaným mlčenlivostí.
+
+#### H. Praktický závěr
+
+Při překážce, vyškrtnutí či smrti advokáta nastupuje mechanismus zástupce/nástupce/správce; práva a povinnosti ze smlouvy přecházejí ex lege, avšak odpovědnost za újmu a povinnost vrátit věci/peníze zůstávají na původním advokátovi.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ustanovil advokát zástupce do jednoho měsíce od vzniku překážky (odst. 1)?
+- [ ] Byli klienti bezodkladně písemně vyrozuměni?
+- [ ] Uplynula klientovi měsíční lhůta k jinému opatření (odst. 2)?
+- [ ] Je vyloučen přechod úschov a odpovědnosti za újmu (odst. 3)?
+- [ ] U smrti: podán návrh na jmenování správce pozůstalosti (odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o překážce/vyškrtnutí/úmrtí, rozhodnutí Komory o určení zástupce/nástupce, vyrozumění klientů, evidence úschov, osvědčení přechodu, usnesení pozůstalostního soudu.
+
 ---
 
 ### § 28 — Smírčí řízení mezi advokáty
@@ -533,6 +1006,42 @@ Smírčí řízení **není podmínkou přípustnosti** soudního sporu v proces
 
 Výjimkou je situace, kdy **třetí osoba** (klient, soud, dodavatel apod.) je účastníkem sporu — pak by smírčí řízení mezi advokáty neslo pochybnost a nebylo by funkční.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Advokát A má vůči advokátu B nárok na podíl z odměny za společně vedenou věc (spor mezi dvěma advokáty z výkonu advokacie). A podá rovnou žalobu k soudu, aniž využil smírčího řízení před orgány Komory. B navrhuje zastavení řízení pro nedostatek podmínky řízení. Důkazy: dohoda o spolupráci, korespondence, žaloba.
+
+**2. Právní otázka.** Je absence smírčího řízení dle § 28 podmínkou řízení, jejíž nedostatek vede k zastavení soudního řízení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 28 odst. 1 (povinnost využít smírčího řízení před soudním sporem mezi advokáty), odst. 2–3 (vedení a podrobnosti).
+- *Související ustanovení téhož zákona:* § 32 odst. 2 (kárné provinění při porušení povinnosti), § 53 a násl. (orgány Komory).
+- *Související předpisy:* § 103, § 104 OSŘ (podmínky řízení), stavovský předpis o smírčím řízení.
+- *Judikatura:* NS 23 Cdo 62/2020 (absence smírčího řízení dle § 28 není podmínkou řízení dle § 103 OSŘ a není důvodem k zastavení dle § 104 OSŘ).
+
+**4. Subsumpce.** Spor je mezi dvěma advokáty a souvisí s výkonem advokacie (žádná třetí osoba) → povinnost dle § 28 odst. 1 dopadá. Porušení této povinnosti však dle NS 23 Cdo 62/2020 není procesní podmínkou; soud řízení nezastaví. Porušení může být kárným proviněním (§ 32 odst. 2).
+
+**5. Řešení.** Soud o žalobě A rozhodne věcně; návrh B na zastavení je nedůvodný. A však riskuje kárné provinění pro nevyužití smírčího řízení. Procesní krok: i přesto je vhodné smírčí řízení iniciovat, nebo doložit důvod jeho nevyužití.
+
+**6. Varianty.** (a) Je-li účastníkem sporu třetí osoba (klient), povinnost dle odst. 1 odpadá. (b) Spor nesouvisející s výkonem advokacie (např. soukromá půjčka mezi advokáty) pod § 28 nespadá.
+
+#### G. Protiargumenty a rizika
+
+- *„Bez smírčího řízení soud řízení zastaví."* Neutralizace: NS 23 Cdo 62/2020 — nejde o podmínku řízení, žaloba je projednatelná.
+- *„Smírčí řízení je bezvýznamné."* Jeho nevyužití je kárně postižitelné (§ 32 odst. 2) — povinnost trvá bez ohledu na procesní účinky.
+- Slabé místo: hranice „souvislosti s výkonem advokacie" a posouzení účasti třetí osoby mohou být sporné.
+
+#### H. Praktický závěr
+
+Spory mezi advokáty z výkonu advokacie mají předcházet smírčímu řízení před Komorou; jeho absence nebrání projednání žaloby, ale zakládá kárné riziko. Při účasti třetí osoby povinnost odpadá.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je spor mezi advokáty a souvisí s výkonem advokacie?
+- [ ] Není účastníkem třetí osoba (pak povinnost odpadá)?
+- [ ] Bylo využito smírčí řízení před orgány Komory?
+- [ ] Soud: nezaměňovat povinnost dle § 28 s podmínkou řízení (NS 23 Cdo 62/2020).
+
+**Typicky rozhodné důkazy / podklady:** dohoda/korespondence mezi advokáty, doklad o zahájení/nevyužití smírčího řízení, žaloba, vymezení okruhu účastníků sporu.
+
 ---
 
 ### § 29 — Oznamovací povinnost vůči Komoře
@@ -556,6 +1065,42 @@ Oznamovací povinnost slouží trojímu cíli:
 Lhůta jednoho týdne je krátká, ale praktická — odpovídá standardní době, v níž lze administrativní změnu zaregistrovat. Porušení oznamovací povinnosti je **kárným proviněním** (§ 32 odst. 2).
 
 V kontextu odst. 2 jde o zvláště citlivou oblast — advokát musí oznámit **i takové skutečnosti, jež hovoří v jeho neprospěch** (trestní stíhání, exekuci, prohlášení úpadku). Důvěra v advokátní stav vyžaduje vlastní transparenci.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Proti advokátu A bylo zahájeno trestní stíhání pro úmyslný majetkový trestný čin a současně byl na něj podán insolvenční návrh. A tyto skutečnosti Komoře neoznámí, neboť „nejde o jeho advokátní činnost". Po několika měsících se Komora dozví o stíhání z jiného zdroje. Důkazy: usnesení o zahájení trestního stíhání, insolvenční rejstřík, evidence Komory.
+
+**2. Právní otázka.** Je advokát povinen oznámit Komoře i skutečnosti svědčící v jeho neprospěch, které mohou vést k pozastavení výkonu advokacie nebo k vyškrtnutí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 29 odst. 1 (oznámení sídla, způsobu výkonu a změn do týdne), odst. 2 (oznámení skutečností pro pozastavení/vyškrtnutí).
+- *Související ustanovení téhož zákona:* § 8 a § 9 (pozastavení), § 7b a § 8 (vyškrtnutí), § 32 odst. 2 (kárné provinění).
+- *Související předpisy:* zákon č. 182/2006 Sb. (insolvenční zákon), trestní řád (zahájení stíhání).
+- *Judikatura:* obecně k oznamovacím povinnostem regulovaných profesí — nosný závěr, že neoznámení skutečností v neprospěch je samostatným porušením povinnosti.
+
+**4. Subsumpce.** Trestní stíhání a insolvenční návrh jsou skutečnostmi, jež mohou být důvodem pozastavení/vyškrtnutí (odst. 2). A je byl povinen oznámit ve lhůtě dle odst. 1 (do týdne). Neoznámení zakládá kárné provinění (§ 32 odst. 2).
+
+**5. Řešení.** A měl skutečnosti oznámit bez odkladu, do týdne; jejich zamlčení je samostatným kárným proviněním a může vést k zostření opatření. Procesní krok: oznámení doplnit, doložit datum vzniku skutečnosti.
+
+**6. Varianty.** (a) Změna sídla nebo způsobu výkonu advokacie se oznamuje rovněž do týdne (odst. 1). (b) Jde-li o bagatelní opožděné hlášení bez závažných důsledků, nemusí dosahovat intenzity kárného provinění.
+
+#### G. Protiargumenty a rizika
+
+- *„Soukromé záležitosti (stíhání, úpadek) Komoře oznamovat nemusím."* Neutralizace: odst. 2 výslovně cílí na skutečnosti mimo samotnou advokátní činnost, jež mohou vést k pozastavení/vyškrtnutí.
+- *„Lhůta jednoho týdne je nepřiměřená."* Lhůta je krátká, ale odpovídá administrativní povaze; její nedodržení je postižitelné.
+- Slabé místo: posouzení, které skutečnosti „mohou být důvodem" pozastavení/vyškrtnutí, vyžaduje právní úvahu — v pochybnostech oznámit.
+
+#### H. Praktický závěr
+
+Advokát musí Komoře oznamovat údaje pro seznam a jejich změny do týdne a rovněž skutečnosti, jež mohou vést k pozastavení výkonu advokacie nebo k vyškrtnutí — i ty, které svědčí v jeho neprospěch. Neoznámení je kárným proviněním.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byly oznámeny sídlo, způsob výkonu a jejich změny do jednoho týdne (odst. 1)?
+- [ ] Nastala skutečnost, jež může být důvodem pozastavení/vyškrtnutí (odst. 2)?
+- [ ] Byla taková skutečnost oznámena bez odkladu, i když svědčí v neprospěch?
+- [ ] Je doloženo datum vzniku oznamované skutečnosti?
+
+**Typicky rozhodné důkazy / podklady:** oznámení Komoře, doklad o vzniku skutečnosti (usnesení o zahájení stíhání, insolvenční rejstřík, exekuční titul), evidence Komory.
 
 ---
 
@@ -588,6 +1133,43 @@ Mechanismus **poměrného uspokojení** (odst. 2 vě 2) přichází ke slovu, ne
 
 > **Srovnání:** Notářský úřad zná garanci přes Notářskou komoru a profesní pojištění; soudní exekutor přes Exekutorskou komoru. Garanční fond ČAK je v této trojici nejrobustnější z hlediska legislativně stanovených minimálních limitů, což reflektuje specifické riziko advokátní úschovy (často objemné transakční účty).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Advokát A zpronevěří z advokátní úschovy kupní cenu 5,8 mil. Kč za prodej rodinného domu sloužícího k bydlení (dle katastru). A je trestně stíhán a vyškrtnut; pojistitel plnění odmítne pro výluku úmyslného jednání. Poškozený prodávající P žádá náhradu z Garančního fondu Komory. Důkazy: smlouva o úschově, doklad o katastrálním určení nemovitosti k bydlení, trestní spis, vyjádření pojistitele.
+
+**2. Právní otázka.** Do jaké výše a za jakých podmínek poskytne Garanční fond Komory náhradu poškozenému z trestné činnosti advokáta při úschově kupní ceny obytné nemovitosti?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 29a odst. 1 (účel fondu), odst. 2 (limity — 2,5 mil. Kč obecně, 5 mil. Kč u kupní ceny obytné nemovitosti, poměrné uspokojení), odst. 3 (subrogace Komory).
+- *Související ustanovení téhož zákona:* § 24a–24c (pojištění — výluka úmyslu), § 56 (úschovy), § 30 odst. 1 (financování fondu).
+- *Související předpisy:* zákon č. 256/2013 Sb. (katastr nemovitostí), trestní zákoník (zpronevěra).
+- *Judikatura:* obecně k subsidiární povaze garančních fondů — nosný závěr, že fond plní tam, kde selže pojištění, a do zákonného limitu.
+
+**4. Subsumpce.** Jde o trestnou činnost advokáta při úschově (odst. 1). Předmětem byla kupní cena obytné nemovitosti dle katastru → limit 5 mil. Kč (odst. 2). Pojistitel plnil-li by, předchází fond; zde však plnění odmítl pro úmysl. Náhrada P se poskytne do 5 mil. Kč.
+
+**5. Řešení.** P obdrží z fondu náhradu max. 5 mil. Kč (nepostačují-li prostředky, poměrně a zbytek v dalším termínu). Výplatou se Komora stává věřitelem A v rozsahu plnění (odst. 3). Procesní krok: uplatnit nárok u Komory, doložit katastrální určení.
+
+**6. Varianty.** (a) Šlo-li by o obecnou úschovu (ne obytná nemovitost), limit činí 2,5 mil. Kč. (b) Při nedostatku prostředků fondu se nároky uspokojí poměrně a neuspokojená část v dalším termínu (odst. 2).
+
+#### G. Protiargumenty a rizika
+
+- *„Fond kryje celou škodu."* Neutralizace: náhrada je limitována (2,5 mil. / 5 mil. Kč na úschovu) a při nedostatku prostředků se krátí poměrně.
+- *„Pojištění a fond se sčítají."* Fond je sekundární — nastupuje typicky tam, kde pojištění neplní (výluka úmyslu).
+- Slabé místo: nutné doložit, že nemovitost dle katastru slouží k bydlení (vyšší limit), a charakter úschovy jako jedné úschovy.
+
+#### H. Praktický závěr
+
+Garanční fond Komory je sekundární pojistkou pro úschovy poškozené trestnou činností advokáta; náhrada je limitována (2,5 mil. Kč, u kupní ceny obytné nemovitosti 5 mil. Kč), při nedostatku prostředků se krátí poměrně a Komora vstupuje do práv věřitele.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o újmu z trestné činnosti advokáta v souvislosti s úschovou peněz?
+- [ ] Plnil/odmítl plnit pojistitel (fond je sekundární)?
+- [ ] Jaký limit se uplatní (obecná úschova 2,5 mil. / obytná nemovitost 5 mil.)?
+- [ ] Je doloženo katastrální určení nemovitosti k bydlení?
+- [ ] Nehrozí poměrné krácení pro nedostatek prostředků fondu?
+
+**Typicky rozhodné důkazy / podklady:** smlouva o úschově, výpis z katastru, trestní spis/odsuzující rozsudek, vyjádření pojistitele, vyčíslení škody, doklad o jedné úschově.
+
 ---
 
 ### § 30 — Příspěvky a odvody
@@ -614,6 +1196,42 @@ Sazby stanoví sněm Komory; standardní příspěvek na činnost Komory činí 
 
 Vyškrtnutí ze seznamu advokátů **nemá liberační účinek** vůči splatným dluhům vůči Komoře — výjimkou jsou pouze případy vyškrtnutí z důvodů uvedených v § 7b odst. 1 písm. a) až c) (typicky smrt advokáta nebo prohlášení za mrtvého). Toto pravidlo zajišťuje, že advokát se nemůže vyhnout finančním závazkům vůči Komoře jednoduchým ukončením členství.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Advokát A dluží Komoře nezaplacené příspěvky na činnost a odvody do sociálního a garančního fondu za dva roky. A požádá o vyškrtnutí ze seznamu na vlastní žádost a domnívá se, že tím dluhy zanikají. Komora dluhy vymáhá i po vyškrtnutí. Důkazy: evidence plateb, usnesení sněmu o výši příspěvků, rozhodnutí o vyškrtnutí.
+
+**2. Právní otázka.** Zanikají splatné dluhy advokáta vůči Komoře jeho vyškrtnutím ze seznamu advokátů?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 30 odst. 1 (povinnost platit příspěvky a odvody), odst. 2 (trvalost dluhu po vyškrtnutí, s výjimkou § 7b odst. 1 písm. a) až c)).
+- *Související ustanovení téhož zákona:* § 43 písm. c) (další platby), § 29a (Garanční fond), § 7b (důvody vyškrtnutí).
+- *Související předpisy:* usnesení sněmu ČAK o výši příspěvků a odvodů.
+- *Judikatura:* obecně k povaze členských a veřejnoprávně-stavovských plateb — nosný závěr o jejich vymahatelnosti i po zániku členství.
+
+**4. Subsumpce.** Dluhy A vznikly z povinností dle odst. 1 a byly splatné před vyškrtnutím. Vyškrtnutí na vlastní žádost nespadá pod výjimky § 7b odst. 1 písm. a) až c) → dluhy nezanikají (odst. 2) a Komora je vymáhá.
+
+**5. Řešení.** A je povinen dluhy uhradit i po vyškrtnutí; Komora je může vymáhat soudně. Procesní krok: vyčíslit dluh, doložit usnesení sněmu o sazbách.
+
+**6. Varianty.** (a) Při vyškrtnutí z důvodu dle § 7b odst. 1 písm. a) až c) (typicky smrt) splatné dluhy zanikají. (b) Příspěvek na činnost Komory činí k roku 2026 řádově jednotky desítek tisíc Kč ročně dle režimu výkonu.
+
+#### G. Protiargumenty a rizika
+
+- *„Vyškrtnutím mé závazky vůči Komoře zanikly."* Neutralizace: odst. 2 výslovně stanoví trvalost dluhu, s úzkou výjimkou § 7b odst. 1 písm. a) až c).
+- *„Sazby nejsou závazné."* Sazby stanoví sněm Komory a jsou pro advokáty závazné.
+- Slabé místo: rozlišení důvodu vyškrtnutí je rozhodné — jen důvody dle § 7b odst. 1 písm. a) až c) mají liberační účinek.
+
+#### H. Praktický závěr
+
+Advokát platí Komoře příspěvky na činnost a odvody do sociálního a garančního fondu; splatné dluhy přetrvávají i po vyškrtnutí, s výjimkou vyškrtnutí z důvodů dle § 7b odst. 1 písm. a) až c).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jsou příspěvky a odvody hrazeny ve výši dle usnesení sněmu?
+- [ ] Existují splatné dluhy ke dni vyškrtnutí?
+- [ ] Spadá důvod vyškrtnutí pod výjimku § 7b odst. 1 písm. a) až c) (zánik dluhu)?
+- [ ] Komora: vymáhání dluhu i po vyškrtnutí (odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** evidence plateb a dluhů, usnesení sněmu o sazbách, rozhodnutí o vyškrtnutí a jeho právní důvod.
+
 ---
 
 ### § 31 — Pracovní podmínky advokátních koncipientů
@@ -635,6 +1253,42 @@ Advokátní koncipient (§ 36 a násl. ZA) je v právním režimu **zaměstnance
 Porušení této povinnosti je **kárným proviněním advokáta-zaměstnavatele** (§ 32 odst. 2). V praxi je § 31 jednou z nejméně vymáhaných norem (koncipient se ze strachu před ztrátou zaměstnání nestěžuje), ale Komora se touto problematikou systematicky zabývá.
 
 > **Vazba na zákoník práce:** Pracovní právo (§§ 232–235 ZP — odborný rozvoj zaměstnanců, prohlubování a zvyšování kvalifikace) tvoří obecný rámec. Vztah § 31 ZA k § 232 ZP je vztahem **lex specialis** — advokátní koncipient má nárok na vzdělávání nad rámec obecné úpravy zákoníku práce.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Advokát-zaměstnavatel Z systematicky odmítá koncipientovi K poskytnout pracovní volno na školení Komory a na přípravu k advokátní zkoušce s odůvodněním vytíženosti kanceláře; nakonec mu blokuje i účast u zkoušky. K si stěžuje Komoře. Důkazy: pracovní smlouva, žádosti o volno, rozpis školení Komory, korespondence o zamítnutí.
+
+**2. Právní otázka.** Je povinnost vytvářet podmínky pro přípravu koncipienta vymahatelná a jaké jsou následky jejího porušení zaměstnavatelem?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 31 (povinnost vytvářet podmínky pro přípravu koncipienta — školení, příprava na zkoušku, účast u zkoušky).
+- *Související ustanovení téhož zákona:* § 36 a násl. (koncipient a advokátní zkouška), § 32 odst. 2 (kárné provinění).
+- *Související předpisy:* §§ 232–235 zákoníku práce (odborný rozvoj), stavovský předpis o rozsahu školení.
+- *Judikatura:* obecně k vymahatelnosti profesně-výchovných povinností zaměstnavatele; nosný závěr o kárné postižitelnosti jejich porušení.
+
+**4. Subsumpce.** Z je zaměstnavatelem koncipienta a má povinnost dle § 31 (zejména umožnit školení, přípravu a účast u zkoušky). Blokování účasti u zkoušky a odmítání volna na školení tuto povinnost porušuje → kárné provinění advokáta-zaměstnavatele (§ 32 odst. 2).
+
+**5. Řešení.** Z musí podmínky vytvořit; jejich soustavné odpírání může Komora postihnout kárně. Procesní krok: K doloží žádosti a zamítnutí; Komora prošetří.
+
+**6. Varianty.** (a) Jednorázové odmítnutí z provozních důvodů s náhradním termínem nemusí dosahovat intenzity kárného provinění. (b) Blokace samotné účasti u zkoušky je závažnější a směřuje k uložení opatření.
+
+#### G. Protiargumenty a rizika
+
+- *„Provozní vytíženost mě omlouvá."* Neutralizace: § 31 výslovně ukládá umožnit školení, přípravu a účast u zkoušky; provozní důvody nemohou přípravu fakticky znemožnit.
+- *„Jde jen o pracovněprávní vztah."* § 31 je lex specialis k § 232 ZP — koncipient má nárok nad rámec obecné úpravy.
+- Slabé místo: norma je v praxi málo vymáhána (koncipient se obává o zaměstnání) — důkazní iniciativa leží na koncipientovi.
+
+#### H. Praktický závěr
+
+Zaměstnavatel advokátního koncipienta musí vytvářet podmínky pro jeho přípravu na povolání advokáta (školení, příprava na zkoušku, účast u zkoušky); porušení je kárným proviněním advokáta.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Umožňuje zaměstnavatel účast na školeních Komory?
+- [ ] Poskytuje přiměřené volno na přípravu k advokátní zkoušce?
+- [ ] Nebrání účasti koncipienta u advokátní zkoušky?
+- [ ] Jsou žádosti a jejich vyřízení dokumentovány?
+
+**Typicky rozhodné důkazy / podklady:** pracovní smlouva, žádosti o volno a jejich vyřízení, rozpis školení Komory, korespondence, evidence účasti na zkoušce.
 
 ---
 
@@ -739,6 +1393,43 @@ Odnětí knihy o prohlášeních a dočasný zákaz výkonu činnosti dle § 56a
 
 > **Promlčení kárné odpovědnosti** — nikoli v § 32, ale v § 33 odst. 2 (viz dále): subjektivní lhůta 1 rok, objektivní 3 roky. Tato úprava je relativně přísná ve prospěch advokáta a kontrastuje s úpravou v přestupkovém právu, kde objektivní lhůta činí typicky 3 roky, prodloužitelná na 5 let u závažných přestupků.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Advokát A opakovaně (třikrát během roku) opožděně reaguje na výzvy klientů a v jednom případě nedodrží pokyn klienta v rozporu se stavovským předpisem. Kárný žalobce navrhuje vyškrtnutí. A namítá, že jde o bagatelní jednorázová pochybení, a poukazuje na to, že s jedním poškozeným uzavřel písemnou reparační dohodu. Důkazy: stížnosti klientů, korespondence, reparační dohoda.
+
+**2. Právní otázka.** Jsou opakovaná méně závažná porušení kárným proviněním a lze od uložení opatření upustit při reparační dohodě s poškozeným?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 32 odst. 2 (definice — závažné nebo opětovné zaviněné porušení), odst. 3 (katalog opatření), odst. 5 (upuštění od opatření), odst. 8 (přiměřená aplikace TZ při souběhu).
+- *Související ustanovení téhož zákona:* § 16, § 17 (povinnosti advokáta), § 33 odst. 2 (promlčení), § 35b (zahlazení).
+- *Související předpisy:* §§ 43–45 trestního zákoníku (úhrnný/souhrnný/společný trest, přiměřeně), čl. 40 odst. 6 Listiny.
+- *Judikatura:* ÚS II.ÚS 1295/11 (dohled nad pravidly výkonu advokacie vykonává ČAK v kárném řízení dle § 32 odst. 2).
+
+**4. Subsumpce.** Opětovnost porušení zakládá kárné provinění i u méně závažných pochybení (odst. 2 — alternativa „opětovné"). Pro souběh se přiměřeně užije TZ (odst. 8). Reparační dohoda s poškozeným umožňuje upustit od opatření (odst. 5), je-li to dostačující.
+
+**5. Řešení.** A je kárně odpovědný (opětovnost), avšak vyškrtnutí by bylo nepřiměřené; vhodnější je mírnější opatření, případně upuštění dle odst. 5 s ohledem na reparační dohodu. Procesní krok: doložit reparaci a polehčující okolnosti.
+
+**6. Varianty.** (a) Jediné bagatelní pochybení bez opětovnosti a bez závažnosti kárným proviněním není. (b) AML-porušení se neposuzuje dle § 32 (vyloučeno z definice), ale jako přestupek dle § 35ea.
+
+#### G. Protiargumenty a rizika
+
+- *„Jednotlivá pochybení jsou bagatelní, tedy beztrestná."* Neutralizace: opětovnost sama zakládá závažnost (odst. 2) — akumulace je rozhodná.
+- *„Reparační dohoda vylučuje sankci."* Odst. 5 umožňuje upustit od opatření, ale jen je-li to vzhledem k okolnostem dostačující — není automatická.
+- Slabé místo: výběr přiměřeného opatření z široké škály vyžaduje individuální posouzení; nadměrné opatření (vyškrtnutí) je zranitelné v přezkumu.
+
+#### H. Praktický závěr
+
+Kárným proviněním je závažné nebo opětovné zaviněné porušení povinností (mimo AML); opatření tvoří stupňovanou škálu od napomenutí po vyškrtnutí a lze od něj při méně závažném porušení nebo reparační dohodě upustit.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o závažné, nebo alespoň opětovné a zaviněné porušení (odst. 2)?
+- [ ] Nejde o AML-porušení (řeší § 35ea, ne § 32)?
+- [ ] Je zvolené opatření přiměřené závažnosti a recidivě?
+- [ ] Lze upustit od opatření (méně závažné porušení / reparační dohoda — odst. 5)?
+- [ ] Byl při souběhu přiměřeně užit TZ (odst. 8)?
+
+**Typicky rozhodné důkazy / podklady:** stížnosti a podněty, advokátní spis a korespondence, doklad o reparační dohodě, údaje o kárné minulosti (zahlazení dle § 35b).
+
 ---
 
 ### § 33 — Kárný senát a kárná žaloba
@@ -799,6 +1490,42 @@ Tato práva odpovídají minimálnímu standardu spravedlivého procesu dle čl.
 
 Pro řízení se přiměřeně použijí ustanovení **správního řádu** (zákon č. 500/2004 Sb.) o zajištění účelu a průběhu řízení — tj. zejména pravidla o předvolávání, předvádění, pořádkové pokutě, zajištění věci. Pořádková pokuta je příjmem Komory.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Kontrolní rada se o pochybení advokáta A dozví v lednu 2024 (pochybení nastalo v březnu 2021). Předseda kontrolní rady pověří advokáta B přípravnými úkony a prověřením. Kárnou žalobu předseda kontrolní rady podá až v únoru 2025. A namítá uplynutí lhůt a vznáší výhradu vůči pověřenému B. Důkazy: záznam o zjištění pochybení, pověření B, kárná žaloba s datem podání.
+
+**2. Právní otázka.** Byla kárná žaloba podána včas a má pověřený advokát při prověřování oprávnění nahlížet do dokumentů advokáta navzdory mlčenlivosti?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 33 odst. 1 (tříčlenný kárný senát, účastníci), odst. 2 (lhůty — 1 rok subjektivní, 3 roky objektivní), odst. 3 (přípravné úkony a oprávnění pověřeného advokáta), odst. 4–5 (obrana), odst. 6 (subsidiárně správní řád).
+- *Související ustanovení téhož zákona:* § 21 odst. 6 a odst. 9 písm. b) (mlčenlivost v kárném řízení), § 46 odst. 3 a 4, § 51 odst. 2 (kárný žalobce).
+- *Související předpisy:* zákon č. 500/2004 Sb. (správní řád — zajištění řízení).
+- *Judikatura:* k prekluzivní povaze lhůt srov. obecné závěry — uplynutím zaniká právo podat žalobu.
+
+**4. Subsumpce.** Subjektivní lhůta běžela od ledna 2024 a uplynula v lednu 2025; žaloba z února 2025 je opožděná (i kdyby objektivní 3letá lhůta od března 2021 ještě neuplynula — uplynula v březnu 2024). Žaloba je nepřípustná. Pověřený B měl při prověřování oprávnění člena kontrolní rady (odst. 3), mlčenlivost se vůči němu neuplatní (§ 21 odst. 6).
+
+**5. Řešení.** Kárný senát žalobu odmítne pro uplynutí prekluzivní lhůty. Výhrada vůči oprávnění B je nedůvodná. Procesní krok: namítnout prekluzi obou lhůt.
+
+**6. Varianty.** (a) Pokud by žaloba byla podána do roka od zjištění a do tří let od činu, byla by přípustná. (b) Při duševní poruše A by mu senát ustanovil opatrovníka (odst. 4).
+
+#### G. Protiargumenty a rizika
+
+- *„Lhůty se staví po dobu prověřování."* Neutralizace: lhůty dle odst. 2 jsou prekluzivní a zásadně se nestaví ani nepřerušují; prověřování běh nezastavuje.
+- *„Pověřený advokát nesmí nahlížet do dokumentů kvůli mlčenlivosti."* § 21 odst. 6 a odst. 9 písm. b) ho z mlčenlivosti vyjímají a zavazují vlastní mlčenlivostí.
+- Slabé místo: určení počátku subjektivní lhůty (kdy se žalobce „dozvěděl") může být sporné — rozhodné je doložení okamžiku vědomosti.
+
+#### H. Praktický závěr
+
+O kárném provinění rozhoduje tříčlenný kárný senát na základě žaloby kárného žalobce; žaloba musí být podána do 1 roku od zjištění a do 3 let od činu (prekluzivně). Pověřený advokát má při prověřování oprávnění kontrolní rady a není vázán mlčenlivostí.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla žaloba podána do 1 roku od zjištění a do 3 let od činu (odst. 2)?
+- [ ] Je žalobcem oprávněná osoba (předseda kontrolní rady / ministr)?
+- [ ] Měl pověřený advokát oprávnění dle § 46 odst. 4 (odst. 3)?
+- [ ] Byla zajištěna práva obviněného (zastoupení, opatrovník, vyjádření, návrhy důkazů)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o okamžiku zjištění pochybení, pověření k přípravným úkonům, kárná žaloba s datem, spis advokáta, doklady o doručování.
+
 ---
 
 ### § 33a — Náklady kárného řízení
@@ -826,6 +1553,42 @@ Konstrukce odpovídá obecné zásadě civilního procesu — strana, jež nese 
 #### Lhůta tří dnů pro svědka (odst. 3) — formálně přísná
 
 Velmi krátká lhůta — pouze tři dny od výslechu — pro uplatnění nároku na náhradu výdajů a ušlého výdělku. Lhůta je **prekluzivní** (nárok zaniká). Svědek musí být o této lhůtě poučen, jinak její neuplatnění nelze přičítat svědkovi. V kárné praxi se tato lhůta jeví jako příliš přísná a v některých případech vyvolává kritiku z hlediska kompatibility s obecným standardem ochrany práv třetích osob.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** V kárném řízení proti advokátu A je vyslechnut svědek S, jemuž vznikly hotové výdaje a ušlý výdělek (cesta, zameškaná práce). S nebyl o třídenní lhůtě k uplatnění nároku poučen a nárok uplatní až za týden. Kárný senát současně vysloví vinu A a zaváže ho k náhradě nákladů řízení paušální částkou. Důkazy: protokol o výslechu (bez poučení), doklady o výdajích S, rozhodnutí o vině.
+
+**2. Právní otázka.** Zaniká nárok svědka, nebyl-li o třídenní lhůtě poučen, a vzniká vinnému advokátovi povinnost paušální náhrady nákladů řízení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 33a odst. 1 (rozložení nákladů), odst. 2 (paušální náhrada při výroku o vině), odst. 3 (náhrada svědkovi a třídenní prekluzivní lhůta s poučovací povinností), odst. 4 (znalci, tlumočníci).
+- *Související ustanovení téhož zákona:* § 33 (kárné řízení), § 34 (rozhodnutí), § 35a odst. 6 (výkon náhrady nákladů).
+- *Související předpisy:* zvláštní předpisy o odměnách znalců a tlumočníků; stavovský předpis o výši paušálu.
+- *Judikatura:* obecně k poučovací povinnosti jako podmínce počátku běhu prekluzivní lhůty — bez poučení nelze zmeškání přičítat oprávněnému.
+
+**4. Subsumpce.** Třídenní lhůta je prekluzivní, ale váže se na poučení (odst. 3). S nebyl poučen → zmeškání mu nelze přičítat a nárok nezaniká. Výrok o vině A zakládá povinnost paušální náhrady nákladů řízení Komoře (odst. 2).
+
+**5. Řešení.** Nárok S se přizná i po třech dnech, neboť chybělo poučení. A je zavázán k paušální náhradě dle stavovského předpisu. Procesní krok: doplnit poučení/akceptovat opožděný nárok S; do rozhodnutí pojmout výrok o nákladech.
+
+**6. Varianty.** (a) Byl-li S řádně poučen a lhůtu zmeškal, nárok zaniká. (b) Skončí-li řízení bez výroku o vině (zastavení), paušální náhrada dle odst. 2 nevzniká.
+
+#### G. Protiargumenty a rizika
+
+- *„Tři dny uplynuly, nárok svědka zanikl."* Neutralizace: prekluze nastává jen při řádném poučení (odst. 3) — bez poučení zmeškání nejde k tíži svědka.
+- *„Vinný advokát nehradí náklady, nese je Komora."* Komora nese institucionální náklady jen není-li výrok o vině; při vině advokát paušálně přispívá (odst. 2).
+- Slabé místo: krátkost lhůty je kritizovaná; nutné pečlivé protokolární poučení svědka.
+
+#### H. Praktický závěr
+
+Každý účastník nese své náklady, Komora institucionální; při výroku o vině hradí kárně obviněný paušální náhradu nákladů. Nárok svědka na výdaje a ušlý výdělek je vázán prekluzivní třídenní lhůtou, jejíž běh předpokládá poučení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byl svědek poučen o třídenní lhůtě (odst. 3)?
+- [ ] Obsahuje rozhodnutí při vině výrok o paušální náhradě nákladů (odst. 2)?
+- [ ] Je výše paušálu v souladu se stavovským předpisem?
+- [ ] Jsou odměny znalců/tlumočníků řešeny dle zvláštních předpisů (odst. 4)?
+
+**Typicky rozhodné důkazy / podklady:** protokol o výslechu s poučením, doklady o výdajích a ušlém výdělku svědka, rozhodnutí o vině, stavovský předpis o paušálu.
 
 ---
 
@@ -863,6 +1626,42 @@ Tyto náležitosti odpovídají standardům dle § 68 SŘ; absence odůvodnění
 
 Pravomocné rozhodnutí je vykonatelné. U pokuty zákon stanoví **15 dní** od právní moci k zaplacení (lze ji rozhodnutím prodloužit nebo splatit ve splátkách). Po uplynutí lhůty se rozhodnutí stává **exekučním titulem** (§ 35a odst. 4).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Kárný senát rozhoduje v roce 2026 o provinění advokáta A spáchaném v roce 2022. Mezitím nabyla účinnosti novela, jež pro daný typ provinění zmírnila horní hranici pokuty. Senát uloží pokutu a stanoví lhůtu k zaplacení; v rozhodnutí chybí poučení o opravném prostředku. Důkazy: kárná žaloba, znění zákona v době činu i v době rozhodování, vyhotovení rozhodnutí.
+
+**2. Právní otázka.** Která právní úprava se použije (v době činu, či pozdější mírnější) a jaký je následek absence poučení o opravném prostředku?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 34 odst. 1 (rozhodný stav v době činu, lex mitior), odst. 2 (náležitosti rozhodnutí — výrok, odůvodnění, poučení), odst. 3–4 (právní moc, vykonatelnost, lhůta 15 dnů u pokuty).
+- *Související ustanovení téhož zákona:* § 35 (odvolání), § 35a (výkon), § 33a (náklady).
+- *Související předpisy:* čl. 40 odst. 6 Listiny; § 68 správního řádu (náležitosti rozhodnutí, podpůrně).
+- *Judikatura:* k principu lex mitior u deliktů správně-trestní povahy srov. ustálenou judikaturu ÚS; nosný závěr o použití pozdější příznivější úpravy.
+
+**4. Subsumpce.** Rozhodný je stav v době činu (2022), avšak pozdější mírnější úprava se použije ve prospěch A (odst. 1) → uplatní se nižší horní hranice pokuty. Absence poučení o opravném prostředku je vadou náležitostí dle odst. 2, jež může vést ke zrušení rozhodnutí v přezkumu.
+
+**5. Řešení.** Senát uloží pokutu dle mírnější úpravy a doplní poučení o odvolání; bez poučení hrozí zrušení. Lhůta k zaplacení pokuty je 15 dnů od právní moci (odst. 4). Procesní krok: vydat bezvadné vyhotovení se všemi náležitostmi.
+
+**6. Varianty.** (a) Je-li pozdější úprava přísnější, použije se stav v době činu (odst. 1). (b) Při povolení splátek nebo delší lhůty se vykonatelnost váže na uplynutí stanovené lhůty.
+
+#### G. Protiargumenty a rizika
+
+- *„Platí vždy zákon účinný v době rozhodování."* Neutralizace: odst. 1 — rozhodný je stav v době činu, pozdější úprava jen je-li příznivější.
+- *„Chybějící poučení je formalita."* Absence poučení/odůvodnění je vadou, jež může vést ke zrušení odvolacím senátem nebo soudem (odst. 2).
+- Slabé místo: posouzení, která úprava je pro obviněného příznivější, vyžaduje srovnání celého režimu, nikoli jen sazby.
+
+#### H. Praktický závěr
+
+Pro rozhodnutí je rozhodný skutkový a právní stav v době činu; pozdější mírnější úprava se použije ve prospěch obviněného. Rozhodnutí musí mít výrok, odůvodnění a poučení; pokuta je splatná do 15 dnů od právní moci.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byl posouzen i lex mitior (pozdější příznivější úprava)?
+- [ ] Obsahuje rozhodnutí výrok, odůvodnění a poučení o opravném prostředku (odst. 2)?
+- [ ] Je správně určena právní moc a vykonatelnost (odst. 3)?
+- [ ] Je u pokuty stanovena lhůta 15 dnů (či delší / splátky) (odst. 4)?
+
+**Typicky rozhodné důkazy / podklady:** kárná žaloba, znění zákona v době činu i rozhodování, písemné vyhotovení rozhodnutí, doklad o doručení a právní moci.
+
 ---
 
 ### §§ 34a–34e — Kárný příkaz (zjednodušené řízení)
@@ -881,6 +1680,42 @@ Pravomocné rozhodnutí je vykonatelné. U pokuty zákon stanoví **15 dní** od
 **Zpětvzetí kárné žaloby** po vydání příkazu (§ 34e) — kárný žalobce smí žalobu vzít zpět do okamžiku doručení příkazu některé z oprávněných osob; zpětvzetím se příkaz zrušuje a řízení se zastavuje.
 
 Institut kárného příkazu reflektuje stejné principy jako **trestní příkaz** dle § 314e a násl. trestního řádu — efektivní řešení nesporných případů s nízkou závažností.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Skutkový stav provinění advokáta A je spolehlivě zjištěn z listin. Kárný senát vydá kárný příkaz a uloží pokutu 8× minimální měsíční mzdy. A s kvalifikací nesouhlasí a do 15 dnů podá odpor. Po zrušení příkazu věc projednává senát v plném řízení a zvažuje přísnější opatření. Důkazy: spis s listinami, kárný příkaz, odpor s datem.
+
+**2. Právní otázka.** Jaké opatření lze uložit kárným příkazem, jaký účinek má odpor a je senát v plném řízení vázán kvalifikací z příkazu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 34a (podmínky kárného příkazu, limity sankcí — advokát napomenutí nebo pokuta do 10× MMM, koncipient do 2× MMM), § 34c (odpor, lhůta 15 dnů, zrušení příkazu, nevázanost senátu), § 34e (zpětvzetí žaloby).
+- *Související ustanovení téhož zákona:* § 32 odst. 3 (katalog opatření), § 35 (odvolání — proti příkazu nepřípustné), § 33.
+- *Související předpisy:* § 314e a násl. trestního řádu (trestní příkaz — přiměřená analogie).
+- *Judikatura:* k zákazu reformationis in peius u trestního příkazu po odporu — pozor, v kárném režimu senát naopak vázán není.
+
+**4. Subsumpce.** Skutek je spolehlivě zjištěn → příkaz přípustný. Pokuta 8× MMM je v limitu (do 10× MMM). Odpor podaný do 15 dnů příkaz ruší (§ 34c); v plném řízení senát není vázán kvalifikací ani druhem opatření a může uložit i přísnější.
+
+**5. Řešení.** Po odporu se věc projedná v plném řízení; A nese riziko přísnějšího opatření. Proti příkazu odvolání nepřípustné (jen odpor). Procesní krok: zvážit, zda odpor podat s ohledem na riziko zhoršení.
+
+**6. Varianty.** (a) Kárný žalobce vezme žalobu zpět do doručení příkazu → příkaz se ruší, řízení se zastaví (§ 34e). (b) U koncipienta je limit příkazu pouze 2× MMM.
+
+#### G. Protiargumenty a rizika
+
+- *„Po odporu nelze uložit přísnější opatření."* Neutralizace: na rozdíl od trestního příkazu kárný senát v plném řízení vázán kvalifikací ani druhem opatření není — hrozí zpřísnění.
+- *„Proti příkazu lze podat odvolání."* Proti kárnému příkazu je přípustný jen odpor (§ 34c), nikoli odvolání (§ 35 odst. 1).
+- Slabé místo: posouzení „spolehlivého zjištění" skutkového stavu je předpokladem zákonnosti příkazu; sporný skutkový stav příkaz vylučuje.
+
+#### H. Praktický závěr
+
+Kárný příkaz umožňuje rozhodnout bez jednání u spolehlivě zjištěných méně závažných věcí (omezené sankce); odpor podaný do 15 dnů jej ruší a věc se projedná v plném řízení, v němž senát není vázán kvalifikací ani druhem opatření.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je skutkový stav spolehlivě zjištěn (předpoklad příkazu)?
+- [ ] Je uložené opatření v limitu příkazu (advokát do 10× MMM, koncipient do 2× MMM)?
+- [ ] Zvažuje obviněný odpor i s rizikem přísnějšího opatření v plném řízení?
+- [ ] Byl odpor podán do 15 dnů oprávněnou osobou (§ 34c)?
+
+**Typicky rozhodné důkazy / podklady:** listinný spis prokazující skutek, kárný příkaz, odpor s datem doručení, případné zpětvzetí žaloby.
 
 ---
 
@@ -917,6 +1752,43 @@ Při zrušení odvolací senát **buď sám rozhodne ve věci** (apelace) nebo v
 #### Soudní přezkum po odvolání
 
 Po pravomocném rozhodnutí odvolacího senátu lze podat **správní žalobu** dle § 55 ZA k Městskému soudu v Praze (specializovaná místní příslušnost) podle SŘS. Tím je zajištěn **soudní přezkum** kárných rozhodnutí — kárná samospráva ČAK není oddělená od obecné justice, ale podléhá konečné soudní kontrole. Ústavní soud v této věci konsolidoval výklad, že rozhodování ČAK má veřejnoprávní povahu a podléhá plnému soudnímu přezkumu, byť kárné senáty samy nejsou soudy ve smyslu čl. 81 Ústavy.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Advokát A byl kárným senátem uznán vinným a bylo mu uloženo vyškrtnutí. A podá do 15 dnů odvolání. Odvolací senát shledá procesní vadu (nebyl proveden navržený důkaz) a rozhodnutí zruší; věc vrátí prvostupňovému senátu s právním názorem. A následně zvažuje správní žalobu. Důkazy: prvostupňové rozhodnutí, odvolání s datem, rozhodnutí odvolacího senátu.
+
+**2. Právní otázka.** Jaký je účinek odvolání a jak může odvolací senát rozhodnout; je k dispozici soudní přezkum?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 35 odst. 1 (odvolání do 15 dnů s odkladným účinkem; vyloučeno u kárného příkazu), odst. 2 (odvolací senát), odst. 3 (zrušení/zamítnutí/odmítnutí, apelace nebo kasace s vázaností právním názorem).
+- *Související ustanovení téhož zákona:* § 34a–34e (kárný příkaz a odpor), § 55 (správní žaloba), § 51 (odvolací kárná komise).
+- *Související předpisy:* SŘS (správní žaloba, místní příslušnost Městského soudu v Praze).
+- *Judikatura:* ÚS — veřejnoprávní povaha rozhodování ČAK a jeho plný soudní přezkum.
+
+**4. Subsumpce.** Odvolání bylo podáno včas a má odkladný účinek → vyškrtnutí se nestalo vykonatelným. Odvolací senát pro procesní vadu zruší a vrátí věc s vázaným právním názorem (odst. 3 — kasační varianta). Po pravomocném rozhodnutí lze podat správní žalobu (§ 55).
+
+**5. Řešení.** Prvostupňový senát znovu projedná věc vázán právním názorem; A může proti konečnému rozhodnutí brojit správní žalobou. Procesní krok: hlídat 15denní lhůtu a doložit navržené důkazy.
+
+**6. Varianty.** (a) Jde-li o kárný příkaz, odvolání není přípustné (jen odpor — § 34c). (b) Odvolací senát může sám rozhodnout ve věci (apelace), je-li stav zjištěn.
+
+#### G. Protiargumenty a rizika
+
+- *„Vyškrtnutí je hned vykonatelné."* Neutralizace: odvolání má odkladný účinek (odst. 1) — rozhodnutí není vykonatelné do rozhodnutí odvolacího senátu.
+- *„Proti všem rozhodnutím je odvolání."* U kárného příkazu je vyloučeno; nástrojem je odpor.
+- Slabé místo: po vrácení je prvostupňový senát vázán právním názorem odvolacího senátu — opomenutí tohoto názoru je vadou.
+
+#### H. Praktický závěr
+
+Odvolání je řádný devolutivní prostředek s odkladným účinkem (15 dnů); odvolací senát rozhodnutí zruší (a sám rozhodne nebo vrátí s vázaným názorem), zamítne nebo odmítne. Po pravomocném rozhodnutí je otevřen soudní přezkum dle § 55.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Bylo odvolání podáno do 15 dnů (mimo kárný příkaz)?
+- [ ] Má odvolání odkladný účinek (odst. 1)?
+- [ ] Jaký typ rozhodnutí odvolací senát zvolil (apelace/kasace/zamítnutí/odmítnutí)?
+- [ ] Je prvostupňový senát vázán právním názorem odvolacího senátu?
+- [ ] Zvažuje obviněný správní žalobu dle § 55?
+
+**Typicky rozhodné důkazy / podklady:** prvostupňové rozhodnutí, odvolání s datem, rozhodnutí odvolacího senátu, doklady o navržených a provedených důkazech.
 
 ---
 
@@ -958,6 +1830,42 @@ Vykonatelné rozhodnutí o uložení pokuty je **podkladem pro výkon rozhodnut�
 
 Specifické pravidlo pro splátky: nesplatí-li advokát některou splátku, Komora může vést výkon na **celou nezaplacenou částku** (akcelerační doložka), ale pouze do splatnosti nejbližší další splátky. Pravidlo motivuje Komoru k rychlé reakci, ale chrání advokáta před retroaktivní akcelerací.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Advokátovi A byla pravomocně uložena pokuta 200 000 Kč ve čtyřech čtvrtletních splátkách. A nezaplatí druhou splátku. Komora chce vést výkon rozhodnutí. Současně bylo jinému advokátovi B uloženo veřejné napomenutí, které Komora ve Věstníku neuveřejnila déle než 6 měsíců. Důkazy: rozhodnutí o pokutě se splátkovým kalendářem, doklady o platbách, Věstník.
+
+**2. Právní otázka.** V jakém rozsahu a do kdy může Komora vést výkon při nezaplacené splátce a lze veřejné napomenutí vykonat po více než 6 měsících?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 35a odst. 2 (veřejné napomenutí — vykonání uveřejněním, prekluze 6 měsíců), odst. 4 (pokuta — exekuční titul, akcelerace při splátkách do splatnosti další splátky), odst. 1, 3, 5, 6 (vykonání ostatních opatření).
+- *Související ustanovení téhož zákona:* § 34 odst. 4 (lhůta k zaplacení), § 35b (zahlazení), § 32 odst. 3.
+- *Související předpisy:* zákon č. 99/1963 Sb. (OSŘ, výkon rozhodnutí), zákon č. 120/2001 Sb. (exekuční řád).
+- *Judikatura:* obecně k prekluzi výkonu sankce a k akceleraci splátek — nosný závěr o zániku možnosti výkonu po marném uplynutí lhůty.
+
+**4. Subsumpce.** Při nezaplacení druhé splátky může Komora vést výkon na celou dosud nezaplacenou částku, avšak jen do splatnosti nejbližší další (třetí) splátky (odst. 4). Veřejné napomenutí B nebylo uveřejněno do 6 měsíců → již nelze vykonat (odst. 2) a uplatní se fikce zahlazení (§ 35b).
+
+**5. Řešení.** Komora podá návrh na výkon na celou nezaplacenou částku včas (do splatnosti další splátky); jinak akcelerace propadá. U B se hledí, jako by se provinění nedopustil. Procesní krok: hlídat akcelerační okno.
+
+**6. Varianty.** (a) Při zaplacení poslední splátky je rozhodnutí vykonáno (odst. 4). (b) Dočasný zákaz je vykonán dnem uplynutí doby zákazu; odklad vykonatelnosti běh přerušuje (odst. 3).
+
+#### G. Protiargumenty a rizika
+
+- *„Akceleraci lze uplatnit kdykoli."* Neutralizace: jen do splatnosti nejbližší další splátky (odst. 4) — poté akcelerační oprávnění zaniká.
+- *„Veřejné napomenutí lze uveřejnit kdykoli."* Po 6 měsících od vykonatelnosti je výkon vyloučen (odst. 2) a nastupuje zahlazení.
+- Slabé místo: přesné určení okamžiku vykonatelnosti a běhu lhůt je rozhodné; chyba vede ke ztrátě možnosti výkonu.
+
+#### H. Praktický závěr
+
+Vykonání kárných opatření je diferencováno podle jejich typu; pokuta je exekučním titulem se splatností 15 dnů a omezenou akcelerací splátek, veřejné napomenutí podléhá šestiměsíční prekluzi výkonu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je správně určen den vykonání podle typu opatření (odst. 1–6)?
+- [ ] U veřejného napomenutí: bylo uveřejněno do 6 měsíců (odst. 2)?
+- [ ] U pokuty ve splátkách: je akcelerace uplatněna do splatnosti další splátky (odst. 4)?
+- [ ] U dočasného zákazu: zohledněn odklad vykonatelnosti (odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí s výrokem o opatření a splátkách, doklady o platbách, Věstník s datem zpřístupnění, doklad o vykonatelnosti a právní moci.
+
 ---
 
 ### § 35b — Fikce nesplnění kárného provinění (zahlazení)
@@ -992,6 +1900,42 @@ Specifické pravidlo pro splátky: nesplatí-li advokát některou splátku, Kom
 
 V kontextu vyškrtnutí (písm. d) a e)) je důležité: po pěti letech (3 letech u koncipienta) může bývalý advokát požádat o opětovné přijetí dle § 5 ZA, a Komora nesmí žádost odmítnout pouze s odkazem na předchozí vyškrtnutí. Musí posoudit aktuální způsobilost žadatele.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Advokát A byl před šesti lety vyškrtnut ze seznamu jako kárné opatření. Nyní žádá o opětovný zápis dle § 5 ZA. Komora váhá s odkazem na předchozí vyškrtnutí. Jiný advokát B dostal pokutu, kterou zaplatil před 14 měsíci, a obává se, že se k ní přihlíží jako k recidivě v novém řízení. Důkazy: rozhodnutí o vyškrtnutí A, doklad o zaplacení pokuty B, žádost o zápis.
+
+**2. Právní otázka.** Brání předchozí vyškrtnutí opětovnému zápisu po uplynutí zahlazovací lhůty a přihlíží se k zahlazené pokutě jako k recidivě?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 35b písm. c) (1 rok od vykonání u pokuty/zákazu/odnětí knihy), písm. d) (5 let u vyškrtnutí advokáta), písm. e) (3 roky u koncipienta), písm. a)–b) (upuštění, napomenutí).
+- *Související ustanovení téhož zákona:* § 5 (podmínky zápisu), § 32 (kárné provinění a recidiva), § 35a (vykonání).
+- *Související předpisy:* §§ 105–106 trestního zákoníku (zahlazení odsouzení — analogie), čl. 40 odst. 6 Listiny.
+- *Judikatura:* obecně k zákazu přihlížet k zahlazenému deliktu — nosný závěr o fikci „nedopustil se".
+
+**4. Subsumpce.** U A uplynula pětiletá lhůta dle písm. d) → hledí se, jako by se provinění nedopustil; Komora nesmí žádost odmítnout pouze s odkazem na vyškrtnutí, musí posoudit aktuální způsobilost dle § 5. U B uplynul více než rok od vykonání pokuty (písm. c) → pokuta je zahlazena a k recidivě se nepřihlíží.
+
+**5. Řešení.** Komora posoudí žádost A věcně dle § 5; k zahlazené pokutě B se v novém řízení nepřihlíží. Procesní krok: doložit uplynutí zahlazovacích lhůt.
+
+**6. Varianty.** (a) U koncipienta je lhůta zahlazení vyškrtnutí 3 roky (písm. e). (b) U neuveřejněného veřejného napomenutí nastává zahlazení uplynutím lhůty dle § 35a odst. 2 (písm. b).
+
+#### G. Protiargumenty a rizika
+
+- *„Předchozí vyškrtnutí trvale brání zápisu."* Neutralizace: po uplynutí lhůty dle písm. d)/e) nelze žádost odmítnout jen kvůli vyškrtnutí — rozhoduje aktuální způsobilost.
+- *„K zahlazené sankci lze přihlížet při hodnocení recidivy."* Fikce „nedopustil se" to vylučuje (§ 35b).
+- Slabé místo: počátek běhu lhůt se liší podle typu opatření (vykonání vs. vyškrtnutí); nutné přesné určení.
+
+#### H. Praktický závěr
+
+Po uplynutí zahlazovacích lhůt se na advokáta/koncipienta hledí, jako by se kárného provinění nedopustil; k zahlazeným opatřením se v dalším řízení nepřihlíží a předchozí vyškrtnutí samo o sobě nebrání opětovnému zápisu po 5 (3) letech.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Uplynula příslušná zahlazovací lhůta dle typu opatření (písm. a)–e))?
+- [ ] Nepřihlíží se k zahlazenému opatření jako k recidivě?
+- [ ] U žádosti o zápis po vyškrtnutí: posuzuje Komora aktuální způsobilost dle § 5, nikoli jen minulost?
+- [ ] Je správně určen počátek běhu lhůty (vykonání / vyškrtnutí)?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o opatření, doklad o jeho vykonání/zaplacení, datum vyškrtnutí, žádost o opětovný zápis, evidence kárné minulosti.
+
 ---
 
 ### § 35c — Obnova kárného řízení
@@ -1025,6 +1969,43 @@ Obnova **nelze povolit u zastaveného řízení** — zastavení samo o sobě je
 
 Návrh projednává **zvlášť ustavený kárný senát** (nikoli původní, aby byla zajištěna nezávislost rozhodnutí o obnově). Proti rozhodnutí o povolení/zamítnutí obnovy lze podat **odvolání** dle § 35. Povolením obnovy se zrušují všechna předchozí rozhodnutí a věc se znovu projednává.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Advokát A byl pravomocně uznán vinným z kárného provinění na základě svědectví S. Po roce vyjde najevo listina, kterou A bez svého zavinění nemohl dříve získat a která zásadně zpochybňuje skutkový základ. A podá návrh na obnovu čtyři měsíce po zjištění listiny. V jiné věci byl advokát B pravomocně zproštěn (řízení zastaveno) a kárný žalobce chce obnovu v neprospěch. Důkazy: nová listina, doklad o datu jejího zjištění, původní rozhodnutí.
+
+**2. Právní otázka.** Jsou splněny podmínky obnovy ve prospěch A a lze povolit obnovu v neprospěch B u zastaveného řízení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 35c odst. 1 (obnova jen u rozhodnutí ve věci, ne u zastavení), odst. 2 (nové skutečnosti/důkazy bez zavinění, vedoucí k příznivějšímu rozhodnutí), odst. 3 (lhůta 6 měsíců), odst. 4–5 (zvlášť ustavený senát, zrušení dosavadních rozhodnutí).
+- *Související ustanovení téhož zákona:* § 35 (odvolání proti rozhodnutí o obnově), § 33–34.
+- *Související předpisy:* § 277 a násl. trestního řádu (obnova — odlišnost: v TŘ i v neprospěch).
+- *Judikatura:* obecně k mimořádným opravným prostředkům ve prospěch obviněného.
+
+**4. Subsumpce.** U A jde o novou listinu, kterou nemohl bez zavinění uplatnit, jež může vést k příznivějšímu rozhodnutí (odst. 2); návrh je v šestiměsíční lhůtě (odst. 3) → obnova přípustná. U B je řízení pravomocně zastaveno → obnovu nelze povolit (odst. 1) a navíc obnova slouží jen ve prospěch obviněného.
+
+**5. Řešení.** Zvlášť ustavený senát obnovu A povolí, zruší dosavadní rozhodnutí a věc znovu projedná. Návrh v neprospěch B je nepřípustný. Procesní krok: doložit nezaviněnost a datum zjištění důkazu.
+
+**6. Varianty.** (a) Zmeškání šestiměsíční lhůty činí návrh nepřípustným. (b) Proti rozhodnutí o (ne)povolení obnovy je přípustné odvolání dle § 35.
+
+#### G. Protiargumenty a rizika
+
+- *„Obnovu lze i v neprospěch obviněného."* Neutralizace: kárná obnova je jen ve prospěch a nelze ji povolit u zastaveného řízení (odst. 1).
+- *„Stačí jakýkoli nový důkaz."* Musí jít o důkaz dříve neuplatnitelný bez zavinění, způsobilý vést k příznivějšímu rozhodnutí (odst. 2).
+- Slabé místo: prokázání nezaviněnosti a počátku běhu šestiměsíční lhůty bývá sporné.
+
+#### H. Praktický závěr
+
+Obnova kárného řízení je mimořádným opravným prostředkem výhradně ve prospěch obviněného, podmíněným novými, dříve nezaviněně neuplatnitelnými důkazy a šestiměsíční lhůtou; nelze ji povolit u zastaveného řízení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Skončilo řízení rozhodnutím ve věci (ne zastavením)?
+- [ ] Jde o nové skutečnosti/důkazy bez zavinění účastníka (odst. 2)?
+- [ ] Vedou k příznivějšímu rozhodnutí pro obviněného?
+- [ ] Je dodržena šestiměsíční lhůta (odst. 3)?
+- [ ] Rozhoduje zvlášť ustavený senát (odst. 4)?
+
+**Typicky rozhodné důkazy / podklady:** nový důkaz/listina, doklad o datu jeho zjištění a nezaviněnosti, původní pravomocné rozhodnutí, návrh na obnovu.
+
 ---
 
 ### § 35d — Mezinárodní informační povinnost ČAK
@@ -1045,6 +2026,42 @@ Návrh projednává **zvlášť ustavený kárný senát** (nikoli původní, ab
 - Kárném řízení proti českému advokátovi, jenž působí v cizině v postavení obdobném usazenému evropskému advokátovi.
 
 Informace má **dvojí povahu** — preventivně chrání klienty v jiných jurisdikcích a slouží **interní disciplinaci profesního systému EU**. Reciproční povinnost je zakotvena ve směrnici 98/5/ES a v paralelních úpravách členských států.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** ČAK zahájí kárné řízení proti advokátovi A, jenž byl zapsán dle § 5a (uznaný cizinec s českým advokátním titulem) a současně působí v jiném členském státě EU jako usazený evropský advokát. ČAK zvažuje, zda a v jakém rozsahu informovat příslušný orgán domovského státu o zahájení a výsledku řízení s ohledem na mlčenlivost. Důkazy: zápis dle § 5a, doklad o působení v zahraničí, rozhodnutí v kárné věci.
+
+**2. Právní otázka.** Je ČAK povinna informovat zahraniční orgán o kárném řízení a v jakém rozsahu, aniž poruší mlčenlivost?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 35d odst. 1 (informování orgánu cizího státu u advokáta dle § 5a), odst. 2 (informování domovského státu u usazeného evropského advokáta) — „v potřebném rozsahu".
+- *Související ustanovení téhož zákona:* § 5a, § 57 (usazený evropský advokát), § 21 odst. 10 (vynětí orgánů Komory z mlčenlivosti pro splnění informační povinnosti dle § 35d), § 35.
+- *Související předpisy:* směrnice 98/5/ES, směrnice 77/249/EHS.
+- *Judikatura:* obecně k unijní spolupráci profesních komor — nosný závěr o reciproční informační povinnosti.
+
+**4. Subsumpce.** A spadá pod § 5a i pod režim usazeného evropského advokáta → ČAK informuje příslušné orgány „bez odkladu v potřebném rozsahu" o zahájení i výsledku (odst. 1, 2). Mlčenlivost zde není překážkou — § 21 odst. 10 orgány Komory vyjímá v rozsahu nezbytném ke splnění povinnosti dle § 35d.
+
+**5. Řešení.** ČAK zašle informaci v nezbytném rozsahu (identifikace, předmět, výsledek), nikoli nad rámec potřebný. Procesní krok: vymezit „potřebný rozsah" tak, aby chránil klienty.
+
+**6. Varianty.** (a) U čistě vnitrostátního advokáta bez vazby na § 5a/§ 57 informační povinnost dle § 35d nevzniká. (b) Rozsah informace se liší podle stadia řízení (zahájení vs. výsledek).
+
+#### G. Protiargumenty a rizika
+
+- *„Mlčenlivost brání informování cizího orgánu."* Neutralizace: § 21 odst. 10 vyjímá orgány Komory z mlčenlivosti v rozsahu nezbytném ke splnění povinnosti dle § 35d.
+- *„Informuje se o všem."* Jen „v potřebném rozsahu" — nadbytečné údaje (zejména o klientech) sdělovat nelze.
+- Slabé místo: vymezení „potřebného rozsahu" je neurčité; nutná proporcionalita a ochrana klientských údajů.
+
+#### H. Praktický závěr
+
+ČAK informuje příslušné zahraniční orgány bez odkladu a v potřebném rozsahu o zahájení a výsledku kárného řízení proti advokátovi zapsanému dle § 5a a proti českému advokátovi působícímu v zahraničí jako usazený evropský advokát; mlčenlivost orgánů Komory je pro tento účel prolomena (§ 21 odst. 10).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spadá advokát pod § 5a nebo působí v zahraničí jako usazený evropský advokát?
+- [ ] Je informace zaslána bez odkladu a jen v potřebném rozsahu?
+- [ ] Je informováno jak o zahájení, tak o výsledku řízení?
+- [ ] Jsou chráněny klientské údaje (proporcionalita rozsahu)?
+
+**Typicky rozhodné důkazy / podklady:** zápis dle § 5a, doklad o působení v jiném členském státě, rozhodnutí o zahájení a výsledku kárného řízení, korespondence se zahraničním orgánem.
 
 ---
 
@@ -1082,6 +2099,42 @@ Trestní řád se uplatní zejména pro:
 - Mimořádné opravné prostředky (kromě obnovy, jež je upravena v § 35c ZA samostatně).
 
 **Výjimka „z povahy věci"** ponechává kárným senátům prostor k flexibilní aplikaci — některé instituty trestního řádu (např. vazba, dohled probačního úředníka) v kárném řízení principiálně nemají místo.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** V kárném řízení proti advokátovi A vzniká procesní otázka, kterou ZA ani kárný řád výslovně neřeší (např. postup při hodnocení rozporných důkazů a uplatnění zásady in dubio pro reo). Kárný žalobce navrhuje použít správní řád; obhajoba se dovolává přiměřené aplikace trestního řádu. Důkazy: spis, návrhy stran na postup, sporné důkazy.
+
+**2. Právní otázka.** Který procesní předpis se subsidiárně použije v kárném řízení tam, kde ZA a kárný řád mlčí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 35e odst. 1 (kárný řád stanoví podrobnosti), odst. 2 (subsidiárně přiměřeně trestní řád, nestanoví-li ZA/kárný řád jinak nebo nevyplývá-li jiné z povahy věci).
+- *Související ustanovení téhož zákona:* § 33 odst. 6 (zajištění řízení dle správního řádu — výjimka), § 33–35c.
+- *Související předpisy:* zákon č. 141/1961 Sb. (trestní řád — § 2 odst. 6, §§ 89–118, §§ 33–38, §§ 62–64 přiměřeně), zákon č. 500/2004 Sb. (správní řád — jen zajištění řízení).
+- *Judikatura:* ÚS k fair trial standardům kárného řízení (právo na obhajobu, presumpce neviny).
+
+**4. Subsumpce.** ZA i kárný řád danou otázku neřeší → nastupuje přiměřená aplikace trestního řádu (odst. 2), nikoli správního řádu obecně (ten se užije jen pro zajištění řízení dle § 33 odst. 6). Hodnocení důkazů a in dubio pro reo se řídí trestním řádem.
+
+**5. Řešení.** Senát postupuje dle trestního řádu přiměřeně (volné hodnocení důkazů, presumpce neviny). Procesní krok: odůvodnit volbu subsidiárního pramene.
+
+**6. Varianty.** (a) Pro zajištění průběhu řízení (předvolání, pořádková pokuta) se užije správní řád (§ 33 odst. 6). (b) Instituty neslučitelné s povahou věci (vazba, probace) se neaplikují.
+
+#### G. Protiargumenty a rizika
+
+- *„Subsidiárně se užije správní řád."* Neutralizace: § 35e odst. 2 odkazuje na trestní řád; správní řád jen pro zajištění řízení (§ 33 odst. 6).
+- *„Trestní řád se užije bezvýhradně."* Aplikace je jen přiměřená a ustupuje povaze věci (vazba apod. nelze).
+- Slabé místo: hranice „z povahy věci" je neurčitá; volbu je třeba odůvodnit s ohledem na fair trial.
+
+#### H. Praktický závěr
+
+Kárné řízení upravuje ZA a kárný řád; ve zbytku se přiměřeně použije trestní řád (nikoli správní řád, vyjma zajištění řízení dle § 33 odst. 6), pokud to neodporuje povaze věci. Tím se zaručuje vyšší standard procesních záruk.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Řeší danou otázku ZA nebo kárný řád?
+- [ ] Není-li tomu tak, použije se přiměřeně trestní řád (odst. 2)?
+- [ ] Nejde o zajištění řízení, kde platí správní řád (§ 33 odst. 6)?
+- [ ] Není aplikovaný institut neslučitelný s povahou věci?
+
+**Typicky rozhodné důkazy / podklady:** spis, návrhy stran na procesní postup, odůvodnění volby subsidiárního předpisu, protokoly o dokazování.
 
 ---
 
@@ -1156,6 +2209,44 @@ Toto řešení respektuje **autonomii advokátní profese** — sankce ukládá 
 #### Vykonání a navazující efekty (odst. 6)
 
 Pro vyškrtnutí v AML-režimu se použijí přiměřeně **§§ 35a až 35e ZA** (vykonání, zahlazení s výhradou vyloučení § 35b dle odst. 1, obnova). Tím je zajištěna procesní jednota mezi kárným a AML-přestupkovým režimem v otázkách výkonu a zahlazení (s drobnými odchylkami).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Advokát A jako povinná osoba dle AML neprovede řádně kontrolu klienta u rizikové transakce. Orgán Komory zahájí řízení o přestupku dle § 35ea. A se brání mlčenlivostí a po zahájení řízení požádá o vyškrtnutí ze seznamu v domnění, že řízení skončí. Komora zvažuje uložení vyškrtnutí jako správního trestu místo zákazu činnosti. Důkazy: AML dokumentace, záznam o kontrole klienta, žádost o vyškrtnutí.
+
+**2. Právní otázka.** Lze v AML-přestupkovém řízení uplatnit mlčenlivost, pokračuje řízení po zániku statutu advokáta a jaké zvláštní tresty lze uložit?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 35ea odst. 1 (subsidiárně zákon o přestupcích a Hlava IV s výjimkami), odst. 2–3 (vyloučení mlčenlivosti), odst. 4 (pokračování po zániku statutu), odst. 5 (zvláštní správní tresty), odst. 6 (přiměřeně § 35a–35e).
+- *Související ustanovení téhož zákona:* § 32 odst. 2 (vyloučení AML z kárného provinění), § 21 odst. 6 a odst. 10 (mlčenlivost a AML), § 33 odst. 2 (vyloučeno — lhůty), § 35b (vyloučeno — zahlazení).
+- *Související předpisy:* zákon č. 253/2008 Sb. (AML), zákon č. 250/2016 Sb. (odpovědnost za přestupky), směrnice/judikatura k LPP.
+- *Judikatura:* SDEU C‑694/20 Orde van Vlaamse Balies (meze AML-povinností u advokátní agendy).
+
+**4. Subsumpce.** Jde o AML-porušení → nikoli kárné provinění (§ 32 vyloučen), ale přestupek dle § 35ea. Mlčenlivosti se nelze dovolat (odst. 2). Řízení pokračuje i po vyškrtnutí na žádost (odst. 4). Místo zákazu činnosti lze uložit vyškrtnutí ze seznamu (odst. 5).
+
+**5. Řešení.** Komora vede přestupkové řízení bez ohledu na žádost o vyškrtnutí; promlčení a zahlazení se řídí přestupkovým zákonem (vyloučení § 33 odst. 2 a § 35b). Lze uložit zvláštní správní trest (vyškrtnutí). Procesní krok: posoudit, zda šlo o advokátní, či specifickou AML-agendu (LPP dle C‑694/20).
+
+**6. Varianty.** (a) Týká-li se věc běžné právní agendy chráněné advokátním privilegiem, AML-oznamovací povinnost dle C‑694/20 nedopadá. (b) U koncipienta lze uložit vyškrtnutí ze seznamu koncipientů (odst. 5 písm. b)).
+
+#### G. Protiargumenty a rizika
+
+- *„V AML-řízení platí mlčenlivost."* Neutralizace: odst. 2 výslovně mlčenlivost vylučuje; konzistentní s § 21 odst. 6.
+- *„Vyškrtnutím se vyhnu řízení."* Odst. 4 — řízení pokračuje i po zániku advokátského statutu.
+- *„Platí kárné promlčení 1/3 roky a zahlazení dle § 35b."* Tato ustanovení jsou pro AML-přestupek vyloučena (odst. 1); uplatní se přestupkový zákon.
+- Slabé místo: rozlišení advokátní vs. specifické AML-agendy (LPP) je klíčové a sporné — chybné zařazení může vést k neoprávněnému prolomení privilegia.
+
+#### H. Praktický závěr
+
+AML-porušení advokáta se neřeší kárně, ale jako přestupek projednávaný orgánem Komory; mlčenlivost se neuplatní, řízení pokračuje i po zániku statutu a lze uložit zvláštní správní tresty (vyškrtnutí, dočasný zákaz). Promlčení a zahlazení se řídí přestupkovým zákonem.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o AML-porušení (přestupek dle § 35ea), nikoli kárné provinění?
+- [ ] Týká se věc advokátní agendy chráněné privilegiem, nebo specifické AML-agendy (C‑694/20)?
+- [ ] Nelze uplatnit mlčenlivost (odst. 2–3)?
+- [ ] Pokračuje řízení i po zániku statutu pachatele (odst. 4)?
+- [ ] Je zvolen přípustný správní trest (odst. 5) a aplikováno přestupkové promlčení/zahlazení?
+
+**Typicky rozhodné důkazy / podklady:** AML dokumentace (identifikace a kontrola klienta), záznam o transakci, doklady o roli advokáta (advokátní vs. specifická agenda), rozhodnutí o zahájení přestupkového řízení.
 
 ---
 

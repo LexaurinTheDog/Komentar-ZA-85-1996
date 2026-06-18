@@ -36,6 +36,43 @@ Příslušným soudem je **správní soud** podle soudního řádu správního (
 
 > **Vazba na § 53 odst. 5:** „Ustanovení § 50 odst. 2 není odstavci 3 a 4 dotčeno." — tedy stavovský předpis se sice stává závazným uplynutím 30 dnů od vyhlášení (§ 53 odst. 3), avšak ministrovo právo iniciovat soudní přezkum tímto okamžikem nezaniká a nemá s ním vztah suspenzivního účinku. Návrh na přezkum lze podat kdykoli za trvání předpisu.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Sněm ČAK přijme nový stavovský předpis (usnesení), který advokátům zapsaným v seznamu ukládá povinnost odvádět Komoře zvláštní „příspěvek na propagaci advokacie" ve výši odvozené od obratu kanceláře a zároveň zakazuje advokátům určité formy internetové reklamy nad rámec etického kodexu. Komora předpis vyhlásí ve Věstníku, avšak Ministerstvu spravedlnosti jej předloží teprve po 70 dnech od přijetí. Skupina advokátů se domnívá, že předpis překračuje zákonné meze (§ 53 ZA) a zasahuje do svobody projevu i podnikání. Důkazy: zápis ze sněmu s datem přijetí, znění Věstníku s datem zpřístupnění, korespondence Komory s MSp prokazující datum předložení.
+
+**2. Právní otázka.** Kdo a jakou procesní cestou může dosáhnout zrušení stavovského předpisu odporujícího zákonu, a jaký význam má zpoždění notifikace MSp podle odst. 1?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 50 odst. 1 (třicetidenní notifikační povinnost Komory) a odst. 2 (výlučná aktivní legitimace ministra k návrhu na soudní přezkum stavovského předpisu).
+- *Související ustanovení téhož zákona:* § 53 (rozsah a vyhlašování stavovských předpisů; odst. 5 výslovně chrání právo ministra dle § 50 odst. 2); § 55 (správní řízení Komory, do něhož stavovský předpis nezasahuje).
+- *Související předpisy:* soudní řád správní (z. č. 150/2002 Sb.), čl. 26 odst. 2 a čl. 17 Listiny (svoboda povolání a projevu), čl. 79 odst. 3 Ústavy (odlišení od podzákonných předpisů státní správy).
+- *Judikatura:* ustálená rozhodovací praxe NSS k povaze žaloby ministra na přezkum stavovského předpisu jako specifické žaloby sui generis; nosný závěr — stavovský předpis je interní normou profese, jeho zákonnost přezkoumává správní soud (konkrétní spzn ověřit v databázi NSS).
+
+**4. Subsumpce.** Zpoždění notifikace (70 dnů) je porušením povinnosti dle odst. 1, avšak nemá vliv na platnost ani závaznost předpisu — odst. 1 je pořádkovou povinností bez sankce neplatnosti. Aktivní legitimaci k návrhu má výhradně ministr (odst. 2); dotčení advokáti ji nemají. Sporný je soulad obsahu předpisu s § 53 a s ústavně zaručenými právy — to je věcí přezkumu soudem na návrh ministra.
+
+**5. Řešení.** Advokáti nemohou předpis napadnout přímo; mohou podat podnět ministrovi, aby využil oprávnění dle odst. 2. Souběžně mohou v případném kárném řízení namítat rozpor předpisu se zákonem — kárný orgán (a soud o žalobě proti jeho rozhodnutí) je povinen provést incidenční aplikační test sám a vadný předpis neaplikovat. Pravděpodobný výsledek: pokud předpis skutečně překračuje § 53, ministr podá návrh a soud jej zruší.
+
+**6. Varianty.** (a) Kdyby předpis upravoval pouze výši poplatku za zkoušku (§ 53 odst. 1 písm. a)), spadal by jednoznačně do mezí normotvorby a návrh by neuspěl. (b) Kdyby individuální advokát byl předpisem přímo dotčen v kárném řízení, otevřela by se mu cesta incidenční obrany, byť ne přímá žaloba na zrušení.
+
+#### G. Protiargumenty a rizika
+
+- Námitka, že advokát se může domoci ochrany sám přímou žalobou: nutno neutralizovat odkazem na výlučnost aktivní legitimace ministra (odst. 2) — individuální obrana je možná jen incidenčně v navazujícím řízení.
+- Námitka, že zpožděná notifikace zneplatní předpis: odst. 1 neobsahuje sankci neplatnosti; argument vyvrátíme rozlišením pořádkové povinnosti a podmínky platnosti (platnost váže § 53 odst. 3 na vyhlášení, nikoli na předložení MSp).
+- Slabé místo: chybí ustálená kvantifikace, kdy obsah předpisu „překračuje" § 53 — hranice je věcí soudního výkladu a může být sporná.
+
+#### H. Praktický závěr
+
+Stavovský předpis lze rušit jen návrhem ministra u správního soudu; advokát se brání incidenčně v kárném či jiném řízení Komory. Notifikační lhůta 30 dnů je pořádková, její nedodržení neplatní předpis.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda předpis spadá do věcného výčtu § 53 odst. 1.
+- [ ] Zjistit datum přijetí předpisu orgánem Komory (běh 30denní lhůty dle odst. 1).
+- [ ] Posoudit soulad obsahu s ústavně zaručenými právy (čl. 26, 17 Listiny).
+- [ ] Při dotčení advokáta uplatnit incidenční námitku rozporu se zákonem v kárném řízení.
+- [ ] Podnět ministrovi k využití návrhu dle odst. 2.
+
+**Typicky rozhodné důkazy / podklady:** zápis z jednání orgánu Komory s datem přijetí, příslušná částka Věstníku, korespondence Komora–MSp, znění napadeného předpisu.
+
 ---
 
 ### § 51 — Kárný řád, ministr jako kárný žalobce, návrhy ve věcech registru
@@ -79,6 +116,43 @@ O takovém návrhu rozhoduje představenstvo Komory podle § 55 ZA. Ministr je t
 
 > **Praktická poznámka:** v případě pravomocného odsouzení advokáta k nepodmíněnému trestu odnětí svobody za úmyslný trestný čin (§ 5 odst. 1 písm. e) ZA — bezúhonnost) nastává **ex lege** ztráta podmínek bezúhonnosti a Komora má povinnost advokáta vyškrtnout. Pro tyto situace § 51 odst. 3 obvykle nepotřebuje aktivaci — postačí ohlášení trestního soudu Komoře. Ministrův nástroj se uplatní spíše v situacích sporných, kde Komora váhá.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Advokát X opakovaně hrubě porušuje povinnosti při advokátní úschově — zdržuje výplatu kupní ceny, nevede řádně knihu úschov, vůči klientovi vystupuje arogantně. Klient podá stížnost přímo Ministerstvu spravedlnosti, nikoli kontrolní radě ČAK. Kontrolní rada ČAK přitom dosud kárnou žalobu nepodala, neboť věc „prošetřuje". Ministr po prostudování podnětu nabude přesvědčení, že jde o závažné pochybení s rizikem majetkové újmy klientů. Důkazy: stížnost klienta, výpisy z účtu úschovy, korespondence advokáta, dotaz na stav řízení u kontrolní rady.
+
+**2. Právní otázka.** Může ministr spravedlnosti zahájit kárné řízení proti advokátovi sám, pokud kontrolní rada ČAK zůstává nečinná, a jaké další nástroje má vůči registrovému postavení advokáta?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 51 odst. 2 (ministr jako kárný žalobce) a odst. 3 (návrh ministra na vyškrtnutí / pozastavení).
+- *Související ustanovení téhož zákona:* § 46 odst. 3 (kárná žaloba kontrolní rady); § 32 (kárná opatření); § 8, § 9, § 35e (vyškrtnutí, pozastavení); § 55 (řízení o pozastavení/vyškrtnutí); § 52b (osoba pověřená dohledem rovněž kárným žalobcem).
+- *Související předpisy:* vyhláška č. 244/1996 Sb. (advokátní kárný řád); čl. 36, 38, 40 Listiny (spravedlivý proces v řízení trestní povahy).
+- *Judikatura:* ustálená praxe k tomu, že kárné řízení s advokátem má povahu řízení o správním deliktu / sankci trestní povahy a podléhá zárukám čl. 6 EÚLP (nosný závěr ESLP a NSS; spzn ověřit).
+
+**4. Subsumpce.** Ministr má autonomní aktivní legitimaci kárného žalobce (odst. 2), nezávislou na (ne)činnosti kontrolní rady — funkce je subsidiární i kontrolní. Pochybení advokáta (zdržení výplaty, vady knihy úschov) jsou kárným proviněním dle § 32. Pro vyškrtnutí/pozastavení by ministr podal návrh dle odst. 3, o němž rozhoduje představenstvo v řízení dle § 55.
+
+**5. Řešení.** Ministr může podat kárnou žalobu sám (odst. 2), aniž by čekal na kontrolní radu; současně může iniciovat řízení o pozastavení výkonu advokacie (§ 9) návrhem dle odst. 3. Pravděpodobný výsledek: zahájení kárného řízení a — při riziku dalších škod — souběžné předběžné pozastavení úschovní činnosti dle § 52l. Procesně: ministr formuluje kárnou žalobu dle kárného řádu a doručí ji kárné komisi.
+
+**6. Varianty.** (a) Pokud by advokát byl pravomocně odsouzen za úmyslný trestný čin k nepodmíněnému trestu, nastala by ztráta bezúhonnosti ex lege a postačilo by ohlášení trestního soudu — odst. 3 by nebyl nutný. (b) Pokud by kontrolní rada již kárnou žalobu podala, ministrova paralelní žaloba by byla nadbytečná (překážka litispendence ve vztahu k téže věci).
+
+#### G. Protiargumenty a rizika
+
+- Námitka porušení samosprávné autonomie Komory tím, že zasahuje ministr: neutralizujeme tím, že ministr je pouze žalobcem/navrhovatelem, rozhoduje vždy kárná komise resp. představenstvo Komory.
+- Námitka, že „předchozí vyjádření Komory" k novele kárného řádu zavazuje ministra: text odst. 1 zakládá jen povinnost vyžádat vyjádření, nikoli jím být vázán.
+- Slabé místo: hranice mezi subsidiární a kontrolní funkcí ministra není ostrá; v praxi se nástroj užívá jen výjimečně, takže chybí bohatá judikatura k jeho mezím.
+
+#### H. Praktický závěr
+
+Ministr disponuje samostatnými „výkonnými" nástroji vůči advokátovi: kárnou žalobou (odst. 2) a návrhem na vyškrtnutí/pozastavení (odst. 3). Rozhoduje však vždy orgán Komory; ministr je iniciátorem, nikoli rozhodovatelem. Kárný řád je vyhláškou MSp po vyjádření Komory (odst. 1).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda kontrolní rada již v téže věci řízení zahájila (litispendence).
+- [ ] Posoudit, zda jde o věc mimořádné závažnosti odůvodňující zapojení ministra.
+- [ ] Zvolit nástroj: kárná žaloba (odst. 2) vs. návrh na vyškrtnutí/pozastavení (odst. 3) vs. obojí.
+- [ ] Zvážit souběžné předběžné pozastavení úschovní činnosti (§ 52l).
+- [ ] Dodržet náležitosti kárné žaloby dle vyhlášky č. 244/1996 Sb.
+
+**Typicky rozhodné důkazy / podklady:** stížnost klienta, výpisy z účtu úschovy, kniha úschov, dotaz na stav řízení u kontrolní rady, případný trestní rozsudek či usnesení o zahájení trestního stíhání.
+
 ---
 
 ### § 52 — Jmenování členů zkušební komise
@@ -116,6 +190,42 @@ Ministr **odvolává** člena pouze **na návrh Komory** a pouze ze dvou taxativ
 
 Vyžadování návrhu Komory chrání nezávislost zkušebních komisařů; ministr nemůže odvolat svévolně. Naopak jmenování jednou třetinou členů (mimo návrhy Komory a NS) zůstává jeho ryzí pravomocí (čistou diskrecí).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Člen zkušební komise jmenovaný na návrh Nejvyššího soudu (soudce v důchodu) opakovaně neúčastní se zkušebních termínů, na něž je rozepsán, a u dvou zkoušek se choval k uchazečům způsobem, který vyvolal stížnosti. ČAK by si přála jeho výměnu. Současně se uvolnilo místo a Komora chce navrhnout nového člena za sebe. Důkazy: docházková evidence komisaře, stížnosti uchazečů, návrh Komory na odvolání a na jmenování.
+
+**2. Právní otázka.** Za jakých podmínek a na čí návrh může ministr spravedlnosti odvolat člena zkušební komise, a jak je rozdělena nominační pravomoc při jeho nahrazení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 52 (triadické složení komise — min. 1/3 na návrh Komory, min. 1/3 na návrh NS, zbytek volní výběr ministra; odvolání na návrh Komory ze dvou důvodů).
+- *Související ustanovení téhož zákona:* § 7 (advokátní zkouška), § 35a (zkouška způsobilosti), § 54 (druhy zkoušek), § 6 (prominutí zkoušky), § 53 odst. 1 písm. a) (poplatek za zkoušku).
+- *Související předpisy:* vyhláška č. 197/1996 Sb. (zkušební řád); zkušební řád Komory (§ 54 odst. 5).
+- *Judikatura:* obecné zásady k odvolávání z funkcí vázaného na taxativní důvody — svévolné odvolání je nepřípustné (analogicky judikatura k veřejným funkcím; spzn ověřit).
+
+**4. Subsumpce.** Opakovaná neúčast a nevhodné chování spadají pod „jiné vážné důvody" dle § 52. Odvolání je však podmíněno **návrhem Komory** — ministr nemůže člena odvolat z vlastní iniciativy. Nové jmenování za uvolněné místo Komory probíhá opět na návrh Komory (zachování min. třetinového podílu).
+
+**5. Řešení.** Komora podá ministrovi (i) návrh na odvolání problematického komisaře s odůvodněním (jiné vážné důvody) a (ii) návrh na jmenování náhradníka. Ministr po posouzení návrhu odvolá člena a jmenuje nového. Pravděpodobný výsledek: výměna proběhne, neboť důvody jsou doložené a návrh Komory je dán. Pozor: u člena jmenovaného na návrh NS nemůže Komora navrhnout náhradu v rámci „svého" třetinového podílu — uvolněné místo NS doplňuje opět NS.
+
+**6. Varianty.** (a) Pokud by Komora návrh na odvolání nepodala, ministr by nemohl člena odvolat ani při zjevných pochybeních (s výjimkou ztráty způsobilosti, kterou ale rovněž zákon váže na návrh Komory). (b) U členů jmenovaných z volní kvóty ministra (mimo návrhy Komory/NS) by jmenování zůstalo jeho čistou diskrecí, avšak odvolání by stejně vyžadovalo návrh Komory.
+
+#### G. Protiargumenty a rizika
+
+- Námitka, že ministr může člena odvolat sám pro zjevné selhání: text § 52 to neumožňuje — odvolání je vždy „na návrh Komory"; absence návrhu blokuje odvolání.
+- Námitka záměny nominačních kvót: riziko, že Komora bude chtít doplnit místo uvolněné po členu NS — nutno trvat na zachování zdrojové struktury (1/3 NS zůstává NS).
+- Slabé místo: pojem „jiné vážné důvody" je neurčitý; jeho naplnění musí být řádně doloženo, jinak hrozí námitka svévole.
+
+#### H. Praktický závěr
+
+Zkušební komise má vícezdrojové složení; odvolání člena je vždy vázáno na návrh Komory a na dva taxativní důvody (ztráta způsobilosti / jiné vážné důvody). Nominační kvóty Komory a NS musí být při doplňování zachovány.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Identifikovat, z jaké nominační kvóty člen pochází (Komora / NS / volní výběr ministra).
+- [ ] Doložit naplnění důvodu odvolání (ztráta způsobilosti vs. jiné vážné důvody).
+- [ ] Zajistit návrh Komory jako conditio sine qua non odvolání.
+- [ ] Při doplnění místa respektovat minimální třetinové podíly Komory a NS.
+
+**Typicky rozhodné důkazy / podklady:** docházková a rozpisová evidence zkušebních termínů, stížnosti uchazečů, návrh Komory na odvolání/jmenování, doklad o ztrátě způsobilosti (např. vyškrtnutí ze seznamu advokátů).
+
 ---
 
 ### § 52a — Oznamování profesních označení sdělením
@@ -133,6 +243,42 @@ Ustanovení slouží k implementaci směrnice Evropského parlamentu a Rady 98/5
 Aktuální seznam profesních označení je dle směrnice průběžně aktualizován a MSp jej oznamuje **sdělením** publikovaným ve **Sbírce zákonů a mezinárodních smluv** (od 1. ledna 2024 sloučená Sbírka — z. č. 222/2016 Sb., resp. z. č. 35/2021 Sb.). Sdělení MSp není normou v právním smyslu; jde o **informativní akt** zajišťující právní jistotu o tom, která zahraniční označení v ČR požívají postavení podle § 2 odst. 1 písm. b) ZA.
 
 Praktický dopad: advokát z jiného státu EU/EHP, který by chtěl v ČR působit pod svým domovským označením, ověřuje aktuálnost svého titulu právě v tomto sdělení; zapsání do seznamu evropských advokátů (§ 35a ZA) Komora váže mj. na shodu s aktuálním sdělením.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Německý Rechtsanwalt s kanceláří v Mnichově chce trvale působit v Praze pod svým domovským označením a poskytovat poradenství v německém i českém právu. Před zápisem do seznamu evropských advokátů (§ 35a ZA) si ověřuje, zda jeho titul „Rechtsanwalt" patří mezi profesní označení podle § 2 odst. 1 písm. b) ZA. Komora při posuzování žádosti vychází z aktuálního sdělení MSp. Sporné je, zda lze vyjít ze sdělení, které je již dva roky staré, pokud se mezitím seznam dle směrnice 98/5/ES aktualizoval.
+
+**2. Právní otázka.** Jakou právní povahu má sdělení MSp dle § 52a a jak ovlivňuje posouzení oprávnění evropského advokáta působit v ČR?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 52a (oznamování profesních označení sdělením ve Sbírce zákonů a mezinárodních smluv).
+- *Související ustanovení téhož zákona:* § 2 odst. 1 písm. b) (evropský advokát); § 35a a násl. (zápis a postavení usazených evropských advokátů).
+- *Související předpisy:* směrnice 98/5/ES; z. č. 222/2016 Sb. a z. č. 35/2021 Sb. (Sbírka zákonů a mezinárodních smluv); předpisy EU o vzájemném uznávání.
+- *Judikatura:* judikatura SDEU k usnadnění výkonu advokacie v jiném členském státě (volný pohyb služeb; nosný závěr — domovské označení požívá ochrany dle směrnice; spzn ověřit).
+
+**4. Subsumpce.** Sdělení MSp je **informativním aktem**, nikoli normou; nezakládá ani neruší oprávnění. Rozhodující je, zda titul reálně spadá pod směrnici 98/5/ES; sdělení tuto skutečnost jen deklaruje. Zastaralost sdělení sama o sobě oprávnění Rechtsanwalta nepopírá, neboť ochrana plyne přímo z práva EU a § 2 odst. 1 písm. b).
+
+**5. Řešení.** Komora zapíše evropského advokáta, je-li jeho titul označením podle směrnice; sdělení MSp slouží jako vodítko, nikoli jako konstitutivní podmínka. Při pochybnosti o aktuálnosti sdělení Komora vychází z aktuálního unijního stavu. Pravděpodobný výsledek: zápis Rechtsanwalta proběhne.
+
+**6. Varianty.** (a) Pokud by šlo o označení mimo seznam směrnice (např. titul ze třetí země mimo EU/EHP), § 2 odst. 1 písm. b) by se neuplatnil a evropský režim by nebyl možný. (b) Pokud by titul byl ve směrnici nově doplněn, avšak sdělení MSp ještě neaktualizováno, oprávnění by přesto trvalo na základě přímého účinku unijní úpravy.
+
+#### G. Protiargumenty a rizika
+
+- Námitka, že chybějící či zastaralé sdělení MSp brání zápisu: vyvrátíme konstatováním deklaratorní povahy sdělení a přímého základu v právu EU.
+- Námitka, že sdělení je závazným pramenem práva: nikoli — jde o informativní akt bez normativní síly.
+- Slabé místo: praktická právní jistota závisí na včasné aktualizaci sdělení; při nesouladu sdělení a unijního stavu může vzniknout přechodná nejistota.
+
+#### H. Praktický závěr
+
+Sdělení MSp dle § 52a je deklaratorní pomůckou k identifikaci chráněných zahraničních profesních označení; oprávnění evropského advokáta plyne z § 2 odst. 1 písm. b) ZA a ze směrnice 98/5/ES, nikoli ze sdělení samotného.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit aktuální sdělení MSp ve Sbírce zákonů a mezinárodních smluv.
+- [ ] Při pochybnosti porovnat s aktuálním seznamem dle směrnice 98/5/ES.
+- [ ] Posoudit, zda jde o stát EU/EHP (jinak evropský režim nelze použít).
+- [ ] Vázat zápis dle § 35a na shodu s chráněným označením.
+
+**Typicky rozhodné důkazy / podklady:** aktuální sdělení MSp, doklad o domovské kvalifikaci a oprávnění, výpis z domovské advokátní komory, znění relevantní části směrnice.
 
 ---
 
@@ -176,6 +322,43 @@ Pokud Komora určí advokáta ex offo **v rozporu s podmínkami** (např. žadat
 - **Komora pak může uplatnit regresní nárok proti advokátovi?** — V zásadě jen tehdy, určila-li advokáta v důsledku jeho úmyslného nebo nedbalého nepravdivého tvrzení (např. zatajení skutečnosti, že žadatel měl dostatečné prostředky). Vnitrostavovsky to může být řešeno kárným řízením.
 - **Hmotná legitimace státu** — stát uplatňuje nárok proti Komoře cestou MSp; v případě sporu rozhoduje soud v běžném civilním řízení (občanskoprávní povaha nároku z bezdůvodného obohacení / náhrady škody, § 2895 a násl. občanského zákoníku).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Komora určí advokáta k bezplatnému zastoupení žadatele v řízení před Ústavním soudem (§ 18c ZA). Po skončení věci a proplacení odměny advokátovi z prostředků státu MSp v rámci dohledu zjistí, že žadatel ve skutečnosti disponoval značnými úsporami a nesplňoval majetkové podmínky pro určení; Komora si přitom majetkové poměry řádně neprověřila. Stát požaduje vrácení vyplacených nákladů. Důkazy: spis o určení advokáta, žádost o určení a doklady o majetku žadatele, vyúčtování odměny, přístup MSp do seznamu žadatelů.
+
+**2. Právní otázka.** Kdo odpovídá státu za neoprávněně vyplacené náklady na ex offo právní pomoc, byl-li advokát určen v rozporu s podmínkami § 18a až 18c, a jaký je rozsah dohledu MSp?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 52b odst. 1, 2 (předmět státního dohledu), odst. 3 (přístup do seznamu žadatelů), odst. 4 (regresní odpovědnost Komory vůči státu).
+- *Související ustanovení téhož zákona:* § 18a, 18b, 18c (určení advokáta, bezplatná pomoc, krátká porada), § 18d (seznam žadatelů), § 25a, § 25c (konverze, prohlášení o pravosti podpisu — další předmět dohledu).
+- *Související předpisy:* § 2895 a násl. OZ (bezdůvodné obohacení / náhrada škody); GDPR (nařízení (EU) 2016/679) a z. č. 110/2019 Sb. (ochrana osobních údajů žadatelů).
+- *Judikatura:* obecná judikatura k regresním nárokům státu a k odpovědnosti za nesprávný úřední postup (nosný závěr — kdo nakládá s veřejnými prostředky, odpovídá za jejich oprávněné vynaložení; spzn ověřit).
+
+**4. Subsumpce.** Dohled MSp je vymezen úzce — týká se jen oblastí, kde stát financuje/organizuje právní službu (§ 18a–18c, § 25a, § 25c). Určení advokáta osobě nesplňující majetkové podmínky je „určení v rozporu s podmínkami" dle odst. 4; primárně proto odpovídá **Komora** (nikoli přímo advokát). Komora má vrátit státu neoprávněně vyplacené náklady.
+
+**5. Řešení.** Stát (cestou MSp) uplatní nárok proti **Komoře** dle odst. 4; spor o náhradu se vede v civilním řízení (povaha bezdůvodného obohacení / náhrady škody). Komora může mít regres proti advokátovi jen tehdy, určila-li jej v důsledku jeho nepravdivého tvrzení; jinak nese odpovědnost sama. Přístup MSp do seznamu žadatelů (odst. 3) je vázán výhradně na účel dohledu a podléhá GDPR.
+
+**6. Varianty.** (a) Pokud advokát zatajil rozhodné skutečnosti nebo věc zmanipuloval, otevírá se Komoře regres proti němu a současně kárná odpovědnost. (b) Pokud by se dohled týkal úkonu mimo vyjmenované oblasti (běžné placené zastoupení), MSp by k dohledu vůbec nebyl příslušný.
+
+#### G. Protiargumenty a rizika
+
+- Námitka, že za chybu má platit přímo advokát: text odst. 4 zakládá primárně odpovědnost Komory vůči státu; regres na advokáta je až druhým krokem a jen za podmínek (nepravdivé tvrzení).
+- Námitka neomezeného dohledu MSp nad advokacií: vyvrátíme úzkým fiskálním vymezením dohledu (jen tam, kde stát platí/organizuje).
+- Slabé místo: ochrana citlivých údajů žadatelů — přístup MSp do seznamu žadatelů musí být striktně účelově vázán, jinak hrozí porušení GDPR.
+
+#### H. Praktický závěr
+
+Státní dohled MSp je výjimkou omezenou na ex offo pomoc a veřejnoprávní úkony advokáta (konverze, vidimace). Za neoprávněné určení odpovídá státu Komora; regres na advokáta je podmíněn jeho zaviněným nepravdivým tvrzením.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda úkon spadá do dohledové domény (§ 18a–18c, § 25a, § 25c).
+- [ ] Doložit (ne)splnění podmínek určení advokáta (majetkové poměry žadatele).
+- [ ] Posoudit, zda určení proběhlo „v rozporu s podmínkami" (odst. 4).
+- [ ] Zhodnotit možnost regresu Komory na advokáta (nepravdivé tvrzení?).
+- [ ] Zajistit účelové a GDPR-konformní nakládání s daty ze seznamu žadatelů.
+
+**Typicky rozhodné důkazy / podklady:** spis o určení advokáta, doklady o majetkových poměrech žadatele, vyúčtování a doklad o proplacení nákladů státem, záznam o přístupu MSp do seznamu žadatelů.
+
 ---
 
 ### § 52c — Zmocnění k vyhláškám
@@ -200,6 +383,42 @@ Pokud Komora určí advokáta ex offo **v rozporu s podmínkami** (např. žadat
 Konkrétně jde o vyhlášku č. 197/1996 Sb., kterou se vydává zkušební řád pro advokátní zkoušky a uznávací zkoušky (ve znění pozdějších předpisů), vyhlášku č. 244/1996 Sb. (advokátní kárný řád) a další.
 
 **„Předchozí vyjádření Komory"** je obligatorní procedurální podmínkou — bez něho je vyhláška procesně vadná. Vyjádření však ministra nezavazuje, pouze ho povinně vyslechne.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Ministerstvo spravedlnosti připraví novelu vyhlášky k provedení § 25a odst. 2 ZA (autorizovaná konverze dokumentů advokátem), aby zpřesnilo technické náležitosti vedení knihy o konverzi. Vyhlášku vydá, aniž by si předem vyžádalo vyjádření Komory — konzultaci pomine pro časovou tíseň. Skupina advokátů namítá procesní vadu vyhlášky. Důkazy: znění vyhlášky, absence dokladu o vyžádání vyjádření Komory, srovnání s předchozí praxí.
+
+**2. Právní otázka.** Je vyhláška MSp vydaná dle § 52c bez předchozího vyjádření Komory procesně vadná, a jaké to má důsledky pro její platnost a aplikaci?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 52c (zmocnění MSp vydat vyhlášku k provedení § 5d odst. 1, § 25a odst. 2, § 35m odst. 3 a § 37 odst. 2, „po předchozím vyjádření Komory").
+- *Související ustanovení téhož zákona:* § 5d (AML opatření), § 25a (konverze), § 35m (evropští advokáti), § 37 (koncipienti); § 51 odst. 1 (kárný řád jako vyhláška, rovněž po vyjádření Komory).
+- *Související předpisy:* čl. 79 odst. 3 Ústavy (zmocnění k podzákonnému předpisu); vyhláška č. 197/1996 Sb., vyhláška č. 244/1996 Sb.
+- *Judikatura:* judikatura Ústavního soudu a NSS k obligatorním konzultačním/projednacím podmínkám tvorby podzákonných předpisů (nosný závěr — opomenutí obligatorní procedurální podmínky může zakládat vadu předpisu; spzn ověřit).
+
+**4. Subsumpce.** „Předchozí vyjádření Komory" je **obligatorní procedurální podmínkou** vydání vyhlášky; její opomenutí je procesní vadou. Vyjádření však ministra **nezavazuje** — povinné je pouze jeho vyžádání a vyslechnutí, nikoli respektování obsahu.
+
+**5. Řešení.** Vyhláška vydaná bez vyžádaného vyjádření Komory trpí procesní vadou; v řízení o konkrétní věci (typicky správní žaloba či řízení před Ústavním soudem o návrhu na zrušení podzákonného předpisu) lze namítat její nezákonnost. Náprava: MSp by mělo vyjádření dodatečně vyžádat a vyhlášku znovu řádně vydat. Pravděpodobný výsledek závisí na intenzitě vady a na tom, zda soud shledá podmínku za podstatnou.
+
+**6. Varianty.** (a) Pokud MSp vyjádření Komory vyžádalo, ale nevyhovělo mu, vyhláška je procesně bezvadná (vyjádření nezavazuje). (b) Pokud by zmocnění mířilo mimo čtyři vyjmenované okruhy § 52c, vyhláška by trpěla i nedostatkem zmocnění (překročení mezí čl. 79 odst. 3 Ústavy).
+
+#### G. Protiargumenty a rizika
+
+- Námitka, že vyjádření Komory je závazné: vyvrátíme — text vyžaduje jen „předchozí vyjádření", nikoli souhlas.
+- Námitka, že procesní vada je bezvýznamná: nutno argumentovat, že jde o obligatorní podmínku, jejíž pominutí oslabuje legitimitu předpisu a je přezkoumatelné.
+- Slabé místo: ne každá procesní vada vede ke zrušení; soud zvažuje její podstatnost — výsledek je proto nejistý.
+
+#### H. Praktický závěr
+
+MSp smí vydat prováděcí vyhlášku jen v mezích čtyř zmocnění § 52c a jen po vyžádání (nikoli odsouhlasení) vyjádření Komory. Opomenutí konzultace je procesní vadou napadnutelnou v řízení o zákonnosti předpisu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda předmět vyhlášky spadá pod některý ze čtyř okruhů § 52c.
+- [ ] Doložit, že MSp vyžádalo předchozí vyjádření Komory.
+- [ ] Odlišit povinnost vyžádat vyjádření od (neexistující) povinnosti se jím řídit.
+- [ ] Při vadě zvážit incidenční námitku nezákonnosti / návrh na zrušení předpisu.
+
+**Typicky rozhodné důkazy / podklady:** znění vyhlášky a její odůvodnění, doklad o vyžádání a obsahu vyjádření Komory, doklad o zmocňovacím ustanovení.
 
 ---
 
@@ -286,6 +505,43 @@ Aplikuje se obecný procesní rámec zákona č. 250/2016 Sb., o odpovědnosti z
 
 **Výjimky z postihu — kdo neporušuje § 52d:** Z § 2 odst. 2 ZA vyplývá, že právní službu sám sobě (pro vlastní věc) si může poskytovat účastník právního jednání **sám**, případně **zaměstnanec** poskytuje právní službu zaměstnavateli (firemní právník — in-house lawyer). Také notáři, daňoví poradci, patentoví zástupci a exekutoři v rámci svých zákonných působností nejsou postiženi (§ 2 odst. 2 ZA).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Realitní makléř Y bez právního vzdělání soustavně za úplatu sepisuje pro své klienty kupní smlouvy a smlouvy o advokátní úschově, na webu inzeruje „kompletní právní servis při prodeji nemovitostí" a v patičce e-mailů užívá označení „advokátní servis Reality Y". Za rok takto zpracoval desítky transakcí, za každou inkasoval „administrativní poplatek". MSp obdrží podnět od ČAK. Důkazy: webové stránky a inzerce, vzorové smlouvy, faktury/příjmové doklady, e-mailová komunikace, svědectví klientů.
+
+**2. Právní otázka.** Které skutkové podstaty § 52d makléř naplnil, jakou sankci lze uložit a který orgán je k projednání příslušný?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 52d odst. 1 písm. a)–d) (skutkové podstaty), odst. 2 (pokuty do 200 tis./500 tis./3 mil. Kč), odst. 3 (zákaz činnosti do 1 roku), odst. 4 (příslušnost MSp).
+- *Související ustanovení téhož zákona:* § 2 odst. 1, 2, 3 (vymezení oprávněných osob a zákaz neoprávněného poskytování); § 12 odst. 5 (ochrana označení „advokát").
+- *Související předpisy:* z. č. 250/2016 Sb. (odpovědnost za přestupky — subsidiárně, § 7 non bis in idem); § 251 trestního zákoníku (neoprávněné podnikání) při větším rozsahu.
+- *Judikatura:* judikatura k odlišení jednorázové výpomoci od soustavného neoprávněného poskytování právních služeb a ke konkurenci přestupku a trestného činu (nosný závěr — opakovanost a úplatnost jsou znaky kvalifikované formy; spzn ověřit).
+
+**4. Subsumpce.** Soustavný sepis smluv za úplatu vůči různým klientům naplňuje **písm. b)** (opakované poskytování za úplatu — nejtěžší forma, pokuta až 3 mil. Kč + zákaz činnosti). Inzerce „právního servisu" naplňuje **písm. a)** (nabízení). Užití označení „advokátní servis" vyvolávající klamavý dojem naplňuje **písm. d)**. Znaky písm. b): poskytnutí služby (sepis), opakovanost (desítky kauz), úplata (poplatky) — všechny splněny.
+
+**5. Řešení.** MSp jako příslušný orgán (odst. 4) zahájí přestupkové řízení; uloží pokutu odstupňovanou dle nejzávažnější podstaty (písm. b) — až 3 mil. Kč) a může uložit zákaz činnosti do 1 roku (odst. 3). Souběh skutkových podstat se zohlední při výměře. Při dosažení většího rozsahu/škody hrozí i trestní postih dle § 251 TZ; vztah řeší zásada non bis in idem. Procesně: rozhodnutí MSp, rozklad, poté správní žaloba k MS v Praze.
+
+**6. Varianty.** (a) Jednorázový bezúplatný sepis závěti pro člena rodiny by nenaplnil písm. b) (chybí opakovanost i úplata). (b) Pokud by smlouvy zpracovával zaměstnaný firemní právník výlučně pro svého zaměstnavatele (§ 2 odst. 2 ZA), nešlo by o přestupek vůbec.
+
+#### G. Protiargumenty a rizika
+
+- Námitka makléře, že šlo jen o „administrativní pomoc", nikoli právní službu: neutralizujeme obsahovým testem — sepis smluv a poradenství je poskytováním právní služby bez ohledu na označení poplatku.
+- Námitka dvojího postihu (přestupek + trestný čin): řeší se non bis in idem; nutno koordinovat řízení MSp a orgánů činných v trestním řízení.
+- Slabé místo: prokázání „opakovanosti" a „úplaty" vyžaduje dostatek listinných důkazů; při jejich nedostatku hrozí překvalifikace na mírnější podstatu (písm. a)).
+
+#### H. Praktický závěr
+
+§ 52d chrání profesní rezervaci poskytování právních služeb. Nejpřísněji je postihováno opakované poskytování za úplatu (pokuta až 3 mil. Kč + zákaz činnosti). Přestupky projednává přímo MSp, neboť pachatel je zpravidla mimo advokátní stav.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zařadit jednání pod konkrétní písmeno odst. 1 (a/b/c/d) — určuje sankční rozpětí.
+- [ ] Doložit znaky kvalifikované formy: poskytnutí + opakovanost + úplata (písm. b)).
+- [ ] Posoudit klamavost užitého označení (písm. d), § 12 odst. 5).
+- [ ] Zvážit souběh s § 251 TZ a koordinaci řízení (non bis in idem).
+- [ ] Vyloučit výjimky dle § 2 odst. 2 ZA (in-house, notář, daňový poradce atd.).
+
+**Typicky rozhodné důkazy / podklady:** inzerce a webové stránky, vzorové a uzavřené smlouvy, faktury a příjmové doklady, e-mailová komunikace, svědectví klientů, výpis z živnostenského rejstříku.
+
 ---
 
 ## ČÁST DESÁTÁ — Správa cizího majetku a úschova peněžních prostředků
@@ -324,6 +580,42 @@ Praktické důsledky:
 Insolvenční správcovství má vlastní zákonný režim — povinnost mlčenlivosti insolvenčního správce upravuje insolvenční zákon. Aby nevznikly nesrozumitelné kolize, zákonodárce výslovně **vyloučil aplikaci § 21 ZA** (advokátní mlčenlivost) na insolvenční zjištění. Současně **insolvenční mlčenlivost zůstává nedotčena**. V praxi to znamená, že insolvenční správce, který je zároveň advokátem, musí pečlivě rozlišovat:
 - skutečnosti zjištěné **jako advokát** — chráněny § 21 ZA (s omezeným okruhem výjimek pro AML, terorismus apod.);
 - skutečnosti zjištěné **jako insolvenční správce** — chráněny pravidly insolvenčního zákona, nikoli § 21 ZA.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Advokát je jmenován insolvenčním správcem v insolvenci obchodní společnosti a současně dlouhodobě zastupuje jednoho z věřitelů této společnosti jako advokát v jiné věci. V průběhu insolvence se dozví skutečnosti o majetku dlužníka. Věřitel, jehož advokát zastupuje, žádá o sdělení těchto informací. Vzniká otázka rozsahu mlčenlivosti a možného střetu rolí. Důkazy: usnesení o ustanovení insolvenčním správcem, plná moc od věřitele, obsah zjištěných informací.
+
+**2. Právní otázka.** Vztahuje se na skutečnosti, které advokát zjistil jako insolvenční správce, advokátní mlčenlivost dle § 21 ZA, a jak se posoudí přiměřená aplikace pravidel o výkonu advokacie na správu cizího majetku a úschovu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 52e odst. 1 (trojí rozsah činnosti — správa cizího majetku, úschova, insolvenční správcovství), odst. 2 (přiměřená aplikace části II hlav II a III; vyloučení § 21 ZA pro insolvenční zjištění).
+- *Související ustanovení téhož zákona:* § 16 (péče řádného advokáta), § 21 (mlčenlivost), § 24a (pojištění odpovědnosti), § 52f–52n (správa a úschova).
+- *Související předpisy:* z. č. 182/2006 Sb. (insolvenční zákon) — mlčenlivost insolvenčního správce; § 1400 a násl. OZ (správa cizího majetku).
+- *Judikatura:* judikatura k povaze a rozsahu advokátní mlčenlivosti a k postavení insolvenčního správce (nosný závěr — mlčenlivost je vázána na roli, v níž byla informace získána; spzn ověřit).
+
+**4. Subsumpce.** Skutečnosti zjištěné **jako insolvenční správce** nepodléhají § 21 ZA (odst. 2 věta druhá výslovně vylučuje), nýbrž režimu mlčenlivosti dle insolvenčního zákona. Na vlastní úschovu a správu cizího majetku se pravidla o výkonu advokacie (péče, pojištění, mlčenlivost) aplikují **přiměřeně**. Roli advokáta a roli insolvenčního správce je nutno striktně oddělovat.
+
+**5. Řešení.** Advokát nesmí věřiteli sdělovat informace zjištěné v pozici insolvenčního správce nad rámec toho, co dovoluje insolvenční zákon a postavení správce (rovný přístup k věřitelům, zákaz zvýhodnění). Současně musí zvážit střet zájmů mezi rolí správce a rolí zástupce jednoho z věřitelů — může být důvodem k odmítnutí/ukončení jedné z rolí. Při úschově a správě jej váže péče řádného advokáta i pojištění odpovědnosti (§ 24a).
+
+**6. Varianty.** (a) Informace zjištěná **jako advokát** věřitele by naopak podléhala § 21 ZA. (b) Pokud by advokát z titulu úschovy přijal prostředky a porušil péči řádného hospodáře, šlo by o profesní i kárnou odpovědnost dle přiměřeně aplikovaných pravidel části II.
+
+#### G. Protiargumenty a rizika
+
+- Námitka, že advokát-správce je vázán advokátní mlčenlivostí ke všemu, co zjistí: vyvrátíme výslovným vyloučením § 21 ZA pro insolvenční zjištění (odst. 2).
+- Námitka, že „přiměřená" aplikace pravidel o advokacii znamená jejich oslabení: nutno trvat na tom, že přiměřenost se týká způsobu, nikoli existence povinností (péče, pojištění, mlčenlivost zůstávají).
+- Slabé místo: hranice mezi „informací zjištěnou jako advokát" a „jako správce" může být v praxi neostrá a vyžaduje pečlivou evidenci kontextu zjištění.
+
+#### H. Praktický závěr
+
+Advokát smí spravovat cizí majetek, provádět úschovy a působit jako insolvenční správce. Na úschovu a správu se přiměřeně použijí pravidla o výkonu advokacie (péče, pojištění, mlčenlivost); insolvenční zjištění jsou však z § 21 ZA vyňata a podléhají insolvenčnímu zákonu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Určit roli, v níž byla informace získána (advokát vs. insolvenční správce).
+- [ ] Aplikovat odpovídající režim mlčenlivosti (§ 21 ZA vs. insolvenční zákon).
+- [ ] Prověřit střet zájmů mezi rolemi a případně jednu z nich ukončit.
+- [ ] Zajistit krytí pojištěním odpovědnosti (§ 24a) pro úschovu/správu.
+
+**Typicky rozhodné důkazy / podklady:** usnesení o ustanovení správcem, plné moci a smlouvy z advokátní role, evidence o kontextu zjištění informací, pojistná smlouva.
 
 ---
 
@@ -367,6 +659,43 @@ Důvod desetileté archivace: (i) promlčecí lhůty pro nároky z případné o
 #### Odkaz na stavovský předpis (odst. 4)
 
 Zákon zde zmocňuje Komoru k vydání stavovského předpisu upravujícího **další podrobnosti správy cizího majetku** — typicky usnesení představenstva o pravidlech advokátní úschovy nebo o pravidlech správy cizího majetku. Stavovské předpisy podléhají notifikaci MSp dle § 50 a publikaci ve Věstníku Komory.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Movitý klient ústně pověří advokáta správou portfolia nemovitostí (výběr nájmů, úhrada nákladů, jednání s nájemci) s tím, že „papíry doladí později". Advokát začne majetek spravovat, hradí provozní náklady ze svého a vede dílčí poznámky. Po roce vznikne spor o vyúčtování a klient tvrdí, že žádnou správu nesjednal. Advokát nemá písemnou smlouvu ani úplnou dokumentaci. Důkazy: e-mailová korespondence, bankovní převody, svědectví nájemců, dílčí poznámky advokáta.
+
+**2. Právní otázka.** Jaké jsou důsledky absence písemné smlouvy o správě cizího majetku a jaké náklady a po jakou dobu je advokát povinen dokumentovat?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 52f odst. 1 (obligatorní písemná forma), odst. 2 (náklady správy), odst. 3 (desetiletá archivace dokumentace), odst. 4 (odkaz na stavovský předpis).
+- *Související ustanovení téhož zákona:* § 52e (oprávnění ke správě), § 16 (péče), § 25 (archivace klientského spisu), § 50/§ 53 (stavovské předpisy).
+- *Související předpisy:* § 561 odst. 1 OZ (písemná forma a elektronický podpis), § 636 OZ (objektivní promlčecí lhůta), vyhláška č. 177/1996 Sb. (advokátní tarif).
+- *Judikatura:* judikatura k důkaznímu břemenu při absenci písemné smlouvy a k odměně za bezesmluvní plnění (nosný závěr — bez písemné dokumentace nese riziko důkazní nouze ten, kdo plnil; spzn ověřit).
+
+**4. Subsumpce.** Správa byla zahájena bez **písemné smlouvy**, ač § 52f odst. 1 ji vyžaduje obligatorně — z hlediska ZA jde o vadný (neúčinný pro účely regulace) titul a porušení povinnosti advokáta. Náklady správy (odst. 2) klient hradí, ale advokát je musí doložit; archivovat měl dokumentaci po 10 let od ukončení správy (odst. 3) — což nyní nemůže, neboť smlouvu neuzavřel.
+
+**5. Řešení.** Advokát je v důkazní nouzi: bez písemné smlouvy obtížně prokáže rozsah pověření i nárok na odměnu/náklady. Náklady (hotové výdaje) může vymáhat, doloží-li je; odměna se při absenci ujednání řídí přiměřeně advokátním tarifem. Z hlediska kárného jde o porušení § 52f odst. 1 (absence písemné formy). Správný postup: neprodleně uzavřít písemnou smlouvu, jinak správu nezahajovat.
+
+**6. Varianty.** (a) Při řádné písemné smlouvě (i elektronické s uznávaným podpisem dle § 561 OZ) by advokát měl jasný titul a dokumentaci pro 10letou archivaci. (b) Pokud by šlo o úschovu peněžních prostředků, uplatnily by se navíc přísnější požadavky § 52g a násl. (zvláštní účet, kniha úschov).
+
+#### G. Protiargumenty a rizika
+
+- Námitka, že ústní pověření postačuje dle obecného OZ: vyvrátíme speciální úpravou § 52f odst. 1, která pro správu cizího majetku advokátem vyžaduje písemnou formu.
+- Námitka, že klient hradí i odměnu „ze zákona": odst. 2 hovoří o nákladech správy; odměna se řídí dohodou, podpůrně tarifem.
+- Slabé místo: bez písemné smlouvy je obtížné prokázat počátek běhu desetileté archivační lhůty (od „ukončení správy") a vůbec existenci pověření.
+
+#### H. Praktický závěr
+
+Správu cizího majetku advokátem lze vykonávat jen na základě písemné smlouvy; dokumentaci je nutno uchovávat 10 let od ukončení správy. Klient hradí náklady správy; odměna vyžaduje ujednání (jinak přiměřeně tarif).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Uzavřít písemnou smlouvu před zahájením správy (lze elektronicky s uznávaným podpisem).
+- [ ] Vymezit rozsah pravomocí a předmět správy.
+- [ ] Sjednat odměnu (jinak hrozí spor a aplikace tarifu).
+- [ ] Archivovat smlouvu, plné moci a doklady 10 let od ukončení správy.
+- [ ] Respektovat navazující stavovský předpis (odst. 4).
+
+**Typicky rozhodné důkazy / podklady:** písemná smlouva o správě, plné moci, doklady o nákladech a hotových výdajích, evidence úkonů správy, korespondence s klientem.
 
 ---
 
@@ -456,6 +785,43 @@ Dvě navazující zákazy:
 1. **Zákaz úschovy ve vlastní věci** — advokát nesmí být současně schovatelem **a** složitelem/oprávněným. To by představovalo konflikt zájmů a navíc by účet ztratil charakter fiduciárního vztahu.
 2. **Zákaz „přidání" jiných prostředků na účet úschovy** — advokát nesmí na účet úschovy ukládat prostředky, které nepocházejí ze složení podle úschovní smlouvy. Tím je vyloučeno mísení provozních a úschovních prostředků.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Advokát vede pro různé klienty více úschov kupních cen nemovitostí. Aby ušetřil bankovní poplatky, drží prostředky tří různých transakcí na jednom účtu označeném „advokátní úschova" a v rámci téhož účtu je „vnitřně eviduje". U jedné z transakcí navíc na tentýž účet dočasně uloží vlastní provozní prostředky. Poté je na advokáta podán návrh na zahájení insolvenčního řízení a exekutor jiného věřitele se pokusí postihnout zůstatek účtu. Důkazy: smlouvy o úschově, výpisy z účtu, označení účtu, exekuční příkaz.
+
+**2. Právní otázka.** Porušil advokát pravidla § 52g a jaký je osud prostředků klientů na účtu úschovy při exekuci a insolvenci advokáta?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 52g odst. 2 (zvláštní účet označený „advokátní úschova"), odst. 3 (jen vklad/bezhotovostní převod), odst. 4 (jedna úschova = jeden účet), odst. 5 (zákaz vlastní úschovy a cizích vkladů).
+- *Související ustanovení téhož zákona:* § 52f odst. 3 (archivace), § 52h–52k (notifikace, kniha úschov), § 52j odst. 3 (zákaz hotovosti), § 52m (součinnost ústavu).
+- *Související předpisy:* § 205 odst. 1 IZ (vynětí fiduciárního majetku z majetkové podstaty), exekuční řád (z. č. 120/2001 Sb.), z. č. 21/1992 Sb. o bankách.
+- *Judikatura:* ustálená praxe NS k povaze úschovy — úschovní prostředky nepřecházejí do vlastnictví schovatele, byť je účet veden na jeho jméno (svěřenský princip); konkrétní spzn ověřit v databázi NS.
+
+**4. Subsumpce.** Držení tří úschov na jednom účtu porušuje princip „jedna úschova = jeden účet" (odst. 4); uložení vlastních prostředků porušuje zákaz cizích vkladů (odst. 5). Přesto prostředky klientů zůstávají **fiduciárním majetkem klientů** — nepatří do majetkové podstaty advokáta (§ 205 odst. 1 IZ) a nesmí být postiženy exekucí vedenou proti advokátovi.
+
+**5. Řešení.** Exekuci na zůstatek účtu úschovy je nutno v této části zastavit / účet z exekuce vyloučit, neboť prostředky patří klientům. V insolvenci je insolvenční správce povinen vydat je oprávněným dle úschovních smluv. Porušení odst. 4 a 5 je však kárným proviněním advokáta a smíšení prostředků zhoršuje identifikaci čí jaká částka je — to zvyšuje riziko sporů. Správný postup: každou úschovu vést na samostatném účtu a nikdy nemísit s provozními prostředky.
+
+**6. Varianty.** (a) Při řádné separaci (každá úschova vlastní účet) by identifikace klientských prostředků byla bezproblémová a ochrana proti exekuci/insolvenci jednoznačná. (b) Pokud by účet nebyl označen „advokátní úschova", hrozilo by reálné riziko započtení banky či exekučního postihu a obtížné prokazování fiduciární povahy.
+
+#### G. Protiargumenty a rizika
+
+- Námitka banky/exekutora, že účet je ve vlastnictví advokáta, tedy postižitelný: vyvrátíme svěřenskou povahou — peníze patří klientovi, advokát je jen správce; podpora v § 205 IZ a judikatuře NS.
+- Námitka, že „vnitřní evidence" více úschov na jednom účtu postačuje: vyvrátíme odst. 4 (jeden účet jen pro jednu úschovu) — comingling je zakázán.
+- Slabé místo: smíšení prostředků fakticky ztěžuje důkaz, která částka komu patří; v krajním případě může vést k poměrnému krácení při schodku.
+
+#### H. Praktický závěr
+
+Účet advokátní úschovy musí být zvláštní, řádně označený, vést jen jednu úschovu a neobsahovat cizí ani vlastní provozní prostředky. Úschovní prostředky jsou fiduciárním majetkem klienta — chráněny před exekucí a insolvencí advokáta. Porušení separace je kárné a rizikové.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zřídit zvláštní účet označený „advokátní úschova" u peněžního ústavu.
+- [ ] Vést na účtu jen jednu úschovu; opětovně použít až po úplném vypořádání.
+- [ ] Nevkládat vlastní ani jiné prostředky (zákaz dle odst. 5).
+- [ ] Přijímat prostředky jen vkladem/bezhotovostním převodem (odst. 3).
+- [ ] Při exekuci/insolvenci doložit fiduciární povahu a domáhat se vynětí prostředků.
+
+**Typicky rozhodné důkazy / podklady:** smlouvy o úschově, výpisy a označení účtu, doklady o pohybech, případný exekuční příkaz, doklady prokazující původ a příslušnost prostředků jednotlivým klientům.
+
 ---
 
 ### § 52h — Předsmluvní informace a notifikace ústavu
@@ -502,6 +868,43 @@ Změna těchto údajů musí být ústavu hlášena **bez zbytečného odkladu**
 
 > **Praktická poznámka — vztah úrok / nárok klienta:** Peněžní ústavy v současné době nabízejí na účtech úschovy buď nulový úrok (zejména u velkých klientů a tržních dohod), nebo úrok srovnatelný s běžnými spořícími produkty. Úrok podle obecných pravidel **patří složiteli** (resp. oprávněnému, jak je sjednáno), nikoli advokátovi — advokát je pouze fiduciár. Při delších úschovách v období vyšších sazeb mohou úroky představovat významné částky; pokud si je advokát přivlastní bez výslovného oprávnění, dopouští se zpronevěry (potenciálně trestného činu zpronevěry — § 206 trestního zákoníku).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Advokát přijme do úschovy kupní cenu nemovitosti, avšak před přijetím prostředků složitele písemně neinformuje o omezeních nakládání s úschovou ani o tom, že banka mu zašle potvrzení o vedení účtu; rovněž neuvede peněžnímu ústavu správné kontaktní údaje oprávněného a číslo účtu pro úrok. Po měsíci se kontaktní e-mail oprávněného změní; advokát změnu bance neoznámí. Při výplatě vznikne spor o úrok a oprávněný tvrdí, že nebyl o úschově řádně informován. Důkazy: úschovní smlouva, (chybějící) předsmluvní poučení, notifikace bance, e-mailová komunikace.
+
+**2. Právní otázka.** Jaké předsmluvní informační a notifikační povinnosti má advokát před přijetím prostředků na účet úschovy a jaké jsou důsledky jejich porušení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 52h odst. 1 (písemné předsmluvní informace složiteli a oprávněnému), odst. 2 (elektronická notifikace ústavu — kontaktní údaje, účet pro úrok), odst. 3 (hlášení změn bez zbytečného odkladu).
+- *Související ustanovení téhož zákona:* § 52g (účet úschovy), § 52j (potvrzení ústavu), § 52k (kniha úschov), § 16 a § 21 (péče, mlčenlivost).
+- *Související předpisy:* § 206 trestního zákoníku (zpronevěra — při přivlastnění úroku), GDPR (kontaktní údaje), z. č. 253/2008 Sb. (AML).
+- *Judikatura:* judikatura k odpovědnosti advokáta za porušení informačních povinností a k nároku klienta na úrok z úschovy (nosný závěr — úrok náleží složiteli/oprávněnému, nikoli schovateli; spzn ověřit).
+
+**4. Subsumpce.** Advokát porušil odst. 1 (chybějící písemné poučení) i odst. 2 (chybné/neúplné údaje ústavu) a odst. 3 (neohlášení změny kontaktu). Úrok dle obecných pravidel náleží klientovi; advokát si jej nesmí přivlastnit. Porušení informační povinnosti je samostatným pochybením s kárným dosahem a relevancí pro míru zavinění.
+
+**5. Řešení.** Advokát měl před přijetím prostředků písemně poučit složitele i oprávněného o povinnostech a omezeních úschovy a o tom, že banka zašle potvrzení; ústavu měl sdělit správné kontaktní údaje a účet pro úrok a změny hlásit bez zbytečného odkladu. Důsledky porušení: kárná odpovědnost, odpovědnost za škodu, a přivlastní-li si úrok, riziko trestného činu zpronevěry (§ 206 TZ). Úrok je nutno vyplatit oprávněnému dle smlouvy.
+
+**6. Varianty.** (a) Při řádném poučení a notifikaci by klient měl nezávislé potvrzení banky o úschově a spor o úrok by nevznikl. (b) Pokud by si advokát úrok vědomě ponechal bez ujednání, posunula by se věc z kárné do trestní roviny (zpronevěra).
+
+#### G. Protiargumenty a rizika
+
+- Námitka, že informační povinnost je formalita: vyvrátíme tím, že její porušení zakládá samostatné pochybení a oslabuje ochranu klienta i důkazní pozici advokáta.
+- Námitka advokáta na úrok jako „odměnu": vyvrátíme — úrok náleží klientovi, ledaže je výslovně a ekonomicky důvodně sjednáno jinak.
+- Slabé místo: hranice „bez zbytečného odkladu" pro hlášení změn není pevná; opomenutí však zvyšuje riziko phishingu a chybného doručení notifikací.
+
+#### H. Praktický závěr
+
+Před přijetím prostředků musí advokát písemně poučit strany úschovy (odst. 1) a elektronicky notifikovat ústav (odst. 2), změny hlásit neprodleně (odst. 3). Úrok patří klientovi. Porušení zakládá kárnou i hmotnou odpovědnost, přivlastnění úroku i trestní postih.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Před přijetím prostředků doručit písemné předsmluvní poučení (4 okruhy dle odst. 1).
+- [ ] Elektronicky sdělit ústavu kontaktní údaje stran a účet pro úrok (odst. 2).
+- [ ] Hlásit změny údajů bez zbytečného odkladu (odst. 3).
+- [ ] Vyplatit úrok oprávněnému/složiteli dle smlouvy, nepřivlastňovat si jej.
+- [ ] Zajistit GDPR-konformní nakládání s kontaktními údaji.
+
+**Typicky rozhodné důkazy / podklady:** úschovní smlouva, písemné předsmluvní poučení s dokladem o doručení, notifikace zaslané ústavu, doklady o úroku a jeho výplatě, korespondence o změnách kontaktů.
+
 ---
 
 ### § 52i — Nakládání s úschovními prostředky
@@ -531,6 +934,42 @@ Typická úschovní smlouva proto velmi pečlivě formuluje:
 - nezbývají žádné nevyrovnané položky (úroky, drobné zbytky).
 
 Důvod: zamezit smíchání prostředků z různých úschov na jednom účtu (v rozporu s § 52g odst. 4).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** V trojstranné úschovní smlouvě je výplata kupní ceny prodávajícímu (oprávněnému) vázána na vklad vlastnického práva kupujícího v katastru. Před splněním této podmínky prodávající advokáta naléhavě požádá o „zálohové" vyplacení části ceny s tím, že „kupující jistě souhlasí". Advokát z dobré vůle a v domnění, že chrání zájem prodávajícího, část ceny vyplatí. Vklad práva však katastr zamítne pro vadu návrhu a kupující požaduje vrácení celé ceny. Důkazy: úschovní smlouva s podmínkami, výpis o předčasném převodu, rozhodnutí katastru, komunikace stran.
+
+**2. Právní otázka.** Smí advokát vyplatit úschovní prostředky před splněním smluvních podmínek, byť v domnělém zájmu jedné strany, a jaké jsou důsledky takového kroku?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 52i odst. 1 (vázanost dispozic výhradně podmínkami úschovní smlouvy), odst. 2 (re-použití účtu až po úplném vypořádání).
+- *Související ustanovení téhož zákona:* § 52g (účet úschovy), § 52h (informace, notifikace), § 52k odst. 4 (záznam o ukončení), § 16, § 24a (péče, pojištění).
+- *Související předpisy:* § 1953 a násl. OZ (soudní úschova při sporu), § 206 TZ (zpronevěra), § 2913 OZ (náhrada škody z porušení smlouvy).
+- *Judikatura:* judikatura k odpovědnosti schovatele za výplatu v rozporu s podmínkami úschovy (nosný závěr — schovatel nemá obecné dispoziční oprávnění, smí plnit jen dle smlouvy; spzn ověřit).
+
+**4. Subsumpce.** Advokát neměl dispoziční oprávnění k „zálohové" výplatě — odst. 1 váže nakládání **výhradně** na smluvní podmínky (zde vklad práva v katastru). Předčasná výplata bez výslovného pokynu obou stran je porušením § 52i odst. 1, a to i při dobrém úmyslu. Účet navíc nesmí být znovu použit, dokud není úschova úplně vypořádána (odst. 2).
+
+**5. Řešení.** Advokát odpovídá za škodu vzniklou předčasnou výplatou (kupujícímu, jenž žádá vrácení celé ceny); jde rovněž o kárné provinění a při znacích úmyslu i o riziko zpronevěry. Při sporu mezi stranami o vydání prostředků je správným řešením **soudní úschova** dle § 1953 OZ, nikoli vlastní uvážení advokáta. Správný postup: plnit striktně dle podmínek, jakoukoli odchylku jen na základě písemného souhlasu všech stran.
+
+**6. Varianty.** (a) Pokud by obě strany písemně odsouhlasily zálohovou výplatu (změna smluvních podmínek), byla by dispozice v souladu s odst. 1. (b) Pokud by advokát při sporu složil prostředky do soudní úschovy, vyhnul by se odpovědnosti za nesprávné vyplacení.
+
+#### G. Protiargumenty a rizika
+
+- Námitka advokáta, že jednal v zájmu klienta: vyvrátíme — advokát nemá obecné dispoziční oprávnění, dobrý úmysl porušení § 52i odst. 1 neospravedlňuje.
+- Námitka, že ústní souhlas druhé strany postačí: rizikové a neprokazatelné; nutný písemný souhlas všech stran (změna smlouvy).
+- Slabé místo: tlak stran na rychlé plnění je v praxi silný; advokát musí odolat a trvat na splnění podmínek nebo na soudní úschově.
+
+#### H. Praktický závěr
+
+Advokát smí s úschovou nakládat jen přesně podle smluvních podmínek; jakoukoli odchylku jen na základě písemného souhlasu všech stran. Při sporu volí soudní úschovu. Účet znovu použije až po úplném vypořádání. Předčasná výplata zakládá odpovědnost za škodu i kárný a trestní postih.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vyplácet/převádět jen po splnění výslovných smluvních podmínek.
+- [ ] Odchylku realizovat jen na základě písemného souhlasu všech stran.
+- [ ] Při sporu o vydání zvážit soudní úschovu (§ 1953 OZ).
+- [ ] Re-použít účet až po úplném vypořádání předchozí úschovy a záznamu v knize.
+
+**Typicky rozhodné důkazy / podklady:** úschovní smlouva s definicí podmínek, doklady o splnění/nesplnění podmínek (vklad v katastru), výpisy o převodech, písemné souhlasy stran, komunikace.
 
 ---
 
@@ -594,6 +1033,43 @@ Klient je tak průběžně informován o všech pohybech; nemůže být zaskoče
 
 Peněžní ústav uchovává údaje o advokátní úschově po dobu **10 let**. Lhůta je harmonizována s archivační povinností advokáta (§ 52f odst. 3) a s obecnou objektivní promlčecí lhůtou nároků z odpovědnosti (§ 636 OZ). Banka tedy musí být schopna i po deseti letech doložit, kdy, na jaký účet, v jaké výši byly prostředky přijaty a vyplaceny.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Podvodník vystupující jako „advokát" přesvědčí kupujícího nemovitosti, aby kupní cenu složil na účet „advokátní úschovy". Kupující však nikdy neobdrží od banky potvrzení o vedení účtu ani o transakcích; peníze jsou krátce po složení vyvedeny. V jiné variantě skutečný advokát úschovu vede řádně a banka kupujícímu i prodávajícímu zasílá potvrzení o vedení účtu a o každém převodu. Důkazy: bankovní potvrzení (či jejich absence), výpisy, označení účtu, komunikace.
+
+**2. Právní otázka.** Jaké povinnosti má peněžní ústav vůči složiteli a oprávněnému a jak tyto povinnosti chrání klienta před zneužitím úschovy?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 52j odst. 1, 2 (potvrzení o vedení účtu složiteli i oprávněnému, znovuzaslání při změně kontaktu), odst. 3 (absolutní zákaz hotovostních operací advokáta), odst. 4 (potvrzení o transakcích), odst. 5 (10letá archivace u ústavu).
+- *Související ustanovení téhož zákona:* § 52g (účet úschovy), § 52h (notifikace ústavu), § 52k (kniha úschov), § 52m (součinnost ústavu s Komorou).
+- *Související předpisy:* z. č. 21/1992 Sb. o bankách, z. č. 253/2008 Sb. (AML), § 206 TZ (zpronevěra).
+- *Judikatura:* judikatura k odpovědnosti za zneužití úschovy a k významu nezávislé bankovní notifikace jako důkazu existence úschovy (nosný závěr — nezávislé potvrzení ústavu chrání klienta před fiktivní úschovou; spzn ověřit).
+
+**4. Subsumpce.** V podvodné variantě absence bankovních potvrzení (odst. 1, 2, 4) signalizuje, že nešlo o řádnou advokátní úschovu — klient měl mít nezávislý důkaz od banky. Zákaz hotovostních operací (odst. 3) má bránit anonymnímu vyvedení prostředků. V řádné variantě banka komunikuje s klientem přímo, čímž vytváří kontrolní triádu klient–advokát–ústav.
+
+**5. Řešení.** Klient si měl existenci úschovy ověřit u banky nezávisle na advokátovi; absence potvrzení je varovným signálem. Banka je povinna technicky znemožnit hotovostní vklad/výběr advokáta (odst. 3) a zasílat potvrzení o vedení i o transakcích (odst. 1, 2, 4). Při podvodu nese odpovědnost pachatel; banka odpovídá, porušila-li své povinnosti (např. umožnila hotovostní výběr). Údaje archivuje 10 let (odst. 5).
+
+**6. Varianty.** (a) Pokud by „advokát" nebyl zapsán v seznamu advokátů, nešlo by o advokátní úschovu vůbec a chyběl by celý ochranný režim — výstraha pro klienta. (b) Při změně kontaktu klienta banka zasílá potvrzení na původní i novou adresu (odst. 2), čímž odhalí pokus o podvodné přesměrování notifikací.
+
+#### G. Protiargumenty a rizika
+
+- Námitka, že potvrzení banky jsou nadbytečná administrativa: vyvrátíme jejich rolí nezávislého důkazu existence a stavu úschovy chránícího klienta před fiktivní úschovou.
+- Námitka, že hotovostní vklad složitele je zakázán: zákaz odst. 3 dopadá na advokáta jako majitele účtu, nikoli na vklad samotného složitele (s AML omezeními).
+- Slabé místo: ochrana funguje jen u skutečné advokátní úschovy u licencovaného ústavu; mimo tento režim (falešný „advokát", neoznačený účet) klient chráněn není.
+
+#### H. Praktický závěr
+
+Peněžní ústav tvoří třetí vrchol kontrolní triády: zasílá klientovi potvrzení o vedení účtu i o transakcích, technicky brání hotovostním operacím advokáta a údaje archivuje 10 let. Klient si má existenci úschovy vždy ověřit nezávisle u banky.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit u banky potvrzení o vedení účtu úschovy (odst. 1, 2).
+- [ ] Sledovat potvrzení o každé transakci (odst. 4).
+- [ ] Vyloučit hotovostní operace advokáta na účtu (odst. 3).
+- [ ] Při změně kontaktu očekávat potvrzení na původní i novou adresu.
+- [ ] Při absenci potvrzení prověřit, zda jde o skutečnou advokátní úschovu.
+
+**Typicky rozhodné důkazy / podklady:** bankovní potvrzení o vedení účtu a o transakcích, výpisy, označení účtu „advokátní úschova", ověření zápisu advokáta v seznamu ČAK.
+
 ---
 
 ### § 52k — Elektronická kniha úschov
@@ -656,6 +1132,43 @@ Komora elektronicky **proaktivně zasílá** klientovi (a oprávněnému, je-li 
 
 Tím získává klient třetí, nezávislý zdroj informací (vedle vlastní úschovní smlouvy a notifikací peněžního ústavu). Triáda klient – peněžní ústav – Komora vytváří **trojitý kontrolní okruh**: jakákoli manipulace s úschovou bez vědomí klienta je prakticky nemožná, neboť by musela být skryta před všemi třemi nezávislými zdroji.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Advokát přijme do úschovy kupní cenu, avšak do elektronické knihy úschov záznam neodešle (ani po převzetí, ani po výplatě), případně jej odešle se značným zpožděním a neúplně. Po několika měsících advokát náhle zemře. Klienti netuší, v jakém stavu jejich úschovy jsou; nástupce ustanovený Komorou nemá z knihy úschov úplný přehled otevřených úschov tohoto advokáta. Důkazy: kniha úschov (mezery v záznamech), úschovní smlouvy, výpisy z účtů, žádosti klientů.
+
+**2. Právní otázka.** Jaké záznamové povinnosti má advokát vůči elektronické knize úschov a jaké jsou důsledky jejich neplnění, zejména při náhlém ukončení činnosti advokáta?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 52k odst. 1, 2 (kniha úschov vedená Komorou; stavovský předpis), odst. 3 (záznam při zahájení úschovy bez zbytečného odkladu), odst. 4 (záznam o datu vyplacení), odst. 5 (komorové notifikace klientovi).
+- *Související ustanovení téhož zákona:* § 52g–52j (účet, notifikace, povinnosti ústavu), § 52l (předběžné pozastavení), § 52m (součinnost ústavu), § 27 (zástupce advokáta při ukončení činnosti).
+- *Související předpisy:* stavovský předpis ČAK k vedení knihy úschov; § 206 TZ (zpronevěra).
+- *Judikatura:* obecná praxe ke kárné odpovědnosti za porušení evidenčních povinností u úschov (nosný závěr — řádné vedení knihy úschov je podstatnou povinností; spzn ověřit).
+
+**4. Subsumpce.** Neodeslání či opožděné a neúplné odeslání záznamů porušuje odst. 3 a 4 („bez zbytečného odkladu"). Kniha úschov plní funkci kontrolní, notifikační, preventivní a **vyšetřovací** — právě při úmrtí/pozastavení advokáta umožňuje rychle identifikovat otevřené úschovy. Mezery v záznamech tuto funkci maří a komplikují vydání prostředků oprávněným.
+
+**5. Řešení.** Advokát měl bez zbytečného odkladu zaznamenat zahájení (odst. 3) i ukončení (odst. 4) každé úschovy; Komora pak proaktivně notifikuje klienty (odst. 5). Porušení je kárným proviněním a zakládá riziko předběžného pozastavení (§ 52l). Při úmrtí advokáta nástupce dohledá úschovy primárně z knihy úschov a součinností peněžních ústavů (§ 52m); mezery se nahrazují rekonstrukcí z bankovních a smluvních podkladů. Správný postup: záznamy provádět neprodleně a úplně.
+
+**6. Varianty.** (a) Při řádném vedení knihy by nástupce okamžitě identifikoval všechny otevřené úschovy a klienty by Komora informovala automaticky (odst. 5). (b) Opakované „zapomínání" záznamů by mohlo vést k předběžnému pozastavení úschovní činnosti dle § 52l ještě za života advokáta.
+
+#### G. Protiargumenty a rizika
+
+- Námitka, že kniha úschov je duplicitní k bankovním záznamům: vyvrátíme její centralizační a vyšetřovací funkcí (souhrnný obraz všech úschov advokáta u Komory).
+- Námitka, že „bez zbytečného odkladu" připouští delší prodlevy: nutno trvat na řádech několika pracovních dní; opakované zpoždění je kárné.
+- Slabé místo: detailní pravidla jsou ve stavovském předpisu, jehož aktuální znění je třeba ověřit ve Věstníku — výklad povinností závisí na jeho aktuální verzi.
+
+#### H. Praktický závěr
+
+Advokát musí bez zbytečného odkladu zaznamenat do elektronické knihy úschov zahájení i ukončení každé úschovy. Kniha slouží i k rychlé identifikaci úschov při úmrtí/pozastavení advokáta. Porušení je kárné a může vést k předběžnému pozastavení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Odeslat záznam o zahájení úschovy bez zbytečného odkladu (odst. 3).
+- [ ] Odeslat záznam o datu vyplacení (u více převodů datum posledního) (odst. 4).
+- [ ] Respektovat aktuální stavovský předpis o vedení knihy (odst. 2).
+- [ ] Ověřit, že Komora notifikovala klienty (odst. 5).
+- [ ] Při ukončení činnosti advokáta využít knihu úschov k identifikaci otevřených úschov.
+
+**Typicky rozhodné důkazy / podklady:** výpis z elektronické knihy úschov, úschovní smlouvy, bankovní výpisy a potvrzení, žádosti klientů, doklady o případném zpoždění záznamů.
+
 ---
 
 ### § 52l — Předběžné pozastavení správy a úschovy
@@ -701,6 +1214,43 @@ Předběžné pozastavení **není trvalé** — zaniká:
 
 > **Praktická poznámka:** Předběžné pozastavení dle § 52l je relativně časté — Komora ho v posledních letech ukládá průměrně několika desítkám advokátů ročně, zejména v souvislosti s podezřením na zpronevěru úschovních prostředků nebo opakované porušení záznamových povinností v knize úschov. Veřejnost je o pozastavení informována zápisem v seznamu advokátů (§ 55d odst. 2 písm. k) ZA).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Kontrolní rada ČAK z podnětu peněžního ústavu a stížnosti klienta zjistí, že advokát opakovaně porušuje záznamové povinnosti v knize úschov a u jedné úschovy je podezření na nesoulad zůstatku se sjednanou částkou. Předseda kontrolní rady navrhne představenstvu předběžné pozastavení výkonu úschovní činnosti advokáta. Představenstvo o tom rozhodne bez ústního jednání. Advokát namítá, že porušení nebylo prokázáno nade vší pochybnost. Důkazy: kniha úschov, výpisy z účtu úschovy, stížnost klienta, oznámení peněžního ústavu.
+
+**2. Právní otázka.** Za jakých podmínek lze advokátovi předběžně pozastavit výkon úschovní činnosti a jak dlouho takové opatření trvá?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 52l odst. 1 (návrh předsedy kontrolní rady), odst. 2 (rozhodnutí představenstva, postačí, že skutečnosti nasvědčují porušení), odst. 3 písm. a), b) (zánik opatření — nezahájení kárného řízení do 3 měsíců / pravomocné kárné rozhodnutí).
+- *Související ustanovení téhož zákona:* § 55 odst. 4 (bez ústního jednání ve věcech § 52l odst. 2), § 32 (kárná opatření), § 46 (kontrolní rada), § 55d odst. 2 písm. k) (záznam v seznamu), § 52g–52k (porušované povinnosti).
+- *Související předpisy:* z. č. 500/2004 Sb. (správní řád, subsidiárně dle § 55), vyhláška č. 244/1996 Sb. (kárný řád).
+- *Judikatura:* judikatura k předběžným/zajišťovacím opatřením preventivní povahy a k nižšímu důkaznímu standardu „nasvědčují" (nosný závěr — interim opatření chrání třetí osoby a nevyžaduje plný důkaz provinění; spzn ověřit).
+
+**4. Subsumpce.** Pro předběžné pozastavení **postačí, že skutečnosti nasvědčují** porušení (odst. 2) — nevyžaduje se prokázání nade vší pochybnost; jde o opatření **preventivní povahy**, nikoli o sankci. Návrh dává předseda kontrolní rady (odst. 1), rozhoduje představenstvo bez zbytečného odkladu a bez ústního jednání (§ 55 odst. 4). Opatření zaniká dle odst. 3 (3 měsíce bez kárného řízení / pravomocné kárné rozhodnutí).
+
+**5. Řízení/řešení.** Námitka advokáta o nedostatku plného důkazu neobstojí — standard je nižší (postačí „nasvědčují"). Po dobu pozastavení advokát nesmí přijímat nové úschovy ani spravovat cizí majetek pro nové klienty; běžící úschovy řádně vypořádá, případně předá nástupci. Komora musí do 3 měsíců zahájit kárné řízení, jinak opatření padá (odst. 3 písm. a)). Pozastavení se zapisuje do seznamu advokátů (§ 55d odst. 2 písm. k)).
+
+**6. Varianty.** (a) Pokud Komora do 3 měsíců kárné řízení nezahájí, pozastavení automaticky zanikne (pojistka proti zneužití). (b) Skončí-li kárné řízení osvobozením, opatření padá; při odsouzení je nahrazeno pravomocným kárným opatřením (dočasný zákaz výkonu advokacie či vyškrtnutí).
+
+#### G. Protiargumenty a rizika
+
+- Námitka advokáta na presumpci neviny a chybějící plný důkaz: neutralizujeme preventivní povahou opatření a textem odst. 2 („nasvědčují") — nejde o sankci, ale o ochranu klientů.
+- Námitka na absenci ústního jednání: vyvrátíme výslovnou výjimkou § 55 odst. 4 (urgentní povaha věci § 52l odst. 2).
+- Slabé místo: opatření zasahuje do výkonu povolání a do dobré pověsti (zápis do seznamu); proto je vyváženo tříměsíční prekluzí a soudní ochranou proti rozhodnutí představenstva.
+
+#### H. Praktický závěr
+
+Předběžné pozastavení úschovní činnosti je rychlým preventivním nástrojem ochrany klientů; postačí, že skutečnosti nasvědčují porušení. Rozhoduje představenstvo bez ústního jednání. Opatření zaniká nezahájením kárného řízení do 3 měsíců nebo pravomocným kárným rozhodnutím.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Doložit, že skutečnosti nasvědčují porušení povinností při správě/úschově (odst. 2).
+- [ ] Zajistit návrh předsedy (pověřeného člena) kontrolní rady (odst. 1).
+- [ ] Rozhodnout bez zbytečného odkladu a bez ústního jednání (§ 55 odst. 4).
+- [ ] Do 3 měsíců zahájit kárné řízení, jinak opatření zaniká (odst. 3 písm. a)).
+- [ ] Zapsat pozastavení do seznamu advokátů (§ 55d odst. 2 písm. k)).
+
+**Typicky rozhodné důkazy / podklady:** kniha úschov, výpisy z účtu úschovy, stížnost klienta, oznámení peněžního ústavu, návrh kontrolní rady, rozhodnutí představenstva.
+
 ---
 
 ### § 52m — Součinnost peněžních ústavů s Komorou
@@ -738,6 +1288,42 @@ Porušení této povinnosti by mohlo zakládat odpovědnost Komory za zásah do 
 
 § 52m řeší poměr Komora — peněžní ústav; **nedotýká** se vztahu peněžního ústavu vůči **Finančnímu analytickému úřadu** (FAÚ) podle z. č. 253/2008 Sb. (AML zákon). FAÚ má samostatné a širší oprávnění získávat údaje (§ 30 AML zákona). Vztah advokátů a peněžních ústavů k FAÚ je dále specificky upraven § 5d ZA (povinnost identifikace klienta, oznamovací povinnost u podezřelých obchodů).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Kontrolní rada ČAK prošetřuje podezření, že advokát vyvádí prostředky z účtů úschov. Komora požádá banku o sdělení čísel účtů úschov advokáta, jejich stavů a pohybů. Žádost však zašle pouze v listinné podobě (poštou), nikoli elektronicky datovým souborem. Banka součinnost odmítne s odkazem na bankovní tajemství a na formu žádosti. Důkazy: žádost Komory, odpověď banky, interní pravidla ústavu.
+
+**2. Právní otázka.** Za jakých podmínek je peněžní ústav povinen poskytnout Komoře údaje o účtech úschov advokáta a jak je nutno žádost podat?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 52m odst. 1 (povinnost ústavu sdělit údaje o účtech úschov, jejich stavu a změnách; povinnost Komory chránit údaje v tajnosti), odst. 2 (žádost i poskytnutí elektronicky datovým souborem), odst. 3 (bez elektronické formy ústav součinnost neposkytne).
+- *Související ustanovení téhož zákona:* § 52g–52l (úschova a kontrola), § 5d (AML povinnosti advokáta), § 21 (mlčenlivost).
+- *Související předpisy:* § 38 a násl. z. č. 21/1992 Sb. o bankách (bankovní tajemství); GDPR; z. č. 253/2008 Sb. (AML); § 30 AML zákona (oprávnění FAÚ).
+- *Judikatura:* judikatura k zákonným průlomům do bankovního tajemství a k formálním podmínkám výkonu oprávnění (nosný závěr — průlom do bankovního tajemství je přípustný jen v zákonem stanovených mezích a formách; spzn ověřit).
+
+**4. Subsumpce.** § 52m zakládá **specifický zákonný průlom** do bankovního tajemství ve prospěch Komory. Podmínkou poskytnutí je však **elektronická forma datovým souborem** (odst. 2); bez ní ústav součinnost neposkytne (odst. 3). Listinná žádost Komory proto nezakládá povinnost banky vyhovět — banka postupovala v souladu s odst. 3.
+
+**5. Řešení.** Komora musí žádost podat **elektronicky datovým souborem**; pak je banka povinna stejnou formou poskytnout čísla účtů úschov, jejich stavy a změny. Získané údaje je Komora povinna chránit v tajnosti a před zneužitím (odst. 1, GDPR) a zpřístupnit jen úzkému okruhu (kontrolní rada, pověření zaměstnanci). Banka odmítla listinnou žádost po právu; po elektronickém podání bude povinna vyhovět.
+
+**6. Varianty.** (a) Při elektronickém podání žádosti by banka musela součinnost poskytnout — odmítnutí by bylo porušením § 52m. (b) Vztah ústavu k **FAÚ** dle AML zákona zůstává nedotčen; FAÚ má samostatné a širší oprávnění (§ 30 AML zákona) bez ohledu na § 52m.
+
+#### G. Protiargumenty a rizika
+
+- Námitka banky na bankovní tajemství: neutralizujeme zákonným průlomem dle § 52m — banka je povinna vyhovět při splnění formy.
+- Námitka Komory, že forma je formalita: vyvrátíme odst. 3 — elektronická forma je tvrdou procesní podmínkou, bez níž povinnost součinnosti nevzniká.
+- Slabé místo: ochrana získaných údajů — Komora odpovídá za jejich utajení; porušení by zakládalo odpovědnost za zásah do bankovního tajemství a osobních údajů.
+
+#### H. Praktický závěr
+
+Banka je povinna poskytnout Komoře údaje o účtech úschov advokáta, avšak jen na elektronickou žádost datovým souborem (odst. 2, 3). Komora údaje chrání v tajnosti. Vztah ústavu k FAÚ podle AML zákona tím není dotčen.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Podat žádost o součinnost výhradně elektronicky datovým souborem (odst. 2).
+- [ ] Vymezit požadované údaje (čísla účtů, stavy, změny).
+- [ ] Zajistit utajení a GDPR-konformní zpracování získaných údajů (odst. 1).
+- [ ] Odlišit režim § 52m od oprávnění FAÚ dle AML zákona.
+
+**Typicky rozhodné důkazy / podklady:** elektronická žádost Komory, odpověď/datový soubor banky, interní pravidla nakládání s utajenými údaji u Komory, evidence okruhu osob s přístupem.
+
 ---
 
 ### § 52n — Vztah k jiným předpisům
@@ -759,6 +1345,42 @@ Porušení této povinnosti by mohlo zakládat odpovědnost Komory za zásah do 
 - Peněžní ústav vedle povinností dle § 52j ZA dodržuje obecné povinnosti dle BankZ (kapitálová přiměřenost, vnitřní kontrola, hlášení podezřelých obchodů FAÚ apod.).
 - Advokát musí v souvislosti s úschovou plnit **AML povinnosti** podle § 5d ZA a AML zákona — identifikace klienta, kontrola původu prostředků, oznamovací povinnost vůči FAÚ u podezřelých obchodů (zejména při úschovách s neobvykle vysokými částkami nebo nejasným původem peněz).
 - **Pojištění vkladů** (z. č. 156/2010 Sb. — Garanční systém finančního trhu): účet úschovy je z hlediska pojištění vkladů specifický — pojištění se v zásadě vztahuje na vkladatele (formálně advokát/AK jako majitel účtu), avšak v praxi se uplatňuje pravidlo „transparentnosti účtu", podle něhož se pojištění aplikuje na **skutečné majitele prostředků** (klienty); detaily čtenář ověří dle aktuálního výkladu Garančního systému.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Advokát přijme do úschovy mimořádně vysokou částku (desítky milionů Kč) v souvislosti s prodejem nemovitosti, přičemž původ prostředků složitele je nejasný a transakce vykazuje znaky neobvyklosti. Advokát se domnívá, že splněním povinností dle § 52g–52k (zvláštní účet, kniha úschov, notifikace) je „kryt" a další povinnosti nemá. Neprovede řádnou identifikaci a kontrolu klienta ani nezváží oznámení podezřelého obchodu. Důkazy: úschovní smlouva, doklady o původu prostředků, identifikační záznamy, komunikace s klientem.
+
+**2. Právní otázka.** Vyčerpává splnění povinností o advokátní úschově dle ZA všechny povinnosti advokáta a peněžního ústavu, nebo se kumulují s povinnostmi dle dalších předpisů (AML, bankovní)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 52n (úprava úschovy v ZA nedotýká povinností advokáta ani ústavu dle zákona o bankách, zákona o spořitelních a úvěrních družstvech a AML zákona — princip kumulace).
+- *Související ustanovení téhož zákona:* § 5d (identifikace klienta, AML opatření v advokacii), § 52g–52m (úschova a součinnost).
+- *Související předpisy:* z. č. 253/2008 Sb. (AML zákon) — identifikace, kontrola klienta, oznamovací povinnost; z. č. 21/1992 Sb. o bankách; z. č. 87/1995 Sb.; z. č. 156/2010 Sb. (pojištění vkladů, Garanční systém).
+- *Judikatura:* praxe FAÚ a soudů k oznamovací povinnosti u podezřelých obchodů a k odpovědnosti za její porušení (nosný závěr — AML povinnosti existují vedle profesní úpravy a nejsou jí konzumovány; spzn ověřit).
+
+**4. Subsumpce.** § 52n potvrzuje **princip kumulace** — splnění povinností o úschově dle ZA **nenahrazuje** AML a bankovní povinnosti. Advokát musí u úschovy navíc plnit povinnosti dle § 5d ZA a AML zákona (identifikace, kontrola původu prostředků, oznámení podezřelého obchodu FAÚ). Domněnka advokáta o „krytí" je mylná.
+
+**5. Řešení.** Advokát je u vysoké a neobvyklé úschovy povinen provést identifikaci a kontrolu klienta, prověřit původ prostředků a při znacích podezřelého obchodu podat oznámení FAÚ — to vše vedle povinností o úschově. Peněžní ústav současně plní vlastní povinnosti dle BankZ a AML. Porušení AML povinností zakládá samostatnou odpovědnost bez ohledu na řádnost úschovy dle ZA.
+
+**6. Varianty.** (a) Při běžné, transparentní úschově s jasným původem prostředků postačí standardní identifikace; oznamovací povinnost se neaktivuje. (b) Z hlediska pojištění vkladů (z. č. 156/2010 Sb.) se uplatní pravidlo transparentnosti účtu — pojištění se vztahuje na skutečné majitele prostředků (klienty), nikoli formálně na advokáta.
+
+#### G. Protiargumenty a rizika
+
+- Námitka advokáta, že úprava úschovy v ZA je speciální a konzumuje AML povinnosti: vyvrátíme § 52n — povinnosti se výslovně kumulují, nikoli nahrazují.
+- Námitka, že AML se na advokáta-schovatele nevztahuje: vyvrátíme § 5d ZA a AML zákonem (advokáti jsou povinnými osobami při určitých činnostech, včetně úschov).
+- Slabé místo: napětí mezi advokátní mlčenlivostí (§ 21) a oznamovací povinností; nutno respektovat zákonné výjimky z mlčenlivosti pro AML účely.
+
+#### H. Praktický závěr
+
+Úprava advokátní úschovy v ZA doplňuje, nikoli nahrazuje povinnosti dle bankovních předpisů a AML zákona. Advokát i ústav plní povinnosti kumulativně; u rizikových úschov je nezbytné AML prověření a případné oznámení FAÚ.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vedle povinností o úschově (§ 52g–52k) splnit AML povinnosti dle § 5d ZA a AML zákona.
+- [ ] Provést identifikaci a kontrolu klienta, prověřit původ prostředků.
+- [ ] U podezřelého obchodu zvážit oznámení FAÚ (s respektem k výjimkám z mlčenlivosti).
+- [ ] Zohlednit povinnosti peněžního ústavu dle BankZ a pravidla pojištění vkladů.
+
+**Typicky rozhodné důkazy / podklady:** identifikační záznamy klienta, doklady o původu prostředků, úschovní smlouva, záznam o vyhodnocení podezřelosti obchodu, případné oznámení FAÚ.
 
 ---
 
@@ -826,6 +1448,43 @@ Předpisy o poplatcích za zkoušku (písm. a) jsou závazné nejen pro samotné
 
 Závaznost stavovského předpisu nevylučuje paralelní oprávnění ministra napadnout jej soudní cestou (§ 50 odst. 2). Tedy: stavovský předpis se stává závazným (povinnost dodržovat), ale ministr stále může iniciovat řízení o jeho rozporu se zákonem. Pokud soud předpis zruší, závaznost zaniká *ex tunc* (od počátku) nebo *ex nunc* (od právní moci rozsudku) podle konkrétního výroku.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Sněm ČAK přijme stavovský předpis, který nově ukládá všem advokátům povinnost absolvovat placené „certifikované" školení Komory a stanoví za jeho neabsolvování pořádkovou pokutu. Předpis je vyhlášen ve Věstníku s tím, že je závazný již ode dne vyhlášení. Advokát Z, pokutovaný za neabsolvování, namítá jednak nedostatek zmocnění (předpis prý nespadá pod § 53), jednak že nemohla nastat závaznost dříve než 30. den po vyhlášení. Důkazy: znění předpisu, příslušná částka Věstníku s datem zpřístupnění, rozhodnutí o pokutě.
+
+**2. Právní otázka.** Spadá daný předpis do věcného rámce stavovské normotvorby dle § 53 odst. 1 a od kdy se mohl stát závazným?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 53 odst. 1 (enumerativní výčet oblastí normotvorby), odst. 2 (vyhlašování ve Věstníku, den zpřístupnění), odst. 3 (závaznost 30. dnem po vyhlášení, nelze kratší vacatio legis), odst. 5 (nedotčenost § 50 odst. 2).
+- *Související ustanovení téhož zákona:* § 50 (notifikace MSp, soudní přezkum), § 55 (řízení Komory), § 32 (kárná opatření).
+- *Související předpisy:* soudní řád správní (z. č. 150/2002 Sb.); čl. 26 odst. 2 Listiny.
+- *Judikatura:* judikatura NSS k mezím stavovské normotvorby a k nepřípustnosti ukládání povinností nad rámec zákona (nosný závěr — stavovský předpis nesmí překračovat zákonné zmocnění; spzn ověřit).
+
+**4. Subsumpce.** Výčet § 53 odst. 1 je **enumerativní**; ukládá-li předpis povinnost mimo tento rámec (nová placená povinná školení se sankcí), je v rozporu se zákonem. Současně **vacatio legis** nelze zkrátit pod 30 dnů (odst. 3 je kogentní) — deklarovaná okamžitá závaznost je vadná. Soudní přezkum předpisu může iniciovat ministr (odst. 5 ve spojení s § 50 odst. 2).
+
+**5. Řešení.** Pokuta uložená na základě předpisu, který (i) překračuje § 53 odst. 1 a (ii) stanovil závaznost dříve než 30. den po vyhlášení, je napadnutelná. Advokát se brání incidenčně v řízení Komory a následně správní žalobou; ministr může navrhnout zrušení předpisu (§ 50 odst. 2). Pravděpodobný výsledek: předpis v této části neobstojí. Vůči žadatelům o zkoušku jsou závazné jen předpisy o poplatcích za zkoušku (odst. 4).
+
+**6. Varianty.** (a) Pokud by předpis upravoval jen „podrobnosti o výkonu advokacie" (písm. e)) bez ukládání nové sankční povinnosti, byl by v mezích zmocnění. (b) Pokud by stanovil pozdější (delší) vacatio legis, byl by z hlediska odst. 3 bezvadný; kratší stanovit nelze.
+
+#### G. Protiargumenty a rizika
+
+- Námitka, že Komora má širokou autonomii a může regulovat „podrobnosti" libovolně: vyvrátíme enumerativní povahou § 53 odst. 1 a zákazem překročení zmocnění.
+- Námitka, že okamžitá závaznost je možná, stanoví-li tak předpis: vyvrátíme kogentností odst. 3 (kratší než 30denní vacatio legis nelze).
+- Slabé místo: hranice mezi přípustnou „podrobností" a nepřípustným rozšířením povinností je výkladově sporná a závisí na soudním posouzení.
+
+#### H. Praktický závěr
+
+Stavovský předpis smí upravovat jen oblasti vyjmenované v § 53 odst. 1; vyhlašuje se ve Věstníku a stává se závazným nejdříve 30. dnem po vyhlášení (kratší lhůtu nelze). Závaznost nevylučuje soudní přezkum na návrh ministra.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda obsah předpisu spadá do výčtu § 53 odst. 1 písm. a)–j).
+- [ ] Zkontrolovat datum zpřístupnění Věstníku a běh 30denní lhůty (odst. 2, 3).
+- [ ] Vyloučit zkrácení vacatio legis pod 30 dnů.
+- [ ] U žadatelů o zkoušku ověřit závaznost jen předpisů o poplatcích (odst. 4).
+- [ ] Při rozporu zvážit incidenční obranu a podnět ministrovi (§ 50 odst. 2).
+
+**Typicky rozhodné důkazy / podklady:** znění stavovského předpisu, příslušná částka Věstníku s datem zpřístupnění, rozhodnutí Komory ukládající povinnost/sankci, doklad o předložení předpisu MSp.
+
 ---
 
 ### § 54 — Advokátní zkouška, zkouška způsobilosti, uznávací zkouška
@@ -863,6 +1522,43 @@ Standardně **Praha a Brno** (sídla velkých advokátních center); Komora mů�
 #### Procesní podrobnosti — zkušební řád (odst. 5)
 
 Konkrétní podrobnosti (přihlášení, lhůty, struktura testu, hodnocení, opakování) jsou v **zkušebním řádu Komory** — stavovském předpisu nebo vyhlášce MSp (viz § 52c). Aktuálně jde o vyhlášku č. 197/1996 Sb., kterou se vydává zkušební řád.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Slovenský advokát (absolvent slovenské právnické fakulty s domovskou kvalifikací) chce získat plnou českou advokátní kvalifikaci. Zvažuje, zda podstoupí advokátní zkoušku, zkoušku způsobilosti, nebo uznávací zkoušku, a v jakém jazyce. Současně francouzský právník usazený v Praze chce vykonat příslušnou zkoušku v angličtině. Důkazy: doklady o vzdělání a domovské kvalifikaci, přihláška ke zkoušce, doklad o koncipientské praxi (u advokátní zkoušky).
+
+**2. Právní otázka.** Který typ zkoušky a v jakém jazyce přísluší jednotlivým uchazečům a kde a podle jakých podrobností se zkoušky konají?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 54 odst. 1 (advokátní zkouška, jen česky/slovensky), odst. 2 (zkouška způsobilosti, jen česky/slovensky), odst. 3 (uznávací zkouška, i v cizím jazyce), odst. 4 (místa — Praha, Brno, příp. jinde), odst. 5 (zkušební řád Komory).
+- *Související ustanovení téhož zákona:* § 7 (advokátní zkouška), § 6 (prominutí zkoušky), § 35a (zkouška způsobilosti), § 2 odst. 1 písm. b) (evropský advokát), § 52 (zkušební komise), § 53 odst. 1 písm. a) (poplatek za zkoušku).
+- *Související předpisy:* vyhláška č. 197/1996 Sb. (zkušební řád); směrnice 98/5/ES, směrnice o uznávání kvalifikací.
+- *Judikatura:* judikatura SDEU k uznávání kvalifikací a k jazykovým požadavkům přiměřeným účelu (nosný závěr — jazykové požadavky musí být přiměřené a nediskriminační; spzn ověřit).
+
+**4. Subsumpce.** Slovenský absolvent s českou/slovenskou koncipientskou praxí směřuje k **advokátní zkoušce** (jen česky/slovensky). Usazený evropský advokát s domovskou kvalifikací (EU/EHP) volí **zkoušku způsobilosti** (jen česky/slovensky), kde se přihlíží k domovské kvalifikaci. Hostující evropský advokát usilující o plnou kvalifikaci může jít na **uznávací zkoušku**, již lze vykonat **i v cizím jazyce** (angličtina pro francouzského právníka). Zkoušky se konají v Praze či Brně (odst. 4).
+
+**5. Řešení.** Volba zkoušky se řídí typem uchazeče a jeho kvalifikací; jazykový režim je u advokátní zkoušky a zkoušky způsobilosti omezen na češtinu/slovenštinu, u uznávací zkoušky je možný cizí jazyk. Podrobnosti (přihláška, lhůty, struktura, hodnocení, opakování) stanoví zkušební řád (odst. 5; vyhláška č. 197/1996 Sb.). Pravděpodobný výsledek: každý uchazeč absolvuje odpovídající zkoušku v přípustném jazyce.
+
+**6. Varianty.** (a) Pokud by uchazeč spadal pod § 6 ZA (prominutí zkoušky pro některé kvalifikované profese), zkoušku by vůbec skládat nemusel. (b) Pokud by francouzský právník usiloval o **zkoušku způsobilosti** (nikoli uznávací), musel by ji absolvovat v češtině/slovenštině, nikoli v angličtině.
+
+#### G. Protiargumenty a rizika
+
+- Námitka diskriminace cizinců jazykovým omezením advokátní zkoušky: neutralizujeme tím, že znalost češtiny je legitimním a přiměřeným požadavkem pro výkon advokacie v ČR (orientace v českém právu a komunikace se soudy).
+- Námitka záměny typů zkoušek: nutno přesně určit kategorii uchazeče (domácí absolvent vs. usazený vs. hostující evropský advokát).
+- Slabé místo: rozhraní mezi zkouškou způsobilosti a uznávací zkouškou (včetně jazyka) může být v konkrétním případě sporné a vyžaduje výklad zkušebního řádu.
+
+#### H. Praktický závěr
+
+ZA rozlišuje tři zkoušky podle typu uchazeče. Advokátní zkouška a zkouška způsobilosti jen česky/slovensky; uznávací zkouška i v cizím jazyce. Konají se v Praze a Brně; podrobnosti určuje zkušební řád Komory.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zařadit uchazeče do kategorie (advokátní / způsobilosti / uznávací zkouška).
+- [ ] Ověřit přípustný jazyk zkoušky podle jejího typu (odst. 1–3).
+- [ ] Zvážit prominutí zkoušky dle § 6 ZA.
+- [ ] Respektovat místo konání (Praha/Brno, příp. jinde — odst. 4).
+- [ ] Postupovat dle zkušebního řádu (odst. 5; vyhláška č. 197/1996 Sb.).
+
+**Typicky rozhodné důkazy / podklady:** doklady o vzdělání a domovské kvalifikaci, výpis z domovské advokátní komory, doklad o koncipientské praxi, přihláška ke zkoušce, doklad o úhradě poplatku.
 
 ---
 
@@ -942,6 +1638,43 @@ Komora může (na návrh kárného žalobce nebo z moci úřední) **zrušit** r
 
 Pravomocná a vykonatelná rozhodnutí Komory jsou **exekučním titulem** dle OSŘ (§ 274 písm. i) OSŘ) a exekučního řádu (z. č. 120/2001 Sb.). Tím Komora získává vymahatelnost peněžitých plnění (poplatky, pokuty, náhrady) bez nutnosti soudního řízení o zaplacení.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Proti advokátovi je zahájeno trestní stíhání pro úmyslný trestný čin nesouvisející s výkonem advokacie. Představenstvo Komory v řízení dle § 55 (věc § 44 odst. 3) pozastaví výkon advokacie (§ 9 odst. 2 písm. a)). Advokát chce být zastoupen svým zaměstnancem-právníkem (nikoli advokátem) a po půl roce žádá o zrušení pozastavení s tím, že trestní stíhání se vleče a pozastavení je vůči němu nepřiměřeně přísné. Důkazy: usnesení o zahájení trestního stíhání, rozhodnutí o pozastavení s datem právní moci, plná moc zástupci, návrh na zrušení pozastavení.
+
+**2. Právní otázka.** Kdo může advokáta v řízení dle § 55 zastupovat, kdy nabývá rozhodnutí Komory právní moci a od kdy lze žádat o zrušení pozastavení výkonu advokacie?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 55 odst. 1 (subsidiární aplikace SŘ s vyloučením řady ustanovení), odst. 2 (zastoupení a opatrovnictví jen advokátem), odst. 4 (obligatorní ústní jednání před představenstvem s výjimkami), odst. 5 (náležitosti rozhodnutí), odst. 6 (právní moc doručením), odst. 7 (návrh advokáta na zrušení pozastavení nejdříve po roce), odst. 8 (zrušení rozhodnutí o nepozastavení), odst. 9 (exekuční titul).
+- *Související ustanovení téhož zákona:* § 9 odst. 2 písm. a) (pozastavení), § 44 odst. 3, § 45 odst. 2, § 46 odst. 6 (věcný rozsah řízení), § 25b odst. 3, § 52l odst. 2 (výjimky z ústního jednání), § 33 odst. 6 (dokazování).
+- *Související předpisy:* z. č. 500/2004 Sb. (správní řád — subsidiárně), z. č. 150/2002 Sb. (SŘS — správní žaloba, uspokojení navrhovatele), z. č. 120/2001 Sb. (exekuční řád), § 274 OSŘ.
+- *Judikatura:* judikatura NSS k jednoinstanční povaze řízení Komory a k přezkumu jejích rozhodnutí správní žalobou (nosný závěr — opravným prostředkem není odvolání, nýbrž správní žaloba; spzn ověřit).
+
+**4. Subsumpce.** V řízení dle § 55 může být advokát zastoupen **pouze advokátem** (odst. 2) — zaměstnanec-právník zástupcem být nemůže. Řízení je **jednoinstanční**: rozhodnutí nabývá právní moci **doručením** (odst. 6), odvolání je vyloučeno (vyloučeny §§ 80–100 SŘ); opravným prostředkem je správní žaloba (odst. 5). Návrh na zrušení pozastavení lze podat **nejdříve po roce** od právní moci (odst. 7) — po půl roce je předčasný.
+
+**5. Řešení.** Zmocnění zaměstnance je neúčinné — advokát musí zvolit advokáta-zástupce. Návrh na zrušení pozastavení podaný po šesti měsících je předčasný (odst. 7 vyžaduje uplynutí jednoho roku); bude odmítnut/zamítnut jako nepřípustný v této době. Proti pozastavení se advokát mohl bránit správní žalobou (do dvou měsíců od doručení). Vykonatelná rozhodnutí Komory (např. o poplatcích) jsou exekučním titulem (odst. 9). Před představenstvem se vede ústní jednání (odst. 4), s výjimkami (§ 25b odst. 3, § 52l odst. 2).
+
+**6. Varianty.** (a) Po uplynutí roku od právní moci by byl návrh na zrušení pozastavení přípustný a Komora by posoudila jeho důvodnost (ztráta významu / nepřiměřená přísnost). (b) Komora může i z moci úřední či na návrh kárného žalobce zrušit rozhodnutí o **ne**pozastavení a advokáta pozastavit, vyjdou-li najevo nové okolnosti ohrožující důvěru v advokacii (odst. 8).
+
+#### G. Protiargumenty a rizika
+
+- Námitka advokáta, že má právo být zastoupen kýmkoli: vyvrátíme odst. 2 — zastoupení i opatrovnictví je vyhrazeno advokátovi.
+- Námitka, že lze podat odvolání ke Komoře: vyvrátíme — řízení je jednoinstanční (vyloučeny §§ 80–100 SŘ), právní moc nastává doručením (odst. 6), brání se správní žalobou.
+- Slabé místo: jednoletá blokace návrhu na zrušení pozastavení (odst. 7) může působit tvrdě při vleklém trestním řízení; částečně vyvažuje možnost soudní ochrany a institut uspokojení navrhovatele dle SŘS.
+
+#### H. Praktický závěr
+
+Řízení Komory dle § 55 je jednoinstanční s rozsáhlým vyloučením správního řádu: zastoupení jen advokátem, právní moc doručením, opravným prostředkem správní žaloba. Návrh na zrušení pozastavení výkonu advokacie lze podat až po roce. Vykonatelná rozhodnutí jsou exekučním titulem.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zajistit zastoupení výhradně advokátem (odst. 2).
+- [ ] Počítat právní moc od doručení rozhodnutí (odst. 6), nikoli od marného uplynutí odvolací lhůty.
+- [ ] Bránit se správní žalobou ke správnímu soudu (odst. 5), ne odvoláním.
+- [ ] Návrh na zrušení pozastavení podat nejdříve po roce od právní moci (odst. 7).
+- [ ] Ověřit, zda věc vyžaduje ústní jednání před představenstvem (odst. 4) či spadá pod výjimky.
+
+**Typicky rozhodné důkazy / podklady:** usnesení o zahájení trestního stíhání, rozhodnutí Komory s vyznačením doručení a právní moci, plná moc advokátovi-zástupci, návrh na zrušení pozastavení s daty, doklad o vykonatelnosti (u exekučního titulu).
+
 ---
 
 ### § 55a — Specifika řízení podle § 18a až 18c
@@ -980,6 +1713,43 @@ Advokát určený podle § 18a nebo 18b je povinen poskytnout právní službu *
 
 - **Odst. 5:** Při řízení nebo jiném postupu zastupitelského úřadu ČR (typicky v zahraničí — konzulát, ambasáda) se § 18 odst. 2 a § 18a a 18c nepoužijí. Zahraniční ochrana občanů má specifický režim.
 - **Odst. 6:** Žadatelem o bezplatnou právní pomoc dle § 18a může být **jen fyzická osoba**. Právnické osoby (firmy, spolky) musí samy hradit advokáta — ochrana nemajetných se vztahuje na lidi, nikoli na obchodní entity.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Nemajetná fyzická osoba (samoživitelka v hmotné nouzi) požádá Komoru podle § 18a o určení advokáta pro spor o výživné. Komora žádost zamítne s odůvodněním, že žadatelka nedoložila majetkové poměry. Rozhodnutí jí je oznámeno e-mailem dne 5. 3., obsahuje výrok i odůvodnění, ale chybí poučení o možnosti podat žalobu podle SŘS. Účastníky jsou žadatelka a Komora. Důkazy: žádost, doklady o majetkových poměrech (potvrzení o příjmech, dávkách), kopie oznámeného rozhodnutí, doklad o datu oznámení.
+
+**2. Právní otázka.** Kdy nabývá negativní rozhodnutí Komory podle § 18a právní moci a jaký vliv má chybějící poučení o žalobě podle SŘS na běh lhůty pro obranu žadatelky?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 55a odst. 2 (náležitosti negativního rozhodnutí — výrok, odůvodnění, poučení o žalobě dle SŘS) a odst. 3 (vyloučení odvolání, právní moc oznámením).
+- *Související ustanovení téhož zákona:* § 18a–18c (hmotněprávní podmínky určení advokáta), § 55 (obecné správní řízení Komory), § 55e (doručování).
+- *Související předpisy:* správní řád (subsidiárně, s výlukami v odst. 1), soudní řád správní (§ 65 a násl. — žaloba proti rozhodnutí); § 37 odst. 6 SŘS (chybné poučení a jeho vliv na lhůtu).
+- *Judikatura:* obecná správní judikatura k důsledku nesprávného/chybějícího poučení o opravném prostředku — chybné poučení nesmí jít k tíži účastníka a může prodloužit lhůtu k podání žaloby.
+
+**4. Subsumpce.** Rozhodnutí naplňuje znaky negativního rozhodnutí podle odst. 2 (nevyhovění žádosti). Sporné je, zda absence poučení činí rozhodnutí vadným do té míry, že lhůta k žalobě nezačala plynout řádně. Právní moc nastala oznámením (odst. 3), avšak chybějící poučení o žalobě (obligatorní náležitost odst. 2) zakládá procesní vadu ve prospěch žadatelky.
+
+**5. Řešení.** Rozhodnutí je v právní moci dnem oznámení, odvolání není přípustné. Žadatelka se brání správní žalobou podle SŘS. Pro chybějící poučení nelze zmeškání lhůty přičítat k její tíži — žalobu lze podat i po obecné dvouměsíční lhůtě, resp. lhůta běží od okamžiku, kdy se o možnosti žaloby fakticky dozvěděla. Praktický krok: podat žalobu neprodleně, namítnout vadu poučení.
+
+**6. Varianty.** (a) Kdyby šlo o žádost právnické osoby podle § 18a, byla by zamítnuta již pro nepřípustnost dle odst. 6 (žadatelem může být jen fyzická osoba). (b) Kdyby určení proběhlo kladně a advokát chtěl delegovat věc na koncipienta, odst. 4 to u § 18a/18b zapovídá — služba musí být osobní.
+
+#### G. Protiargumenty a rizika
+
+- *Komora:* právní moc nastala oznámením, lhůta uplynula — žaloba je opožděná. *Neutralizace:* obligatorní poučení dle odst. 2 chybělo; chybné/chybějící poučení nesmí jít k tíži účastníka (obecná zásada správního práva, § 37 odst. 6 SŘS analogicky).
+- *Slabé místo:* žadatelka nese důkazní břemeno o splnění majetkových podmínek — pokud je v řízení nedoložila, soud žalobu zamítne věcně bez ohledu na vadu poučení.
+- *Riziko:* mylné podání odvolání místo žaloby — odvolání je dle odst. 3 nepřípustné a nestaví lhůtu.
+
+#### H. Praktický závěr
+
+Řízení podle § 18a–18c je jednoinstanční, rychlé, právní moc nastává oznámením. Obrana proti negativnímu rozhodnutí vede výhradně ke správnímu soudu, nikoli odvoláním.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda rozhodnutí obsahuje výrok, odůvodnění a poučení o žalobě dle SŘS (odst. 2).
+- [ ] Zaznamenat datum oznámení (právní moc nastává oznámením, ne doručením — odst. 3).
+- [ ] U § 18a/18b nedelegovat službu na koncipienta (odst. 4).
+- [ ] U § 18a ověřit, že žadatelem je fyzická osoba (odst. 6).
+- [ ] Bránit se výhradně žalobou dle SŘS, nikoli odvoláním.
+
+**Typicky rozhodné důkazy / podklady:** žádost o určení advokáta, doklady o majetkových poměrech, oznámené rozhodnutí Komory, doklad o datu a způsobu oznámení.
 
 ---
 
@@ -1039,6 +1809,42 @@ Příslušný je **soud** — povaha sporu je specifická. Pro spory typu a)–e
 
 Spory o plnění dluhů z povinností dle § 30 odst. 1 ZA (členské příspěvky, poplatky atd.) projednává **obecný soud** v civilním řízení. Tato kompetence je důležitá — předchozí výklad mohl být, že i tyto spory rozhoduje Komora; § 55b odst. 2 výslovně přiznává jurisdikci soudu (civilnímu).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Uchazeč splní všechny zákonné podmínky pro zápis do seznamu advokátních koncipientů a podá řádnou žádost s doklady. Komora však po více než zákonem stanovené lhůtě zápis neprovede a nereaguje. Uchazeč chce, aby ho Komora zapsala, aby mohl nastoupit ke školicímu advokátovi. Účastníci: uchazeč a ČAK. Důkazy: žádost s podacím razítkem, doklady o splnění podmínek, korespondence prokazující nečinnost, zákonná lhůta pro zápis.
+
+**2. Právní otázka.** U kterého soudu a v jakém řízení (civilním, nebo správním) se může uchazeč domáhat ochrany proti nezapsání do seznamu ve lhůtě podle § 55b odst. 1 písm. a)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 55b odst. 1 písm. a) (nezapsání do seznamu ve lhůtě) a odst. 2 (spory o plnění dluhů dle § 30 odst. 1).
+- *Související ustanovení téhož zákona:* § 55c (definice záznamu), § 55d (vedení seznamů), § 4–6, § 37 (podmínky zápisu), § 40 odst. 3 (výkon veřejné správy Komorou).
+- *Související předpisy:* § 7 odst. 3 o. s. ř. (věcná příslušnost civilního soudu), SŘS (správní soudnictví — pro porovnání).
+- *Judikatura:* NSS 3 Ads 98/2007 (Komora ve věcech § 55b odst. 1 nevydává správní rozhodnutí přezkoumatelné ve správním soudnictví; jde o faktický úkon); NSS Konf 28/2014 (práva dle § 55b odst. 1 jsou veřejnými subjektivními právy, ale projednává je okresní/obvodní soud v občanském soudním řízení podle § 7 odst. 3 o. s. ř.).
+
+**4. Subsumpce.** Nezapsání ve lhůtě naplňuje znak § 55b odst. 1 písm. a). Podle nosné judikatury nejde o správní rozhodnutí, nýbrž o faktický úkon (resp. jeho neprovedení); proto není dána pravomoc správního soudu, ale civilního soudu podle § 7 odst. 3 o. s. ř.
+
+**5. Řešení.** Uchazeč podá žalobu k **okresnímu/obvodnímu soudu** v civilním řízení (nikoli žalobu na nečinnost ke správnímu soudu podle SŘS). Soud rozhodne o jeho právu na zápis. Tento závěr přetrvává i po přijetí SŘS. Praktický krok: zvolit civilní žalobu, vyhnout se mylnému podání ke správnímu soudu, které by vedlo k odmítnutí pro neexistenci pravomoci.
+
+**6. Varianty.** (a) Šlo-li by o protiprávně provedený záznam (vyškrtnutí, pozastavení — písm. f, navázané na § 55c odst. 1 písm. b/c), je rozhodnutí Komory v těchto věcech přezkoumatelné a cesta může vést jinak. (b) Jde-li o spor o členský příspěvek dle § 30 odst. 1, řeší jej rovněž civilní soud (odst. 2), ale na straně Komory jako věřitele.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* Komora vykonává veřejnou správu (§ 40 odst. 3), tedy její (ne)úkony patří před správní soud. *Neutralizace:* NSS výslovně dovodil, že ve věcech § 55b odst. 1 Komora nevydává správní rozhodnutí — jde o faktické úkony, proto je příslušný civilní soud (Konf 28/2014).
+- *Slabé místo:* hranice mezi pozitivními nároky (a–e) a negativním záznamem (f) může být v praxi sporná; chybná volba procesní cesty znamená ztrátu času a riziko promlčení/prekluze.
+- *Riziko:* žalobce zamění žalobu na nečinnost (SŘS) s civilní žalobou — soud návrh odmítne pro nedostatek pravomoci.
+
+#### H. Praktický závěr
+
+§ 55b otevírá přímou cestu k soudu proti nečinnosti a vadnému postupu Komory v evidenčních věcech. Klíčové je rozlišit, že u pozitivních nároků (a–e) jde o faktické úkony spadající před civilní soud, nikoli před správní soudnictví.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zařadit situaci pod konkrétní písmeno § 55b odst. 1 (a–f).
+- [ ] U pozitivních nároků (a–e) podat civilní žalobu (§ 7 odst. 3 o. s. ř.), ne žalobu dle SŘS.
+- [ ] Doložit splnění zákonných podmínek a uplynutí zákonné lhůty.
+- [ ] U sporů o příspěvky dle § 30 odst. 1 počítat s civilním soudem (odst. 2).
+
+**Typicky rozhodné důkazy / podklady:** řádná žádost s podacím razítkem, doklady o splnění podmínek zápisu, korespondence prokazující nečinnost Komory, znění zákonné lhůty, případně sporný záznam v seznamu.
+
 ---
 
 ### § 55c — Záznamy v seznamech
@@ -1078,6 +1884,42 @@ Spory o plnění dluhů z povinností dle § 30 odst. 1 ZA (členské příspěv
 #### Publicita ve Věstníku (odst. 2)
 
 Záznamy o **vzniku, zániku, pozastavení a obnovení** advokátního oprávnění (písm. a–d) se uveřejňují ve **Věstníku Komory**. Tím získává veřejnost informaci o aktuálním stavu advokátského stavu (kdo je nově zapsán, kdo vyškrtnut). Záznamy podle písm. e) (průkazy) a f) (jiné) se ve Věstníku **neuveřejňují** — jde o vnitroevidenční záznamy.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Advokátovi byl pozastaven výkon advokacie podle rozhodnutí Komory (§ 9 ZA). Protistrana v civilním sporu tvrdí, že advokát nebyl oprávněn zastupovat klienta v době pozastavení, a dovolává se neúčinnosti procesních úkonů. Klíčové je, kdy a jak byla skutečnost pozastavení formálně vyznačena a uveřejněna. Důkazy: rozhodnutí o pozastavení, záznam v seznamu, datum uveřejnění ve Věstníku.
+
+**2. Právní otázka.** Co se rozumí „záznamem" pozastavení výkonu advokacie ve smyslu § 55c odst. 1 písm. c) a je tento záznam povinně uveřejňován ve Věstníku?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 55c odst. 1 písm. c) (záznam o pozastavení) a odst. 2 (uveřejnění záznamů písm. a–d ve Věstníku).
+- *Související ustanovení téhož zákona:* § 9, § 9a (pozastavení výkonu advokacie), § 55b odst. 1 písm. f) (soudní ochrana proti protiprávnímu záznamu), § 55d (vedení a obsah seznamů).
+- *Související předpisy:* stavovský předpis upravující další skutečnosti dle písm. f); o. s. ř. (účinky úkonů zástupce bez oprávnění).
+- *Judikatura:* obecná judikatura k účinkům pozastavení oprávnění advokáta na jím učiněné procesní úkony.
+
+**4. Subsumpce.** Pozastavení výkonu advokacie je záznamem dle písm. c). Spadá mezi záznamy písm. a)–d), které Komora podle odst. 2 **povinně uveřejňuje ve Věstníku**. Tím je veřejnost (i protistrana) objektivně informována o stavu oprávnění.
+
+**5. Řešení.** Záznam o pozastavení je veřejně seznatelný z Věstníku i ze seznamu; protistrana se může pozastavení dovolat. Datum účinnosti pozastavení a datum uveřejnění jsou rozhodné pro posouzení, které úkony advokát učinil v době, kdy nebyl oprávněn. Praktický krok: ověřit přesné datum záznamu a uveřejnění; posoudit účinky úkonů provedených po tomto datu.
+
+**6. Varianty.** (a) Šlo-li by o pouhé vydání identifikačního průkazu (písm. e), tento záznam se ve Věstníku neuveřejňuje (odst. 2 jej nevyjmenovává). (b) Byla-li by skutečnost upravena jako „další skutečnost" stavovským předpisem (písm. f), rovněž bez povinného uveřejnění ve Věstníku.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* záznam je jen vnitřní evidence Komory bez vnějších účinků. *Neutralizace:* odst. 2 ukládá uveřejnění záznamů písm. a)–d) ve Věstníku — mají publicitní funkci a působí vůči třetím osobám.
+- *Slabé místo:* zbytková kategorie písm. f) je otevřená stavovskému předpisu; rozsah „dalších skutečností" nemusí být z textu zákona zřejmý.
+- *Riziko:* zaměnění data rozhodnutí o pozastavení s datem záznamu/uveřejnění — pro účinky vůči třetím osobám může být rozhodné uveřejnění.
+
+#### H. Praktický závěr
+
+§ 55c je definiční normou pojmu „záznam" — vymezuje šest typů a stanoví, že záznamy o vzniku, zániku, pozastavení a obnovení oprávnění se povinně uveřejňují ve Věstníku.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zařadit skutečnost pod některý z typů záznamu (písm. a–f).
+- [ ] Ověřit, zda jde o záznam písm. a)–d) podléhající uveřejnění ve Věstníku.
+- [ ] Zjistit přesné datum provedení záznamu a jeho uveřejnění.
+- [ ] U záznamů písm. e) a f) nepočítat s povinným uveřejněním.
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí zakládající záznam, výpis ze seznamu se záznamem, příslušné číslo Věstníku s datem uveřejnění.
 
 ---
 
@@ -1157,6 +1999,42 @@ Osvědčení a identifikační průkazy vydané Komorou jsou **veřejnými listi
 
 Standardizovaný obsah průkazu: jméno, ev. číslo, fotografie, datum narození + další náležitosti dle prováděcí vyhlášky. Průkaz je obecně známý jako „malá průkazka advokáta" — povinný součást výbavy advokáta při ústním jednání před soudy.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Novinář žádá Komoru o sdělení adresy bydliště a údaje o uloženém kárném opatření konkrétního advokáta, který je terčem mediální kauzy. Komora odmítne s tím, že tyto údaje nejsou z veřejně přístupného seznamu dostupné. Novinář namítá, že seznam advokátů je ze zákona veřejný. Účastníci: žadatel (novinář) a ČAK. Důkazy: žádost o informace, výpis veřejné části seznamu, znění § 55d odst. 1.
+
+**2. Právní otázka.** Které údaje vedené v seznamu advokátů podle § 55d odst. 2 jsou veřejně přístupné a které jsou z veřejné dostupnosti vyloučeny?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 55d odst. 1 (veřejnost seznamu s výjimkou údajů písm. b, d, e, j odst. 2), odst. 2 (výčet údajů), odst. 3 (veřejné listiny), odst. 4 (obsah průkazu).
+- *Související ustanovení téhož zákona:* § 13 (sídlo), § 55c (záznamy), § 32 a násl. (kárná opatření), § 9 (pozastavení).
+- *Související předpisy:* GDPR (čl. 6 odst. 1 písm. c/e — zákonný základ zpracování), zákon č. 110/2019 Sb., § 567 a násl. OZ (veřejné listiny), zákon č. 106/1999 Sb. (právo na informace, ve vztahu k zákonné výluce).
+- *Judikatura:* obecná judikatura k mezím práva na informace tam, kde zvláštní zákon výslovně vylučuje veřejnou přístupnost údaje.
+
+**4. Subsumpce.** Adresa bydliště (písm. d) a údaj o uloženém kárném opatření (písm. j) jsou v § 55d odst. 1 výslovně **vyloučeny z veřejné dostupnosti**. Naopak jméno, sídlo, ID datové schránky, IČO, ev. číslo a údaj o předběžném pozastavení (písm. k) jsou veřejné.
+
+**5. Řešení.** Komora odmítne sdělit adresu bydliště i údaj o kárném opatření z veřejného seznamu oprávněně — § 55d odst. 1 tyto údaje z veřejné dostupnosti vyjímá. Veřejnost seznamu se vztahuje jen na zákonem nevyloučené položky. Praktický krok: poskytnout pouze veřejné údaje; pro neveřejné údaje odkázat na zákonnou výluku.
+
+**6. Varianty.** (a) Kdyby šlo o údaj o **předběžném pozastavení správy/úschovy** (písm. k), ten je veřejný — Komora by jej sdělit musela (chrání aktuálně klienty). (b) Kdyby advokát předložil identifikační průkaz u soudu, jde o veřejnou listinu (odst. 3) s presumpcí pravosti.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* seznam je ze zákona veřejný, tedy veškeré údaje musí být dostupné. *Neutralizace:* odst. 1 výslovně vyjímá údaje písm. b), d), e) a j) — veřejnost není absolutní.
+- *Protiargument (žadatel dle z. č. 106/1999 Sb.):* právo na informace převáží. *Neutralizace:* zvláštní zákon (ZA) stanoví výluku, která je zákonným omezením práva na informace; navíc GDPR brání zpřístupnění citlivých údajů.
+- *Slabé místo:* rozdíl mezi neveřejným kárným opatřením (písm. j) a veřejným předběžným pozastavením (písm. k) je nenápadný a v praxi se zaměňuje.
+
+#### H. Praktický závěr
+
+§ 55d staví seznamy na principu transparentnosti, ale s pečlivě vymezenými výjimkami chránícími osobní údaje (rodné číslo, bydliště, podoba, kárné opatření). Veřejné listiny (osvědčení, průkazy) požívají presumpce pravosti.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Rozlišit veřejné a neveřejné údaje dle § 55d odst. 1 (výluky: písm. b, d, e, j).
+- [ ] Údaj o kárném opatření (j) nezveřejňovat; údaj o předběžném pozastavení (k) ano.
+- [ ] U průkazů a osvědčení počítat s povahou veřejné listiny (odst. 3).
+- [ ] Zpracování opřít o zákonný základ GDPR (čl. 6 odst. 1 písm. c/e).
+
+**Typicky rozhodné důkazy / podklady:** žádost o údaje, výpis veřejné části seznamu, znění § 55d odst. 1 a 2, identifikační průkaz/osvědčení (veřejná listina).
+
 ---
 
 ### § 55e — Doručování
@@ -1202,6 +2080,42 @@ Důvod výjimek: ZA má vlastní pravidlo (přísnější vůči advokátovi) �
 
 Má-li advokát v řízení **zástupce** (typicky jiného advokáta) nebo **opatrovníka**, doručuje se **výhradně tomuto zástupci** — nikoli advokátovi přímo. Obvyklá zásada zastoupení; má vliv na běh lhůt.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Komora doručuje advokátovi kárnou žalobu do jeho sídla zapsaného v seznamu. Advokát byl v té době dlouhodobě v zahraničí; zásilka byla po marném pokusu uložena a vyzvednuta nebyla, nastala fikce doručení. Advokát po návratu namítá, že se v sídle fakticky nezdržoval, a žádá o určení neúčinnosti doručení. Účastníci: advokát a ČAK (kárný orgán). Důkazy: doručenka s vyznačením uložení, výpis sídla ze seznamu, doklad o pobytu advokáta v zahraničí.
+
+**2. Právní otázka.** Lze u advokáta, jemuž je doručováno do vlastních rukou na adresu sídla podle § 55e, prohlásit řádně provedené uložení za neúčinné z důvodu, že se v místě doručení nezdržoval?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 55e odst. 1 (doručování do sídla), odst. 2 (kárná žaloba do vlastních rukou), odst. 3 (subsidiární aplikace SŘ s výjimkou § 20 odst. 6 a § 24 odst. 2 SŘ), odst. 4 (doručování zástupci).
+- *Související ustanovení téhož zákona:* § 13 (sídlo jako obligatorní údaj), § 14 odst. 4 (datová schránka), § 35j odst. 1 (hostující evropský advokát).
+- *Související předpisy:* správní řád (doručování), zákon č. 300/2008 Sb. (datové schránky, fikce doručení).
+- *Judikatura:* NSS 8 As 9/2007 — místem doručování advokátu je jeho sídlo; řádně provedené uložení nelze u advokáta prohlásit za neúčinné, neboť se u něj vždy předpokládá, že se v místě doručení zdržuje.
+
+**4. Subsumpce.** Doručováno bylo do sídla (odst. 1), kárná žaloba patří mezi písemnosti do vlastních rukou (odst. 2). U advokáta platí zvláštní (přísnější) režim — předpoklad, že se v sídle zdržuje. Námitka faktické nepřítomnosti proto nezakládá neúčinnost uložení.
+
+**5. Řešení.** Návrh na určení neúčinnosti doručení neuspěje — podle NSS 8 As 9/2007 se u advokáta vždy předpokládá, že se v místě doručení (sídle) zdržuje, a řádně provedené uložení nelze prohlásit za neúčinné. Fikce doručení nastala, lhůty běží. Praktický krok: advokát měl zajistit přebírání pošty v sídle nebo aktivovat datovou schránku (§ 14 odst. 4).
+
+**6. Varianty.** (a) Měl-li by advokát v kárném řízení zástupce nebo opatrovníka, doručovalo by se podle odst. 4 výhradně jemu — doručení přímo advokátovi by bylo neúčinné. (b) Bylo-li by doručováno do datové schránky (§ 14 odst. 4), platila by fikce dle z. č. 300/2008 Sb. a faktická nepřítomnost je bez významu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument advokáta:* doručení do vlastních rukou předpokládá faktické převzetí, proto fikce nemůže nastat. *Neutralizace:* odst. 3 vylučuje § 24 odst. 2 SŘ; ZA má vlastní přísnější pravidlo a NSS dovodil nevyvratitelný předpoklad přítomnosti advokáta v sídle.
+- *Slabé místo:* je-li v řízení ustanoven zástupce/opatrovník, doručení přímo advokátovi je vadné (odst. 4) — orgán musí ověřit, komu doručit.
+- *Riziko:* advokát neudržuje funkční sídlo či přebírání pošty — nese důsledky fikce doručení a zmeškání lhůt.
+
+#### H. Praktický závěr
+
+§ 55e zakotvuje sídlo advokáta jako primární doručovací místo s přísnějším režimem než obecný SŘ — u advokáta se předpokládá přítomnost v sídle, takže řádné uložení nelze zpochybnit faktickou nepřítomností.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Doručovat advokátovi do sídla, koncipientovi do sídla školicího advokáta/společnosti (odst. 1).
+- [ ] Vyjmenované písemnosti (kárná žaloba, předvolání, kárný příkaz) doručovat do vlastních rukou (odst. 2).
+- [ ] Je-li ustanoven zástupce/opatrovník, doručovat výhradně jemu (odst. 4).
+- [ ] Neaplikovat § 20 odst. 6 a § 24 odst. 2 SŘ (odst. 3).
+
+**Typicky rozhodné důkazy / podklady:** doručenka s vyznačením uložení/převzetí, výpis sídla ze seznamu, případně doklad o pobytu, údaj o datové schránce, doklad o zastoupení.
+
 ---
 
 ### Přechodná ustanovení
@@ -1233,6 +2147,40 @@ Tento dualismus byl historickým reliktem postsocialistické transformace — ko
 
 V dlouhodobém pohledu šlo o **systémově správný krok** — duální stavovství by trvale vytvářelo problémy delimitace pravomocí a konkurence. Toto sjednocení je dnes naprosto akceptovaným pilířem české advokacie.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Osoba zapsaná před 1. 7. 1996 jako komerční právník podle zákona ČNR č. 209/1990 Sb. po roce 2000 zpochybňuje, zda je řádným advokátem podle ZA — protistrana v civilním sporu namítá, že nikdy nepodala žádost o zápis do seznamu advokátů a její zastupování je proto neplatné. Účastníci: bývalý komerční právník (nyní advokát) a protistrana. Důkazy: doklad o zápisu v seznamu komerčních právníků k 30. 6. 1996, výpis ze seznamu advokátů ČAK.
+
+**2. Právní otázka.** Stal se komerční právník zapsaný podle dosavadních předpisů advokátem podle ZA i bez podání žádosti o zápis?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 57 odst. 2 (komerční právníci se ex lege stávají advokáty, Komora je zapíše bez žádosti).
+- *Související ustanovení téhož zákona:* § 4–6 (běžné podmínky zápisu), § 69 (univerzální sukcese Komory), § 71 (zrušení z. č. 128/1990 Sb. a 209/1990 Sb.).
+- *Související předpisy:* zákon ČNR č. 128/1990 Sb. (stará advokacie), zákon ČNR č. 209/1990 Sb. (komerční právníci).
+- *Judikatura:* obecná zásada kontinuity oprávnění při ex lege transformaci profesí; výklad přechodných ustanovení ve prospěch nepřerušení oprávnění.
+
+**4. Subsumpce.** Osoba byla k 30. 6. 1996 zapsána v seznamu komerčních právníků. Podle § 57 odst. 2 se dnem účinnosti ZA stala advokátem **ex lege**; Komora ji zapsala bez žádosti. Absence žádosti je proto právně bezvýznamná.
+
+**5. Řešení.** Námitka neplatnosti zastupování neuspěje — zápis nastal automaticky ze zákona, žádost nebyla potřebná. Osoba je řádným advokátem od 1. 7. 1996. Praktický krok: doložit zápis v seznamu komerčních právníků k rozhodnému dni a navazující zápis v seznamu advokátů.
+
+**6. Varianty.** (a) Šlo-li by o osobu, která k 30. 6. 1996 v žádném seznamu zapsána nebyla, § 57 se nepoužije a musela by projít řádným zápisem dle § 4 a násl. (b) U koncipientů/čekatelů platí obdobně § 58.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* zápis vyžaduje žádost, bez ní není advokátem. *Neutralizace:* § 57 odst. 2 výslovně stanoví zápis **bez žádosti** — jde o ex lege transformaci.
+- *Slabé místo:* prokázání zápisu v seznamu k rozhodnému dni 30. 6. 1996 po desetiletích může být dokladově obtížné.
+
+#### H. Praktický závěr
+
+§ 57 zajistil bezešvé sloučení advokátů a komerčních právníků do jedné profese ke dni 1. 7. 1996, a to ex lege a bez žádosti. Dnes má význam jen pro ojedinělé ověřování kontinuity oprávnění advokátů s dlouhou praxí.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit zápis osoby v seznamu advokátů/komerčních právníků k 30. 6. 1996.
+- [ ] Vzít v úvahu, že zápis podle § 57 nastal ex lege bez žádosti.
+- [ ] U sporu o kontinuitu odkázat na § 69 (sukcese) a § 71 (zrušení starých zákonů).
+
+**Typicky rozhodné důkazy / podklady:** doklad o zápisu v dosavadním seznamu k rozhodnému dni, výpis ze současného seznamu advokátů.
+
 ---
 
 ### § 58 — Přechod koncipientů a čekatelů
@@ -1252,6 +2200,40 @@ V dlouhodobém pohledu šlo o **systémově správný krok** — duální stavov
 Analogicky k § 57 — koncipienti dosavadního advokátního systému a **právní čekatelé komerčních právníků** se stali advokátními koncipienty dle nového ZA. Praxe **se započítává** — neztrácí se nic z dosavadní doby přípravy na advokátní zkoušku.
 
 Klíčové: pojem „**právní čekatel**" zanikl; všichni jsou napříště „**advokátní koncipienti**". Praxe vykonaná u komerčního právníka má stejnou hodnotu jako praxe u advokáta.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Právní čekatel komerčního právníka, který vykonával praxi od 1. 5. 1994, se po 1. 7. 1996 stal advokátním koncipientem. V roce 1997 se hlásí k advokátní zkoušce a Komora zpochybňuje, zda mu lze započítat praxi vykonanou jako právnímu čekateli komerčního právníka před účinností ZA. Účastníci: koncipient (bývalý čekatel) a ČAK. Důkazy: doklad o zápisu jako právní čekatel, potvrzení o době a obsahu praxe.
+
+**2. Právní otázka.** Započítává se praxe vykonaná právním čekatelem komerčního právníka podle dosavadních předpisů do právní praxe advokátního koncipienta podle ZA?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 58 odst. 2 (čekatelé se stávají koncipienty bez žádosti) a odst. 3 (praxe se považuje za právní praxi koncipienta dle ZA).
+- *Související ustanovení téhož zákona:* § 37 (praxe koncipienta), § 6 (advokátní zkouška), § 64 (započítávání lhůt), § 57 (přechod advokátů a komerčních právníků).
+- *Související předpisy:* zákon ČNR č. 209/1990 Sb. (komerční právníci a jejich čekatelé).
+- *Judikatura:* obecný výklad přechodných ustanovení směřující k uznání dosavadní praxe v plném rozsahu.
+
+**4. Subsumpce.** Praxe čekatele byla vykonána podle dosavadních předpisů. Podle § 58 odst. 3 se **považuje** za právní praxi advokátního koncipienta dle ZA. Spolu s § 64 (kontinuita běhu lhůt) se doba před 1. 7. 1996 plně započítává.
+
+**5. Řešení.** Komora musí praxi započítat — § 58 odst. 3 jí přiznává stejnou hodnotu jako praxi u advokáta. Doba od 1. 5. 1994 se zahrne do předepsané praxe potřebné k advokátní zkoušce. Praktický krok: doložit potvrzení o době a obsahu čekatelské praxe.
+
+**6. Varianty.** (a) Šlo-li by o praxi vykonanou v jiné než právní pozici (administrativa), nešlo by o praxi čekatele a nezapočítala by se. (b) U přechodu samotného postavení (čekatel → koncipient) se uplatní odst. 2 — bez žádosti.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* praxe u komerčního právníka neměla obsah advokátní koncipientské praxe. *Neutralizace:* § 58 odst. 3 staví obě praxe naroveň zákonnou fikcí, bez prostoru pro obsahové přehodnocení.
+- *Slabé místo:* po desetiletích může být obtížné prokázat přesnou dobu a nepřerušenost čekatelské praxe.
+
+#### H. Praktický závěr
+
+§ 58 přenesl koncipienty a právní čekatele do jednotné kategorie advokátních koncipientů a zajistil plný zápočet dosavadní praxe. Dnes má praktický význam jen výjimečně.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit zápis osoby jako koncipienta/čekatele k rozhodnému dni.
+- [ ] Započítat praxi vykonanou podle dosavadních předpisů (odst. 3) v návaznosti na § 64.
+- [ ] Doložit dobu a obsah praxe potvrzením.
+
+**Typicky rozhodné důkazy / podklady:** doklad o zápisu jako čekatel/koncipient, potvrzení o době a obsahu vykonané praxe.
 
 ---
 
@@ -1278,6 +2260,40 @@ Poslední kategorie odráží **federální kontinuitu** — do rozdělení ČSF
 
 > **Praktická poznámka:** Po více než 30 letech od účinnosti ZA jsou „přechodné" záležitosti § 57–59 ZA převážně historické — drtivá většina dnešních advokátů je již „nativní" podle ZA. Ustanovení však mají stálý význam pro ojedinělé případy (advokát z 80. let stále aktivní v praxi; advokát-vrátilec z dlouhé pauzy s původní zkouškou apod.).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Osoba složila advokátní zkoušku v Bratislavě podle zákona SNR č. 132/1990 Sb. v listopadu 1992 (tedy v období československé federace). Po roce 2000 žádá o zápis do seznamu advokátů ČAK a Komora zvažuje, zda jí slovenskou zkoušku z roku 1992 uznat jako advokátní zkoušku dle ZA. Účastníci: žadatel a ČAK. Důkazy: osvědčení o složení zkoušky podle z. SNR č. 132/1990 Sb. s datem.
+
+**2. Právní otázka.** Považuje se advokátní zkouška složená podle slovenského zákona SNR č. 132/1990 Sb. dne v listopadu 1992 za advokátní zkoušku podle ZA?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 59 odst. 3 (slovenská advokátní zkouška složená do 31. 12. 1992 podle z. SNR č. 132/1990 Sb. se považuje za advokátní zkoušku dle ZA); odst. 1 a 2 (uznání staré české zkoušky a zkoušky komerčního právníka).
+- *Související ustanovení téhož zákona:* § 6 (advokátní zkouška), § 54 (zkouška způsobilosti/uznávací zkouška pro pozdější kvalifikace), § 61 (federální vzdělání).
+- *Související předpisy:* zákon SNR č. 132/1990 Sb. o advokácii; smlouva mezi ČR a SR o vzájemném uznávání rovnocennosti dokladů.
+- *Judikatura:* výklad federální kontinuity právního řádu do 31. 12. 1992.
+
+**4. Subsumpce.** Zkouška byla složena v listopadu 1992, tedy **do 31. 12. 1992**, podle z. SNR č. 132/1990 Sb. Naplňuje znaky § 59 odst. 3 — uznává se jako advokátní zkouška dle ZA.
+
+**5. Řešení.** Komora zkoušku uzná — rozhodný je den složení do 31. 12. 1992. Žadatel splní podmínku advokátní zkoušky bez nutnosti uznávací zkoušky dle § 54. Praktický krok: doložit osvědčení s datem před rozhodným dnem.
+
+**6. Varianty.** (a) Kdyby zkouška byla složena až v roce 1993 (po rozdělení ČSFR), § 59 odst. 3 se nepoužije a uplatní se režim uznávání zahraniční kvalifikace (§ 54). (b) Kdyby šlo o starou českou zkoušku dle z. č. 128/1990 Sb., uznala by se podle odst. 1.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* slovenská zkouška je zahraniční kvalifikací vyžadující uznávací zkoušku. *Neutralizace:* odst. 3 obsahuje zvláštní přechodné pravidlo pro období federace (do 31. 12. 1992), které má před obecným režimem přednost.
+- *Slabé místo:* hraniční datum 31. 12. 1992 je rozhodné a nepřekročitelné — zkoušky po něm spadají do jiného režimu.
+
+#### H. Praktický závěr
+
+§ 59 staví naroveň novou advokátní zkoušku, starou českou zkoušku, zkoušku komerčního právníka a slovenskou zkoušku z období federace (do 31. 12. 1992). Po rozdělení státu nastupuje režim uznávání zahraničních kvalifikací.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zjistit, podle kterého předpisu a kdy byla zkouška složena.
+- [ ] U slovenské zkoušky ověřit datum do 31. 12. 1992 (odst. 3).
+- [ ] Po tomto datu posoudit věc režimem § 54 (uznávací zkouška).
+
+**Typicky rozhodné důkazy / podklady:** osvědčení o složení advokátní zkoušky s datem a označením předpisu, jímž se řídila.
+
 ---
 
 ### § 61 — Federální vzdělání
@@ -1301,6 +2317,41 @@ Toto pravidlo se v praxi týká zejména **slovenských absolventů z období Č
   > „Absolvováním této fakulty […] stěžovatel nezískal univerzální právní vzdělání ve všech oborech práva a nevyhovuje tak nárokům stanoveným v ust. § 5 odst. 1 písm. b) zákona č. 85/1996 Sb. pro výkon advokacie, jejímž obsahem je právní pomoc v nejširším rozsahu a ve všech právních odvětvích. V daném případě nelze aplikovat ust. § 61 zákona č. 85/1996 Sb., neboť […] studium na Fakultě Veřejné bezpečnosti Vysoké školy Sboru národní bezpečnosti nelze považovat za studium na právnické fakultě, a to nejen z formálního, ale i obsahového (tj. materiálněprávního) hlediska"
 - *ÚS* [III.ÚS 195/99](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-195-99) — usnesení, 17. 6. 1999
   > „Tímto vzděláním se ve smyslu § 5 odst. 1 písmeno b) a § 61 zákona č. 85/1996 Sb. rozumí právě vysokoškolské vzdělání získané na právnické fakultě vysoké školy se sídlem v České republice nebo vysokoškolské vzdělání získané na právnické fakultě vysoké školy se sídlem na území ČSFR nebo jejich právních předchůdců. […] podmínku právnického vzdělání podle § 241 o.s.ř. splňuje též dovolatel s nostrifikovaným zahraničním vysokoškolským právnickým vzděláním"
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Absolvent Právnické fakulty Univerzity Komenského v Bratislavě (studium dokončené v roce 1991, tedy v období ČSFR) žádá o zápis do seznamu advokátních koncipientů ČAK. Komora zvažuje, zda jeho slovenské/federální právnické vzdělání splňuje podmínku § 5 odst. 1 písm. b) ZA. Účastníci: žadatel a ČAK. Důkazy: diplom o absolvování právnické fakulty, doba a místo studia.
+
+**2. Právní otázka.** Splňuje vysokoškolské právnické vzdělání získané na právnické fakultě se sídlem na území ČSFR (Univerzita Komenského) podmínku vzdělání podle § 5 odst. 1 písm. b) ZA prostřednictvím § 61?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 61 (federální/československé právnické vzdělání se považuje za vzdělání dle § 5 odst. 1 písm. b) a § 37 odst. 1 písm. b).
+- *Související ustanovení téhož zákona:* § 5 odst. 1 písm. b), § 37 odst. 1 písm. b) (vzdělání jako podmínka), § 59, § 62–64 (přechodná pravidla).
+- *Související předpisy:* zákon č. 111/1998 Sb. o vysokých školách (uznávání zahraničního vzdělání po rozdělení státu), smlouva ČR–SR o uznávání dokladů o vzdělání.
+- *Judikatura:* NSS 3 Ads 30/2006 (studium na nepravé „právnické" fakultě — Fakultě veřejné bezpečnosti VŠ SNB — nelze považovat za studium na právnické fakultě formálně ani materiálně, § 61 se nepoužije); ÚS III.ÚS 195/99 (vzděláním dle § 5 odst. 1 písm. b) a § 61 je vzdělání na právnické fakultě se sídlem v ČR nebo na území ČSFR či jejich předchůdců).
+
+**4. Subsumpce.** Studium proběhlo na **právnické fakultě** (UK Bratislava) se sídlem na území ČSFR v období federace. Naplňuje znak § 61 — jde o univerzální právnické vzdělání, nikoli o specializovanou neprávnickou fakultu. Podmínka § 5 odst. 1 písm. b) je splněna.
+
+**5. Řešení.** Komora vzdělání uzná pro účely zápisu — § 61 výslovně pokrývá právnické fakulty na území ČSFR. Žadatel splní podmínku vzdělání. Praktický krok: doložit diplom z právnické fakulty a dobu studia v období ČSFR.
+
+**6. Varianty.** (a) Šlo-li by o Fakultu veřejné bezpečnosti VŠ SNB, § 61 by se nepoužil (NSS 3 Ads 30/2006 — materiálně nejde o právnickou fakultu). (b) Bylo-li by studium dokončeno až po rozdělení státu (1993+), uplatnil by se režim uznávání zahraničního vzdělání dle z. č. 111/1998 Sb.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* po rozdělení ČSFR je slovenské vzdělání zahraniční a vyžaduje nostrifikaci. *Neutralizace:* § 61 obsahuje zvláštní pravidlo pro vzdělání získané na území ČSFR (období federace), kdy byl právní řád jednotný.
+- *Protiargument:* každé vzdělání s názvem „fakulta" stačí. *Neutralizace:* dle NSS 3 Ads 30/2006 je rozhodný i materiální obsah — musí jít o univerzální právnické vzdělání, ne o příbuzný obor (bezpečnostní studia).
+- *Slabé místo:* hranice mezi „právnickou fakultou" a fakultou jiného zaměření může být sporná.
+
+#### H. Praktický závěr
+
+§ 61 zajišťuje, že právnické vzdělání ze slovenských, federálních a starších československých právnických fakult splňuje podmínku vzdělání pro advokacii — ovšem jen jde-li materiálně o univerzální právnické studium.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda jde o studium na právnické fakultě (formálně i materiálně).
+- [ ] Ověřit sídlo fakulty na území ČSFR / jejích předchůdců a dobu studia.
+- [ ] U studia dokončeného po rozdělení státu posoudit režim nostrifikace (z. č. 111/1998 Sb.).
+
+**Typicky rozhodné důkazy / podklady:** vysokoškolský diplom z právnické fakulty, doklad o době a místě studia, případně nostrifikace.
 
 ---
 
@@ -1336,6 +2387,42 @@ To je projev zásady **lex mitior** v kárném právu (zákaz retroaktivity v ne
 
 > **Historická poznámka:** V praxi § 62 zhruba do konce 90. let umožnil řádné dokončení desítek běžících kárných řízení; dnes jde o čistě historický rámec bez aplikace.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Komerční právník se měl dopustit disciplinárního provinění v dubnu 1996 (před účinností ZA). Skutek vyšel najevo až v srpnu 1996. Předseda kontrolní rady ČAK zvažuje podání návrhu na zahájení kárného řízení podle ZA. Účastníci: kárný žalobce (předseda kontrolní rady) a obviněný. Důkazy: spis ke skutku, datum spáchání, lhůty podle z. č. 209/1990 Sb.
+
+**2. Právní otázka.** Kdo je oprávněn podat návrh na zahájení kárného řízení za skutek spáchaný před účinností ZA a podle jakých lhůt se posuzuje včasnost návrhu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 62 odst. 2 (návrh je oprávněn podat pouze předseda kontrolní rady, ve lhůtách dle dosavadních předpisů); odst. 1 (kontinuita opatření vyškrtnutí); odst. 3 (probíhající řízení se dokončí podle dosavadních předpisů).
+- *Související ustanovení téhož zákona:* § 32 a násl. (kárné řízení), § 33 (kárná žaloba), § 5 odst. 1 písm. e), § 8 odst. 1 písm. f) (vyškrtnutí).
+- *Související předpisy:* zákon ČNR č. 209/1990 Sb. a č. 128/1990 Sb. (kárné/disciplinární lhůty).
+- *Judikatura:* zásada zákazu retroaktivity v neprospěch obviněného (lex mitior) v kárném právu.
+
+**4. Subsumpce.** Skutek byl spáchán před 1. 7. 1996 a byl by disciplinárním proviněním dle dosavadních předpisů. Aktivně legitimován je dle § 62 odst. 2 **pouze předseda kontrolní rady ČAK**; lhůty se posuzují podle starých předpisů (nelze je „prodloužit" novým zákonem).
+
+**5. Řešení.** Návrh může podat výhradně předseda kontrolní rady a jen v rámci lhůt podle z. č. 209/1990 Sb. Pokud již tyto lhůty uplynuly, řízení nelze zahájit. Praktický krok: ověřit běh prekluzivních lhůt podle dosavadního předpisu a aktivní legitimaci.
+
+**6. Varianty.** (a) Bylo-li by řízení zahájeno již před 1. 7. 1996, dokončí se podle dosavadních předpisů, ale kompetenci vykonávají orgány nové ČAK (odst. 3). (b) Šlo-li by o již uložené vyškrtnutí podle starých předpisů, považuje se za vyškrtnutí dle ZA (odst. 1) s důsledky pro opětovný zápis.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* podle ZA může kárnou žalobu podat i jiný kárný žalobce. *Neutralizace:* § 62 odst. 2 pro skutky před účinností ZA omezuje aktivní legitimaci výlučně na předsedu kontrolní rady.
+- *Protiargument:* lhůty se řídí novým zákonem. *Neutralizace:* odst. 2 výslovně odkazuje na lhůty dosavadních předpisů; opačný výklad by byl retroaktivitou v neprospěch obviněného.
+- *Slabé místo:* dnes čistě historické ustanovení; aplikační praxe prakticky vymizela.
+
+#### H. Praktický závěr
+
+§ 62 zajistil kontinuitu kárných opatření a řízení při přechodu na sjednocenou ČAK, s ochranou obviněného přes lex mitior — pro staré skutky platí staré lhůty a žalobcem je jen předseda kontrolní rady.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Určit datum spáchání skutku (před/po 1. 7. 1996).
+- [ ] U starých skutků ověřit aktivní legitimaci pouze předsedy kontrolní rady (odst. 2).
+- [ ] Posoudit lhůty podle dosavadních předpisů.
+- [ ] U běžících řízení dokončit dle dosavadních předpisů, kompetence orgánů nové Komory (odst. 3).
+
+**Typicky rozhodné důkazy / podklady:** spis ke skutku s datem, znění prekluzivních lhůt dosavadního předpisu, doklad o postavení kárného žalobce.
+
 ---
 
 ### § 63 — Soudní ochrana podle dosavadních předpisů
@@ -1352,6 +2439,40 @@ Pokud advokát/komerční právník měl podle dosavadních předpisů (z. č. 1
 
 Toto ustanovení dnes nemá aktuální aplikační praxi (po 30 letech jsou všechny případy buď vyřízeny, nebo promlčeny).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Osoba byla v roce 1995 podle z. č. 209/1990 Sb. vyškrtnuta ze seznamu komerčních právníků. Před účinností ZA podala k soudu návrh na ochranu (proti vyškrtnutí), o němž do 1. 7. 1996 nebylo rozhodnuto. Po účinnosti ZA se ptá, zda její dosud neuzavřený nárok na soudní ochranu trvá. Účastníci: vyškrtnutý a soud (resp. Komora jako odpůrce). Důkazy: rozhodnutí o vyškrtnutí, návrh podaný soudu, doklad o nedokončeném řízení.
+
+**2. Právní otázka.** Zůstává právo domáhat se soudní ochrany proti vyškrtnutí podle dosavadních předpisů zachováno i po účinnosti ZA?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 63 (právo na soudní ochranu podle dosavadních předpisů proti nezápisu, vyškrtnutí či pozastavení není ZA dotčeno).
+- *Související ustanovení téhož zákona:* § 55b (soudní ochrana podle ZA), § 62, § 64 (přechodná pravidla).
+- *Související předpisy:* zákon ČNR č. 128/1990 Sb. a č. 209/1990 Sb.; o. s. ř. (procesní pravidla v době podání žaloby).
+- *Judikatura:* obecná zásada, že přechodné ustanovení nezasahuje do již vzniklých procesních práv.
+
+**4. Subsumpce.** Nárok na soudní ochranu vznikl podle dosavadních předpisů před účinností ZA. Podle § 63 zůstává **nedotčen** — otevřené (nepromlčené) nároky lze uplatnit i po 1. 7. 1996, procesně dle pravidel platných v době podání.
+
+**5. Řízení/řešení.** Soud řízení dokončí; právo na ochranu trvá nezávisle na novém ZA. Praktický krok: doložit, že nárok vznikl a byl uplatněn (či dosud trvá) podle dosavadních předpisů. Dnes již bez reálné aplikace (případy vyřízeny či promlčeny).
+
+**6. Varianty.** (a) Šlo-li by o nový zásah Komory po 1. 7. 1996, použil by se režim § 55b (soudní ochrana podle ZA). (b) Byl-li by nárok již promlčen podle dosavadních předpisů, § 63 jej neobnovuje.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* účinností ZA zanikly staré zákony (§ 71), tedy i nároky podle nich. *Neutralizace:* § 63 výslovně stanoví, že právo na soudní ochranu podle dosavadních předpisů není dotčeno.
+- *Slabé místo:* ustanovení dnes postrádá aplikační praxi — všechny případy jsou vyřízeny nebo promlčeny.
+
+#### H. Praktický závěr
+
+§ 63 garantuje kontinuitu soudní ochrany vzniklé podle dosavadních předpisů; nové zásahy se posuzují podle § 55b. Ustanovení je dnes historické.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Určit, zda zásah (vyškrtnutí/nezápis/pozastavení) nastal podle dosavadních předpisů, nebo podle ZA.
+- [ ] U starých zásahů uplatnit § 63 (ochrana nedotčena), u nových § 55b.
+- [ ] Ověřit, že nárok není promlčen podle dosavadních předpisů.
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o zásahu podle dosavadních předpisů, doklad o podání a stavu soudního řízení.
+
 ---
 
 ### § 64 — Započítávání lhůt
@@ -1367,6 +2488,40 @@ Toto ustanovení dnes nemá aktuální aplikační praxi (po 30 letech jsou vše
 Lhůty týkající se bezúhonnosti (§ 5 odst. 1 písm. e — lhůta od pravomocného odsouzení), výkonu právní praxe (§ 7 — předepsaná koncipientská praxe), opětovného zápisu po vyškrtnutí (§ 8 odst. 2) a praxe pro koncipienty (§ 37 odst. 2) **běží kontinuálně přes datum účinnosti ZA**.
 
 Příklad: koncipient, který nastoupil na praxi 1. 1. 1995 (za účinnosti starého z. č. 128/1990 Sb.), pokračoval po 1. 7. 1996 v praxi již dle nového ZA. Doba praxe od 1. 1. 1995 do 30. 6. 1996 se mu zápočítá do tříleté praxe potřebné pro advokátní zkoušku.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Bývalý advokát byl pravomocně odsouzen za úmyslný trestný čin v roce 1994 a vyškrtnut. Po roce 1996 žádá o opětovný zápis do seznamu advokátů a sporné je, zda lhůta podmiňující obnovení bezúhonnosti (§ 5 odst. 1 písm. e), resp. § 8 odst. 2) běží od roku 1994, nebo až od účinnosti ZA. Účastníci: žadatel a ČAK. Důkazy: rozsudek s datem právní moci, doklad o vyškrtnutí.
+
+**2. Právní otázka.** Započítává se do lhůt podle § 5 odst. 1 písm. e), § 7, § 8 odst. 2 a § 37 odst. 2 ZA doba, která začala běžet ještě za účinnosti dosavadních předpisů?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 64 (do dob/lhůt dle § 5 odst. 1 písm. e), § 7, § 8 odst. 2 a § 37 odst. 2 se započítávají doby/lhůty, které počaly běžet za účinnosti nebo podle dosavadních předpisů).
+- *Související ustanovení téhož zákona:* § 5 odst. 1 písm. e) (bezúhonnost), § 7 (praxe), § 8 odst. 2 (opětovný zápis), § 37 odst. 2 (praxe koncipienta), § 58 odst. 3 (zápočet praxe).
+- *Související předpisy:* zákon ČNR č. 128/1990 Sb. a č. 209/1990 Sb.
+- *Judikatura:* obecný výklad kontinuity běhu zákonných lhůt přes změnu právní úpravy.
+
+**4. Subsumpce.** Lhůta podmiňující obnovení bezúhonnosti (§ 5 odst. 1 písm. e) začala běžet od právní moci odsouzení v roce 1994 — tedy podle dosavadních předpisů. Podle § 64 se tato doba **započítává**; běh lhůty nepřerušuje účinnost ZA.
+
+**5. Řešení.** Lhůta běží kontinuálně od roku 1994; do dne podání žádosti se započítá celá uplynulá doba. Splní-li žadatel časovou podmínku, lze ho znovu zapsat. Praktický krok: doložit datum právní moci odsouzení a vypočítat lhůtu od něj, nikoli od 1. 7. 1996.
+
+**6. Varianty.** (a) U koncipientské praxe (§ 37 odst. 2) se obdobně započítá doba před účinností ZA (souběh s § 58 odst. 3). (b) Šlo-li by o lhůtu, kterou § 64 nevyjmenovává, kontinuita by se z tohoto ustanovení nedovodila.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* lhůty podle ZA běží až od jeho účinnosti. *Neutralizace:* § 64 výslovně zakládá kontinuitu — započítává doby, které počaly běžet podle dosavadních předpisů.
+- *Slabé místo:* § 64 se vztahuje jen na taxativně vyjmenované lhůty; jiné lhůty pod něj nelze podřadit.
+
+#### H. Praktický závěr
+
+§ 64 zajišťuje plynulý běh klíčových lhůt (bezúhonnost, praxe, opětovný zápis) přes přelom právní úpravy — doba podle dosavadních předpisů se započítává.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda jde o lhůtu vyjmenovanou v § 64 (§ 5 odst. 1 písm. e, § 7, § 8 odst. 2, § 37 odst. 2).
+- [ ] Určit počátek běhu lhůty podle dosavadních předpisů.
+- [ ] Započítat celou uplynulou dobu, nikoli ji počítat až od 1. 7. 1996.
+
+**Typicky rozhodné důkazy / podklady:** rozsudek/rozhodnutí s datem právní moci, doklady o době praxe, doklad o vyškrtnutí.
 
 ---
 
@@ -1406,6 +2561,41 @@ Příklad: koncipient, který nastoupil na praxi 1. 1. 1995 (za účinnosti star
 
 > **Praktická poznámka:** Tento přechodový mechanismus byl precizně promyšlen — během tří letních měsíců 1996 sjednocená ČAK reálně začala fungovat, aniž by došlo k provozní mezeře. Šlo o vzorový příklad úspěšné stavovské transformace.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** V srpnu 1996 (po účinnosti ZA, ale před prvním sněmem) přechodné představenstvo ČAK — složené z členů představenstva ČAK a Komory komerčních právníků — přijalo rozhodnutí v působnosti, která jinak náleží sněmu. Advokát později namítá, že přechodné představenstvo nebylo oprávněno takové rozhodnutí přijmout. Účastníci: advokát a ČAK. Důkazy: zápis o složení přechodného představenstva, datum rozhodnutí, datum konání prvního sněmu.
+
+**2. Právní otázka.** Bylo přechodné představenstvo podle § 65 oprávněno vykonávat do prvního sněmu i působnost sněmu, a v jaké lhůtě musel být první sněm svolán?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 65 (přechodné představenstvo a jeho rozšířená působnost dle odst. 3 do prvního sněmu), § 66 (přechodná kontrolní rada), § 67 (přechodná kárná komise), § 68 (svolání prvního sněmu do tří měsíců od účinnosti).
+- *Související ustanovení téhož zákona:* § 43 písm. b)–f) (působnost sněmu), § 44 a násl. (orgány Komory), § 69 (univerzální sukcese).
+- *Související předpisy:* zákon ČNR č. 128/1990 Sb. a č. 209/1990 Sb. (orgány předchůdkyň).
+- *Judikatura:* obecná zásada platnosti aktů přechodných orgánů jednajících v zákonem svěřené působnosti.
+
+**4. Subsumpce.** Přechodné představenstvo bylo složeno dle § 65 odst. 1. Podle odst. 3 mu **do dne prvního sněmu** příslušela vedle jeho vlastní působnosti i působnost sněmu dle § 43 písm. b)–f). Rozhodnutí přijaté v srpnu 1996 (před sněmem) bylo proto v jeho pravomoci.
+
+**5. Řešení.** Námitka neoprávněnosti neuspěje — přechodné představenstvo mělo do prvního sněmu rozšířenou působnost zahrnující působnost sněmu (odst. 3). První sněm musel být svolán do tří měsíců od účinnosti (do 1. 10. 1996, § 68). Praktický krok: ověřit datum rozhodnutí vůči datu prvního sněmu.
+
+**6. Varianty.** (a) Bylo-li by rozhodnutí přijato až po prvním sněmu, rozšířená působnost dle odst. 3 by již zanikla a posuzovala by se podle řádné dělby působnosti. (b) Šlo-li by o věc kontrolní rady či kárné komise, použijí se obdobně § 66 a § 67.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* sněmovní působnost může vykonávat jen řádně zvolený sněm. *Neutralizace:* § 65 odst. 3 výslovně svěřil přechodnému představenstvu i působnost sněmu (mimo § 43 písm. a) do prvního sněmu.
+- *Slabé místo:* lhůta tří měsíců (§ 68) je krátká; opožděné svolání sněmu by mohlo zpochybnit legitimitu pozdějších aktů — v praxi byl však sněm svolán včas.
+- *Riziko:* záměna data rozhodnutí a data prvního sněmu při posouzení rozsahu působnosti.
+
+#### H. Praktický závěr
+
+§§ 65–68 zajistily organizační kontinuitu při sloučení dvou komor — přechodné orgány fungovaly do prvního sněmu, který musel být svolán do tří měsíců. Dnes jde o vyčerpané historické ustanovení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit složení přechodného orgánu dle § 65–67.
+- [ ] U aktů z období do prvního sněmu zohlednit rozšířenou působnost (§ 65 odst. 3).
+- [ ] Ověřit dodržení tříměsíční lhůty pro svolání prvního sněmu (§ 68).
+
+**Typicky rozhodné důkazy / podklady:** zápisy o složení přechodných orgánů, datum a obsah přijatých rozhodnutí, doklad o konání prvního sněmu.
+
 ---
 
 ### § 69 — Univerzální právní nástupnictví Komory
@@ -1426,6 +2616,40 @@ Příklad: koncipient, který nastoupil na praxi 1. 1. 1995 (za účinnosti star
 - **stavovské předpisy** v rozsahu, v jakém nebyly v rozporu s novým ZA (do vydání nových).
 
 Stará Komora komerčních právníků zanikla; ČAK pokračovala — formálně tatáž instituce, materiálně sjednocená.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Věřitel měl k 30. 6. 1996 pohledávku z nájemní smlouvy vůči Komoře komerčních právníků ČR (např. nedoplatek nájmu kancelářských prostor). Po 1. 7. 1996 chce pohledávku vymáhat, ale Komora komerčních právníků již neexistuje. Účastníci: věřitel a ČAK. Důkazy: nájemní smlouva s KKPČR, doklad o pohledávce, datum účinnosti ZA.
+
+**2. Právní otázka.** Na koho přešly práva a povinnosti Komory komerčních právníků ČR a České advokátní komory zřízené podle dosavadních předpisů ke dni účinnosti ZA?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 69 (univerzální přechod práv a povinností obou předchůdkyň na Komoru dnem účinnosti ZA).
+- *Související ustanovení téhož zákona:* § 65–68 (přechod orgánů), § 57–58 (přechod členů), § 71 (zrušení dosavadních zákonů).
+- *Související předpisy:* zákon ČNR č. 128/1990 Sb. a č. 209/1990 Sb.; obecná pravidla zákoníku práce o přechodu pracovněprávních vztahů.
+- *Judikatura:* obecný výklad univerzální sukcese ze zákona (přechod celého jmění bez nutnosti jednotlivých převodů).
+
+**4. Subsumpce.** Pohledávka existovala vůči KKPČR k rozhodnému dni. Podle § 69 přešla **ex lege** práva i povinnosti obou předchůdkyň na novou Komoru (ČAK) dnem účinnosti ZA — bez zápisu, smlouvy či schválení.
+
+**5. Řešení.** Věřitel uplatní pohledávku vůči **ČAK** jako univerzální právní nástupkyni. Komora odpovídá za závazky zaniklé KKPČR. Praktický krok: směřovat výzvu i případnou žalobu na ČAK a doložit existenci závazku předchůdkyně.
+
+**6. Varianty.** (a) Šlo-li by o majetek (nemovitost) předchůdkyně, přešel rovněž na ČAK ex lege. (b) U pracovněprávních vztahů zaměstnanců předchůdkyň se uplatní přechod dle zákoníku práce v návaznosti na § 69.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* závazek zanikl spolu se zánikem dlužníka (KKPČR). *Neutralizace:* § 69 zakládá univerzální sukcesi — závazek nezaniká, přechází na nástupkyni.
+- *Slabé místo:* po desetiletích může být obtížné prokázat existenci a výši původního závazku předchůdkyně.
+
+#### H. Praktický závěr
+
+§ 69 zakotvil univerzální právní nástupnictví sjednocené ČAK po obou předchozích komorách ke dni 1. 7. 1996 — veškerá práva, závazky, majetek i zaměstnanci přešli ex lege.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Identifikovat, zda nárok/závazek vznikl vůči některé z předchůdkyň (ČAK 1990 nebo KKPČR).
+- [ ] Uplatnit jej vůči ČAK jako univerzální nástupkyni (§ 69).
+- [ ] Doložit existenci a rozsah původního práva/závazku.
+
+**Typicky rozhodné důkazy / podklady:** smlouva/listina zakládající závazek vůči předchůdkyni, doklad o jeho existenci k 30. 6. 1996, evidence přešlého majetku.
 
 ---
 
@@ -1455,6 +2679,41 @@ Nesplnění této povinnosti vedlo k aplikaci § 764 odst. 2 vět druhé a třet
 
 > **Historická poznámka:** § 70 byl jedním z nejdramatičtějších přechodných ustanovení — krátká lhůta 6 měsíců přinutila desítky firem k radikální reorganizaci nebo zániku. Po 30 letech je toto ustanovení čistě historické.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnost s ručením omezeným měla v roce 1996 v předmětu podnikání zapsáno „poskytování právních služeb" na základě živnostenského oprávnění. Po 1. 7. 1996 ve své činnosti pokračovala, aniž by do 31. 12. 1996 přizpůsobila společenskou smlouvu a podala návrh na změnu zápisu v obchodním rejstříku. V roce 1997 čelí návrhu na zrušení. Účastníci: společnost a navrhovatel (rejstříkový soud/Komora). Důkazy: výpis z obchodního rejstříku, společenská smlouva, doklad o (ne)podání návrhu na změnu.
+
+**2. Právní otázka.** Jaké důsledky má pro obchodní společnost, jejímž předmětem činnosti bylo poskytování právních služeb, nesplnění povinnosti přizpůsobit se ZA ve lhůtě podle § 70 odst. 2?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 70 odst. 1 (zánik živnostenských oprávnění k poskytování právních služeb dnem účinnosti ZA), odst. 2 (šestiměsíční lhůta k přizpůsobení a sankce dle § 764 odst. 2 obchodního zákoníku).
+- *Související ustanovení téhož zákona:* § 15 (advokátní společnosti), § 52d (přestupek neoprávněného poskytování právních služeb).
+- *Související předpisy:* zákon č. 455/1991 Sb. (živnostenský zákon), zákon č. 513/1991 Sb., obchodní zákoník, § 764 odst. 2 (zrušen 2014, nahrazen zákonem o obchodních korporacích).
+- *Judikatura:* obecný výklad sankce zrušení společnosti soudem při neodstranění protiprávního stavu.
+
+**4. Subsumpce.** Živnostenské oprávnění společnosti k poskytování právních služeb zaniklo ex lege dnem 1. 7. 1996 (odst. 1). Společnost měla povinnost do 31. 12. 1996 přizpůsobit poměry ZA a podat návrh na zápis (odst. 2); to neučinila. Naplnila tak hypotézu sankčního odkazu na § 764 odst. 2 obchodního zákoníku.
+
+**5. Řešení.** Po marném uplynutí lhůty se přiměřeně uplatní § 764 odst. 2 obchodního zákoníku — hrozí zrušení společnosti rozhodnutím soudu. Pokračování v poskytování právních služeb bez advokátního oprávnění je navíc protiprávní (dnes přestupek dle § 52d). Praktický krok: zúžit předmět činnosti a uvést poměry do souladu, jinak hrozí zrušení.
+
+**6. Varianty.** (a) Splnila-li by společnost podmínky § 15 ZA pro advokátní společnost a podala návrh včas, mohla v upravené podobě pokračovat. (b) Vystupovala-li by po 1. 7. 1996 nadále jako poskytovatel právních služeb bez oprávnění, jde dnes o přestupek dle § 52d.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* živnostenské oprávnění zůstává v platnosti, dokud není zrušeno. *Neutralizace:* § 70 odst. 1 stanoví zánik ex lege dnem účinnosti ZA — bez nutnosti samostatného rozhodnutí.
+- *Protiargument:* lhůta je pořádková, její nesplnění je bez následku. *Neutralizace:* odst. 2 výslovně odkazuje na sankční § 764 odst. 2 obchodního zákoníku (zrušení společnosti).
+- *Slabé místo:* odkazovaný § 764 obchodního zákoníku byl zrušen (2014); dnešní aplikace je jen přiměřená a ustanovení je historické.
+
+#### H. Praktický závěr
+
+§ 70 zrušil „právní služby jako živnost" a vynutil transformaci dotčených společností v krátké šestiměsíční lhůtě pod hrozbou zrušení. Dnes jde o historické ustanovení, jehož logika přežívá v monopolu advokacie chráněném § 52d.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda subjekt poskytoval právní služby na základě živnostenského oprávnění (zaniklého dle odst. 1).
+- [ ] U obchodních společností ověřit splnění povinnosti přizpůsobení a podání návrhu do 31. 12. 1996 (odst. 2).
+- [ ] Při pokračujícím neoprávněném poskytování zvážit § 52d (přestupek).
+
+**Typicky rozhodné důkazy / podklady:** výpis z obchodního rejstříku, společenská smlouva/stanovy, doklad o (ne)podání návrhu na změnu zápisu, doklad o předmětu činnosti.
+
 ---
 
 ### § 71 — Zrušovací ustanovení
@@ -1473,6 +2732,40 @@ Nesplnění této povinnosti vedlo k aplikaci § 764 odst. 2 vět druhé a třet
 
 § 71 explicitně **ruší** oba dosavadní zákony upravující advokátní povolání. Tím je formálně zakončena duálnost úpravy — nový ZA se stává jediným zákonným rámcem advokacie v ČR od 1. 7. 1996.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** V soudním sporu vedeném v roce 1998 jedna strana argumentuje ustanovením zákona ČNR č. 209/1990 Sb. o komerčních právnících, jako by stále platilo. Protistrana namítá, že tento zákon byl zrušen. Soud musí určit, který předpis na poměr po 1. 7. 1996 aplikovat. Účastníci: dvě procesní strany. Důkazy: znění § 71 ZA, datum účinnosti ZA, povaha posuzovaného poměru.
+
+**2. Právní otázka.** Které zákony byly ke dni účinnosti ZA zrušeny a jak se posuzují právní poměry vzniklé za jejich účinnosti?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 71 (zrušení zákona ČNR č. 128/1990 Sb. a č. 209/1990 Sb.).
+- *Související ustanovení téhož zákona:* § 57–69 (přechodná ustanovení upravující kontinuitu), § 72 (účinnost), § 62–64 (přechod řízení a lhůt).
+- *Související předpisy:* zákon ČNR č. 128/1990 Sb. a č. 209/1990 Sb. (zrušené); obecné zásady intertemporálního práva.
+- *Judikatura:* obecná zásada, že zrušení předpisu nepůsobí zpětně na poměry vzniklé za jeho účinnosti (nepravá retroaktivita).
+
+**4. Subsumpce.** Oba zákony byly § 71 ke dni 1. 7. 1996 zrušeny. Poměry vzniklé před tímto dnem se však posuzují podle dosavadních předpisů (přechodná ustanovení § 57 a násl.); od účinnosti ZA platí pro nové poměry výlučně ZA.
+
+**5. Řešení.** Soud aplikuje na poměr vzniklý před 1. 7. 1996 podle okolností dosavadní předpis (skrze přechodná ustanovení), na poměr vzniklý po tomto dni ZA. Pouhý odkaz na zrušený zákon jako na platnou normu pro nový poměr neobstojí. Praktický krok: určit rozhodný okamžik vzniku poměru.
+
+**6. Varianty.** (a) Jde-li o procesní řízení zahájené před 1. 7. 1996, dokončí se podle dosavadních předpisů (§ 62 odst. 3). (b) Jde-li o lhůty vyjmenované v § 64, započítává se i doba podle zrušených zákonů.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* zrušený zákon nelze vůbec použít. *Neutralizace:* přechodná ustanovení (§ 57 a násl., § 62 odst. 3, § 64) umožňují omezené použití dosavadních předpisů na dříve vzniklé poměry.
+- *Slabé místo:* derogační klauzule sama o sobě neřeší intertemporální otázky — ty plynou až z přechodných ustanovení.
+
+#### H. Praktický závěr
+
+§ 71 uzavřel dualitu úpravy zrušením obou dosavadních zákonů; pro poměry vzniklé před účinností ZA však zůstávají rozhodná přechodná ustanovení odkazující na dosavadní předpisy.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Určit rozhodný okamžik vzniku posuzovaného poměru (před/po 1. 7. 1996).
+- [ ] Na nové poměry aplikovat výlučně ZA.
+- [ ] Na dříve vzniklé poměry použít dosavadní předpisy prostřednictvím přechodných ustanovení (§ 57 a násl., § 62–64).
+
+**Typicky rozhodné důkazy / podklady:** znění § 71 a přechodných ustanovení, doklad o době vzniku poměru či zahájení řízení.
+
 ---
 
 ### § 72 — Účinnost
@@ -1490,6 +2783,40 @@ ZA byl podepsán prezidentem Václavem Havlem, premiérem Václavem Klausem a p�
 - **Vacatio legis** byla relativně krátká (zákon publikován v jaru 1996, účinnost od poloviny roku) — zákonodárce předpokládal, že předchozí orgány obou komor stihnou administrativní přípravy.
 - **Datum 1. 7.** bylo zvoleno strategicky — uprostřed kalendářního roku, mimo soudní prázdniny (které začínají typicky na konci července), aby přechod nenarušil běžící soudní agendu.
 - **30 let kontinuity** — od 1996 do 2026 prošel ZA mnoha novelizacemi (zejm. č. 210/1999, 79/2006, 219/2009, 286/2021 atd.), ale jeho **základní architektura** se zachovala. Konsolidace k 1. 1. 2026 odráží **aktuální stav po všech novelách**, včetně zpřísnění úschovních pravidel a zvýšení sankcí za neoprávněné poskytování právních služeb.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Strana sporu chce posoudit oprávnění advokáta vykonávat činnost k určitému datu v roce 1996. Sporné je, zda advokát mohl jednat již 25. 6. 1996, nebo až od 1. 7. 1996, kdy nabyl ZA účinnosti. Účastníci: posuzovatel (soud/orgán) a advokát. Důkazy: datum úkonu, znění § 72, zápis v seznamu.
+
+**2. Právní otázka.** Od kterého dne nabývá zákon č. 85/1996 Sb. účinnosti a jak se posuzují úkony učiněné před tímto dnem?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 72 (účinnost dnem 1. července 1996).
+- *Související ustanovení téhož zákona:* § 57–71 (přechodná a zrušovací ustanovení navázaná na den účinnosti), § 64 (započítávání lhůt).
+- *Související předpisy:* obecná pravidla o platnosti a účinnosti právních předpisů (vyhlášení ve Sbírce zákonů, vacatio legis).
+- *Judikatura:* obecný výklad rozdílu mezi platností a účinností a vázanosti právních následků na den účinnosti.
+
+**4. Subsumpce.** ZA nabyl účinnosti dnem 1. 7. 1996 (§ 72). Úkon učiněný 25. 6. 1996 se posuzuje podle dosavadních předpisů; úkon od 1. 7. 1996 podle ZA. Den účinnosti je rozhodným předělem pro celou intertemporální konstrukci § 57–71.
+
+**5. Řešení.** Posuzovatel váže aplikaci ZA na den 1. 7. 1996 — úkony před ním podléhají dosavadní úpravě (s případným zápočtem dle § 64). Praktický krok: porovnat datum úkonu s dnem účinnosti a podle toho zvolit rozhodný předpis.
+
+**6. Varianty.** (a) Jde-li o lhůtu vyjmenovanou v § 64, započítá se i doba před účinností. (b) Jde-li o řízení zahájené před účinností, dokončí se podle dosavadních předpisů (§ 62 odst. 3).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* zákon platí už dnem vyhlášení ve Sbírce. *Neutralizace:* nutno odlišovat platnost (vyhlášení) a účinnost — právní následky ZA nastávají až dnem 1. 7. 1996 dle § 72.
+- *Slabé místo:* samotná účinnostní klauzule neřeší intertemporální detaily — ty plynou z přechodných ustanovení (§ 57–71).
+
+#### H. Praktický závěr
+
+§ 72 stanoví den účinnosti ZA na 1. 7. 1996 — rozhodný předěl, k němuž se vážou všechna přechodná a zrušovací ustanovení a od něhož se posuzuje aplikace nové úpravy.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vázat aplikaci ZA na den účinnosti 1. 7. 1996.
+- [ ] Úkony a poměry před tímto dnem posoudit podle dosavadních předpisů (přechodná ustanovení).
+- [ ] U lhůt zohlednit zápočet dle § 64.
+
+**Typicky rozhodné důkazy / podklady:** znění § 72, datum posuzovaného úkonu/poměru, zápis v seznamu k rozhodnému dni.
 
 ---
 
