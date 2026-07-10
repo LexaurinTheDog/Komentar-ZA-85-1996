@@ -98,6 +98,10 @@ Aktuální znění k **1. 1. 2026** (zdroj: lokální výtah z e-Sbírky; konsol
 
 > **Poznámka:** Advokátní stav je dynamicky se vyvíjející profese (AI a tzv. „LegalTech", AML, transparenci úschov). Tento komentář popisuje stav k 1. 1. 2026.
 
+## Právní modality
+
+- [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) — výklad příkazů, zákazů, dovolení, zmocnění, oprávnění a povinností, domněnek a fikcí použitých v předpisu.
+
 ## Zásady z místní judikatury
 
 - [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
