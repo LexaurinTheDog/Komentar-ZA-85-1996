@@ -96,6 +96,54 @@ Pojem „poskytování právních služeb" je definován funkčně dvěma kumula
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=6f416a302fb801ed3d0b generator=2026-07-17.4 source_sha256=602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c -->
+#### Revizní doplnění k § 1
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1996/85-1996 Zákon o advokacii.md`; identifikátor verze: `SB-1996-00085_2026-01-01`; SHA-256: `602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c`.
+
+##### Znění ustanovení
+
+> (1) Tento zákon upravuje podmínky, za nichž mohou být poskytovány právní služby, jakož i poskytování právních služeb advokáty (dále jen „výkon advokacie“).
+>
+> (2) Poskytováním právních služeb se rozumí zastupování v řízení před soudy a jinými orgány, obhajoba v trestních věcech, udělování právních porad, sepisování listin, zpracovávání právních rozborů a další formy právní pomoci, jsou-li vykonávány soustavně a za úplatu. Poskytováním právních služeb se rozumí rovněž činnost opatrovníka pro řízení ustanoveného podle zvláštního právního předpisu1), je-li vykonávána advokátem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6f416a302fb801ed3d0b -->
+
 ### § 2 — Výkon advokacie, oprávněné osoby, zákaz pokoutnictví
 
 > **§ 2**
@@ -226,6 +274,70 @@ Advokátní monopol není absolutní — vedle advokátů poskytují právní sl
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=6d4868c5b18787b98898 generator=2026-07-17.4 source_sha256=602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c -->
+#### Revizní doplnění k § 2
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1996/85-1996 Zákon o advokacii.md`; identifikátor verze: `SB-1996-00085_2026-01-01`; SHA-256: `602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c`.
+
+##### Znění ustanovení
+
+> (1) Právní služby na území České republiky jsou oprávněni poskytovat za podmínek stanovených tímto zákonem a způsobem v něm uvedeným
+>
+> - a) advokáti,
+>
+> - b) fyzické osoby, které
+>
+> - 1. jsou státními příslušníky členského státu Evropské unie, smluvního státu Dohody o Evropském hospodářském prostoru nebo Švýcarské konfederace (dále jen „domovský stát“), anebo jsou státními příslušníky jiného státu a jsou v některém z domovských států trvale usazeni, a
+>
+> - 2. v domovském státě získaly oprávnění poskytovat právní služby pod profesním označením domovského státu, které bylo oznámeno ve sdělení Ministerstva spravedlnosti, vyhlášeném ve Sbírce zákonů a mezinárodních smluv
+>
+> (dále jen „evropský advokát“).
+>
+> (2) Ustanovením odstavce 1 není dotčeno oprávnění
+>
+> - a) notářů, soudních exekutorů, patentových zástupců a daňových poradců,1a) popřípadě dalších osob, jimž zvláštní zákon svěřuje poskytovat právní služby,
+>
+> - b) zaměstnance právnické nebo fyzické osoby, člena družstva nebo příslušníka ozbrojených sborů poskytovat právní služby osobě, k níž je v pracovněprávním nebo pracovním vztahu anebo ve služebním poměru, pokud je poskytování právních služeb součástí jeho povinností vyplývajících z tohoto pracovněprávního nebo pracovního vztahu anebo služebního poměru.
+>
+> (3) Nabídnutí nebo poskytování právních služeb osobou, která není oprávněna k jejich poskytování podle odstavce 1 nebo [[#§ 2|2]], se zakazuje. Obstarání, zprostředkování nebo nabídnutí obstarání či zprostředkování poskytnutí právní služby, kterou má poskytovat osoba bez oprávnění k poskytování právních služeb podle odstavce 1 nebo [[#§ 2|2]], se zakazuje.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6d4868c5b18787b98898 -->
+
 ### § 2a — Svobodná volba advokáta
 
 > **§ 2a**
@@ -290,6 +402,52 @@ Klient má kdykoli právo zvolit si a změnit advokáta; advokát jej nesmí zad
 **Typicky rozhodné důkazy / podklady:** smlouva o poskytování právních služeb, výpověď/odvolání plné moci, nová plná moc, procesní spis, vyúčtování dosud poskytnutých úkonů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=bff400b5288b25fd4100 generator=2026-07-17.4 source_sha256=602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c -->
+#### Revizní doplnění k § 2a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1996/85-1996 Zákon o advokacii.md`; identifikátor verze: `SB-1996-00085_2026-01-01`; SHA-256: `602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c`.
+
+##### Znění ustanovení
+
+> Každý má právo na svobodnou volbu advokáta; tím není dotčeno ustanovení § 18 až 18c a zvláštní právní předpisy upravující ustanovení advokáta soudem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 18
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bff400b5288b25fd4100 -->
 
 ### § 3 — Nezávislost a univerzalita advokátní praxe
 
@@ -377,6 +535,56 @@ Advokát je nezávislý a vázán nejprve právními a stavovskými předpisy a 
 **Typicky rozhodné důkazy / podklady:** písemné pokyny klienta, koncepty podání, poučení klienta, osvědčení a průkaz advokáta s vyznačením omezení, smlouva o spolupráci s českým advokátem.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=4ae9ca1fbddd38a56de1 generator=2026-07-17.4 source_sha256=602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c -->
+#### Revizní doplnění k § 3
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1996/85-1996 Zákon o advokacii.md`; identifikátor verze: `SB-1996-00085_2026-01-01`; SHA-256: `602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c`.
+
+##### Znění ustanovení
+
+> (1) Advokát je při poskytování právních služeb nezávislý; je vázán právními předpisy a v jejich mezích příkazy klienta.
+>
+> (2) Advokáti poskytují právní služby ve všech věcech.
+>
+> (3) Ustanovením odstavce 2 není dotčeno omezení rozsahu oprávnění advokátů poskytovat právní služby stanovené tímto zákonem (§ 5a odst. 2).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 5a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4ae9ca1fbddd38a56de1 -->
 
 ### § 3a — Důvěrnost advokátní komunikace (objektivní strana mlčenlivosti)
 
@@ -474,6 +682,56 @@ Tento třípilířový systém byl předmětem **Pl.ÚS 4/19** (zachování př�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=955b75c617a85ba5793a generator=2026-07-17.4 source_sha256=602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c -->
+#### Revizní doplnění k § 3a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1996/85-1996 Zákon o advokacii.md`; identifikátor verze: `SB-1996-00085_2026-01-01`; SHA-256: `602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c`.
+
+##### Znění ustanovení
+
+> (1) Informace tvořící obsah komunikace advokáta, advokátního koncipienta a dalších osob uvedených v § 21 odst. 9 písm. a) s klientem při výkonu advokacie jsou důvěrné, je-li tato důvěrnost v zájmu klienta. Stejně tak jsou důvěrné informace získané nebo vytvářené při výkonu advokacie nebo v bezprostřední souvislosti s ním, pokud z nich lze zjistit informace o obsahu komunikace uvedené ve větě první nebo o poskytovaných právních službách, je-li tato důvěrnost v zájmu klienta.
+>
+> (2) Informace podle odstavce 1, které se nacházejí u jiných osob než u advokáta, advokátního koncipienta nebo dalších osob uvedených v § 21 odst. 9 písm. a), musí být výslovně označeny tak, aby bylo zřejmé, že se jedná o důvěrné informace chráněné podle tohoto zákona.
+>
+> (3) Každý, kdo získá informace podle odstavce 1, je nesmí zneužít nebo prozradit jiné osobě bez zákonného důvodu anebo bez souhlasu toho, komu byly právní služby poskytnuty.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 21
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=955b75c617a85ba5793a -->
+
 ## ČÁST DRUHÁ — Advokát
 
 ## HLAVA PRVNÍ — Předpoklady pro výkon advokacie
@@ -546,6 +804,52 @@ Advokátem je výlučně osoba zapsaná v seznamu advokátů ČAK; zápis má ko
 **Typicky rozhodné důkazy / podklady:** výpis ze seznamu advokátů, protokol o složení slibu, osvědčení o zápisu a identifikační průkaz, plná moc, podání s razítkem.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=97e50559e9faa9ed31f2 generator=2026-07-17.4 source_sha256=602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c -->
+#### Revizní doplnění k § 4
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1996/85-1996 Zákon o advokacii.md`; identifikátor verze: `SB-1996-00085_2026-01-01`; SHA-256: `602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c`.
+
+##### Znění ustanovení
+
+> Advokátem je ten, kdo je zapsán v seznamu advokátů vedeném Českou advokátní komorou (dále jen „Komora“).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=97e50559e9faa9ed31f2 -->
 
 ### § 5 — Podmínky zápisu do seznamu advokátů (deset taxativních předpokladů)
 
@@ -733,6 +1037,86 @@ Zápis je vázán na **současné** splnění deseti taxativních podmínek; ČA
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=39569eb7ad9d07f4fa4c generator=2026-07-17.4 source_sha256=602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c -->
+#### Revizní doplnění k § 5
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1996/85-1996 Zákon o advokacii.md`; identifikátor verze: `SB-1996-00085_2026-01-01`; SHA-256: `602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c`.
+
+##### Znění ustanovení
+
+> (1) Komora zapíše na základě písemné žádosti do seznamu advokátů každého,
+>
+> - a) kdo je plně svéprávný,
+>
+> - b) kdo získal vysokoškolské vzdělání v oboru právo
+>
+> - 1. v magisterském studijním programu studiem na vysoké škole v České republice1b), nebo
+>
+> - 2. studiem na vysoké škole v zahraničí, pokud je takové vzdělání v České republice uznáváno za rovnocenné vzdělání uvedenému v bodě 1 na základě mezinárodní smlouvy, kterou je Česká republika vázána, anebo pokud takové vzdělání bylo uznáno podle zvláštního právního předpisu1d), a současně takové vzdělání odpovídá obsahem a rozsahem obecnému vzdělání, které lze získat v magisterském studijním programu v oboru právo na vysoké škole v České republice,
+>
+> - c) kdo vykonával po dobu alespoň tří let právní praxi jako advokátní koncipient,
+>
+> - d) kdo je bezúhonný,
+>
+> - e) komu nebylo uloženo kárné opatření vyškrtnutí ze seznamu advokátů nebo na něhož se hledí, jako by mu toto kárné opatření nebylo uloženo,
+>
+> - f) kdo nebyl vyškrtnut ze seznamu advokátů podle § 7b odst. 1 písm. e) nebo f), nebo uplynula-li od vyškrtnutí doba pěti let a insolvenční řízení bylo v této době pravomocně skončeno,1d)
+>
+> - g) kdo není v pracovním nebo ve služebním poměru, s výjimkou pracovního poměru
+>
+> - 1. ke Komoře nebo k obdobné profesní organizaci advokátů v některém z domovských států,
+>
+> - 2. k advokátovi, k právnické osobě podle § 15 odst. 1 (dále jen „společnost“), nebo k zahraniční právnické osobě oprávněné poskytovat právní služby podle § 35s odst. 1 (dále jen „zahraniční společnost“),
+>
+> - 3. jehož předmětem je výkon vědecké, pedagogické, literární, publicistické nebo umělecké činnosti,
+>
+> ani nevykonává jinou činnost neslučitelnou s výkonem advokacie,
+>
+> - h) kdo složil advokátní zkoušku,
+>
+> - i) kdo uhradil Komoře poplatek, který stanoví stavovský předpis nejvýše částkou 10 000 Kč, a
+>
+> - j) kdo po splnění podmínek uvedených pod písmeny a) až i) složil do rukou předsedy Komory tento slib: „Slibuji na svou čest a svědomí, že budu ctít právo a etiku povolání advokáta a chránit lidská práva. Slibuji, že budu dodržovat povinnost mlčenlivosti a dbát důstojnosti advokátního stavu.“
+>
+> (2) Do doby právní praxe advokátního koncipienta podle odstavce 1 písm. c) se započítává pouze doba, po kterou se advokátní koncipient řádně připravuje na výkon advokacie pod dohledem školitele ([[#§ 38|§ 38]]); dovolená čerpaná v době trvání této praxe se považuje za výkon právní praxe. Nevykonává-li advokátní koncipient právní praxi z důvodu překážek v práci na jeho straně nebo z důvodu omluvené nepřítomnosti v práci, započítávají se mu tyto doby do doby právní praxe nejvýše v rozsahu 70 pracovních dnů v každém roce jejího trvání. V případě sjednání kratší pracovní doby se doba právní praxe advokátního koncipienta úměrně prodlužuje; pro účely započtení do doby právní praxe podle zvláštního zákona se takto vykonaná doba právní praxe advokátního koncipienta úměrně zkracuje.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 7b, § 15, § 35s, § 38
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=39569eb7ad9d07f4fa4c -->
+
 ### § 5a — Advokát ze třetího státu (omezený zápis)
 
 > **§ 5a**
@@ -800,6 +1184,58 @@ Advokát zapsaný dle § 5a smí poskytovat právní služby jen v právu domovs
 **Typicky rozhodné důkazy / podklady:** osvědčení a identifikační průkaz s vyznačeným omezením, doklad o uznávací zkoušce, zadání klienta, smlouva o spolupráci s českým advokátem, dokumentace transakce s rozdělením rolí.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=0005c13c1797ad5a6cde generator=2026-07-17.4 source_sha256=602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c -->
+#### Revizní doplnění k § 5a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1996/85-1996 Zákon o advokacii.md`; identifikátor verze: `SB-1996-00085_2026-01-01`; SHA-256: `602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c`.
+
+##### Znění ustanovení
+
+> (1) Komora zapíše na základě písemné žádosti po složení slibu do seznamu advokátů každého, kdo splňuje podmínky uvedené v § 5 odst. 1 písm. a) a d) až g) a i) a
+>
+> - a) prokáže, že je oprávněn poskytovat právní služby způsobem uvedeným v [[#§ 3|§ 3]] v jiném státě za podmínek slučitelných s tímto zákonem, a
+>
+> - b) složí uznávací zkoušku (§ 54 odst. 3).
+>
+> (2) Advokát, který byl zapsán do seznamu advokátů podle odstavce 1, je oprávněn poskytovat právní služby pouze v oblasti práva státu, v němž získal oprávnění k poskytování právních služeb, a v oblasti práva mezinárodního.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 5, § 3, § 54
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0005c13c1797ad5a6cde -->
 
 ### § 5b — Usazený evropský advokát po 3 letech (integrace)
 
@@ -871,6 +1307,58 @@ Usazený evropský advokát se po třech letech soustavné praxe v ČR může in
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=72942a5d8bba195fa5e6 generator=2026-07-17.4 source_sha256=602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c -->
+#### Revizní doplnění k § 5b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1996/85-1996 Zákon o advokacii.md`; identifikátor verze: `SB-1996-00085_2026-01-01`; SHA-256: `602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c`.
+
+##### Znění ustanovení
+
+> (1) Komora zapíše na základě písemné žádosti po složení slibu do seznamu advokátů evropského advokáta, který splňuje podmínky uvedené v § 5 odst. 1 písm. a) a d) až g) a i) a který prokáže, že
+>
+> - a) poskytoval v České republice bez podstatnějších přerušení právní služby jako usazený evropský advokát (§ 35l odst. 1) po dobu alespoň tří let,
+>
+> - b) právní služby podle písmena a) poskytoval v oblasti práva České republiky.
+>
+> (2) Prokáže-li žadatel o zápis do seznamu advokátů, který nesplňuje podmínku uvedenou v odstavci 1 písm. b), v pohovoru před tříčlennou komisí jmenovanou předsedou Komory, že jeho znalosti o právu České republiky a stavovských předpisů, jakož i zkušenosti získané v průběhu dosavadního poskytování právních služeb jsou dostatečné k výkonu advokacie, může Komora splnění této podmínky zcela nebo zčásti prominout.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 5, § 35l
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=72942a5d8bba195fa5e6 -->
+
 ### § 5c — Plný zápis evropského advokáta po zkoušce způsobilosti
 
 > **§ 5c**
@@ -927,6 +1415,56 @@ Toto ustanovení transponuje **čl. 14 směrnice 2005/36/ES** (uznávání odbor
 **Typicky rozhodné důkazy / podklady:** doklad o profesním vzdělání a praxi v domovském státě, potvrzení o oprávnění pod domovským označením, doklad o složení zkoušky způsobilosti, výpis z rejstříku trestů, protokol o slibu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=70fa0e04f7de0ccb64d5 generator=2026-07-17.4 source_sha256=602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c -->
+#### Revizní doplnění k § 5c
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1996/85-1996 Zákon o advokacii.md`; identifikátor verze: `SB-1996-00085_2026-01-01`; SHA-256: `602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c`.
+
+##### Znění ustanovení
+
+> Komora zapíše na základě písemné žádosti po složení slibu do seznamu advokátů státního příslušníka některého z domovských států nebo státního příslušníka jiného státu trvale usazeného v některém z domovských států, který splňuje podmínky uvedené v § 5 odst. 1 písm. a) a d) až g) a i) a který
+>
+> - a) prokáže, že splnil podmínky profesního vzdělání a praxe stanovené v tomto státě k získání oprávnění k poskytování právních služeb pod profesním označením podle § 2 odst. 1 písm. b), a
+>
+> - b) složí zkoušku způsobilosti (§ 54 odst. 2).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 5, § 2, § 54
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=70fa0e04f7de0ccb64d5 -->
 
 ### § 5d — Osvědčení a identifikační průkaz advokáta
 
@@ -1003,6 +1541,58 @@ Osvědčení a průkaz prokazují oprávnění advokáta, ale nezakládají je; 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=6a3abd46fb4de89df0b5 generator=2026-07-17.4 source_sha256=602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c -->
+#### Revizní doplnění k § 5d
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1996/85-1996 Zákon o advokacii.md`; identifikátor verze: `SB-1996-00085_2026-01-01`; SHA-256: `602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c`.
+
+##### Znění ustanovení
+
+> (1) Komora vydá advokátovi nejpozději do jednoho týdne po zápisu do seznamu advokátů osvědčení o zápisu do seznamu advokátů a identifikační průkaz advokáta; vydání identifikačního průkazu advokáta a náležitosti identifikačního průkazu advokáta s výjimkou náležitostí, které jsou v seznamu advokátů již zapsány, zaznamená Komora v seznamu advokátů. Vzor, náležitosti a způsob používání identifikačního průkazu advokáta stanoví prováděcí právní předpis; prováděcí právní předpis může též stanovit dobu platnosti identifikačního průkazu advokáta. V osvědčení a v identifikačním průkazu advokáta Komora vyznačí omezení rozsahu poskytování právních služeb podle § 5a odst. 2.
+>
+> (2) Osvědčením nebo identifikačním průkazem podle odstavce 1 prokazuje advokát oprávnění k poskytování právních služeb.
+>
+> (3) První identifikační průkaz vydá Komora advokátovi bezplatně; za vydání nového identifikačního průkazu může Komora stavovským předpisem stanovit poplatek, a to nejvýše částkou 1 000 Kč.
+>
+> (4) Ten, kdo byl vyškrtnut ze seznamu advokátů podle § 7b odst. 1 písm. d) až g) a § 8 odst. 1, je povinen Komoře neprodleně odevzdat osvědčení o zápisu do seznamu advokátů a vrátit identifikační průkaz advokáta. Odevzdání osvědčení a vrácení identifikačního průkazu advokáta v případě pozastavení výkonu advokacie a jejich navrácení advokátovi v případě zániku pozastavení výkonu advokacie upraví stavovský předpis.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 5a, § 7b, § 8
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6a3abd46fb4de89df0b5 -->
+
 ### § 5e — Záznam zápisu, IČO
 
 > **§ 5e**
@@ -1061,6 +1651,54 @@ Zápis Komora zaznamená bez odkladu (do týdne) a samostatnému advokátovi sd�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e8f1ae1344e6ffe6ecf1 generator=2026-07-17.4 source_sha256=602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c -->
+#### Revizní doplnění k § 5e
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1996/85-1996 Zákon o advokacii.md`; identifikátor verze: `SB-1996-00085_2026-01-01`; SHA-256: `602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c`.
+
+##### Znění ustanovení
+
+> (1) Zápis do seznamu advokátů zaznamená Komora v seznamu advokátů bez odkladu, nejpozději ve lhůtě uvedené v § 5d odst. 1.
+>
+> (2) Komora současně se zaznamenáním zápisu do seznamu advokátů sdělí advokátovi identifikační číslo osoby, které mu bylo přiděleno správcem registru podle jiného zákona1c); to neplatí, pokud je advokát zaměstnaným advokátem nebo pokud bylo advokátovi identifikační číslo osoby již přiděleno.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 5d
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e8f1ae1344e6ffe6ecf1 -->
+
 ### § 5f — Návrat z omezeného režimu (§ 5a) do plného
 
 > **§ 5f**
@@ -1113,6 +1751,52 @@ Ustanovení tedy slouží jako **„kariérní bridge"** mezi omezeným a plným
 **Typicky rozhodné důkazy / podklady:** diplom (příp. uznání vzdělání), evidence koncipientské praxe, doklad o advokátní zkoušce nebo zkoušce způsobilosti, doklad o oprávnění v domovském státě EU/EHP, dosavadní osvědčení dle § 5a.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=8080b63595c672f75ce6 generator=2026-07-17.4 source_sha256=602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c -->
+#### Revizní doplnění k § 5f
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1996/85-1996 Zákon o advokacii.md`; identifikátor verze: `SB-1996-00085_2026-01-01`; SHA-256: `602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c`.
+
+##### Znění ustanovení
+
+> Advokát, který byl zapsán do seznamu advokátů podle [[#§ 5a|§ 5a]], je oprávněn požádat o nový zápis do seznamu advokátů podle § 5 odst. 1 nebo [[#§ 5c|§ 5c]], pokud splní podmínky pro zápis do seznamu advokátů uvedené v těchto ustanoveních.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 5a, § 5, § 5c
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8080b63595c672f75ce6 -->
 
 ### § 5g — Osvědčení o splnění dílčích podmínek
 
@@ -1169,6 +1853,52 @@ Podmínkou je **prokázaný právní zájem** žadatele — Komora není povinna
 **Typicky rozhodné důkazy / podklady:** diplom (příp. uznání vzdělání), evidence koncipientské praxe, doklad o advokátní (nebo uznané) zkoušce, doklad o právním zájmu (podmínky výběrového řízení, výzva cizího orgánu, zápis ke studiu).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=27795a25a2f5b7533eb3 generator=2026-07-17.4 source_sha256=602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c -->
+#### Revizní doplnění k § 5g
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1996/85-1996 Zákon o advokacii.md`; identifikátor verze: `SB-1996-00085_2026-01-01`; SHA-256: `602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c`.
+
+##### Znění ustanovení
+
+> Tomu, kdo prokáže právní zájem, Komora osvědčí, zda splňuje podmínky pro zápis do seznamu advokátů podle § 5 odst. 1 písm. b), c) a h).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 5
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=27795a25a2f5b7533eb3 -->
 
 ### § 6 — Alternativní zkoušky, alternativní praxe, bezúhonnost
 
@@ -1276,6 +2006,56 @@ I když § 6 explicitně neobsahuje definici bezúhonnosti, doktrínalně se s n
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e8685dd8f8c1c9033165 generator=2026-07-17.4 source_sha256=602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c -->
+#### Revizní doplnění k § 6
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1996/85-1996 Zákon o advokacii.md`; identifikátor verze: `SB-1996-00085_2026-01-01`; SHA-256: `602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c`.
+
+##### Znění ustanovení
+
+> (1) Za advokátní zkoušku se pokládá též justiční zkouška, soudcovská zkouška, jednotná soudcovská zkouška, jednotná soudcovská a advokátní zkouška, prokurátorská zkouška, závěrečná zkouška státního zástupce, arbitrážní zkouška a notářská zkouška a exekutorská zkouška; Komora může uznat i jinou odbornou zkoušku v oblasti právní praxe za zkoušku advokátní.
+>
+> (2) Za praxi advokátního koncipienta se pokládá též praxe soudce, prokurátora, státního zástupce, státního arbitra, státního notáře, notáře, justičního čekatele, právního čekatele prokuratury, arbitrážního čekatele, právního čekatele státního zastupitelství, notářského kandidáta a notářského koncipienta, exekutora, exekutorského kandidáta a exekutorského koncipienta, soudce Ústavního soudu, asistenta soudce Ústavního soudu nebo Nejvyššího soudu anebo Nejvyššího správního soudu, asistenta Veřejného ochránce práv, asistenta soudce a asistenta státního zástupce, činnost zaměstnance Ministerstva spravedlnosti, který získal vysokoškolské vzdělání v oboru právo požadované podle § 37 odst. 1 písm. b), a který se samostatně podílí na tvorbě návrhů obecně závazných právních předpisů, činnost zaměstnance Úřadu pro zastupování státu ve věcech majetkových, který jedná v řízeních před soudy, rozhodci nebo stálými rozhodčími soudy, správními úřady a jinými orgány ve věcech uvedených v [[§ 16 odst. 2|§ 16 odst. 2]] [[zákona č. 201/2002 Sb., o Úřadu pro zastupování státu ve věcech majetkových|zákona č. 201/2002 Sb., o Úřadu pro zastupování státu ve věcech majetkových]]; Komora může uznat za právní praxi advokátního koncipienta i jinou právní praxi.
+>
+> (3) Jinou odbornou zkoušku v oblasti právní praxe podle odstavce 1 lze uznat za advokátní zkoušku pouze v souvislosti se žádostí o zápis do seznamu advokátů; jinou právní praxi podle odstavce 2 lze uznat za právní praxi advokátního koncipienta pouze v souvislosti se žádostí o vykonání advokátní zkoušky nebo se žádostí o zápis do seznamu advokátů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 37, § 16
+
+##### Souvisící předpisy
+
+- zákon č. 201/2002 Sb. (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e8685dd8f8c1c9033165 -->
+
 ### § 7 — Advokátní zkouška, slib, zápis
 
 > **§ 7**
@@ -1370,6 +2150,62 @@ Praktický dopad: koncipienti zpravidla **intenzivně připravují** přípravu 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=6cecd8b6a5516031842d generator=2026-07-17.4 source_sha256=602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c -->
+#### Revizní doplnění k § 7
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1996/85-1996 Zákon o advokacii.md`; identifikátor verze: `SB-1996-00085_2026-01-01`; SHA-256: `602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c`.
+
+##### Znění ustanovení
+
+> (1) Komora umožní do devíti měsíců od doručení písemné žádosti vykonat po uhrazení poplatku, který stanoví stavovský předpis nejvýše částkou 15 000 Kč, (dále jen „poplatek za zkoušku“)
+>
+> - a) advokátní zkoušku (§ 54 odst. 1) každému, kdo prokáže, že ke dni konání zkoušky splňuje podmínky uvedené v § 5 odst. 1 písm. a) až d),
+>
+> - b) zkoušku způsobilosti (§ 54 odst. 2) státnímu příslušníkovi některého z domovských států, který prokáže, že ke dni konání zkoušky splňuje podmínky uvedené v § 5 odst. 1 písm. a) a d) až g) a v § 5c písm. a),
+>
+> - c) uznávací zkoušku (§ 54 odst. 3) každému, kdo prokáže, že ke dni konání zkoušky splňuje podmínky uvedené v § 5 odst. 1 písm. a) a d) až g) a v § 5a odst. 1 písm. a).
+>
+> (2) Uchazeč vykoná zkoušku v termínu stanoveném Komorou. Komora vyrozumí uchazeče o tom, zda splňuje podmínky pro vykonání zkoušky podle odstavce 1 nejpozději do čtyř měsíců po doručení žádosti o vykonání zkoušky.
+>
+> (3) Komora umožní v městech, kde lze vykonat advokátní zkoušku, do jednoho měsíce od doručení písemné žádosti o složení slibu a zápis do seznamu advokátů složení slibu každému, kdo prokáže, že splňuje podmínky uvedené v § 5 odst. 1 písm. a) až h) nebo v § 5a až 5c. Komora zapíše žadatele do seznamu advokátů ke dni složení slibu nebo k pozdějšímu dni uvedenému v žádosti, nepřesahuje-li doba mezi složením slibu a tímto dnem tři měsíce; jinak Komora žádost zamítne s tím, že uznání jiné zkoušky nebo uznání jiné praxe podle [[#§ 6|§ 6]] anebo prominutí podmínky pro zápis do seznamu advokátů podle § 5b odst. 2 pozbývají platnosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 54, § 5, § 5c, § 5a, § 6, § 5b
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6cecd8b6a5516031842d -->
+
 ## Vyškrtnutí ze seznamu advokátů
 
 ### § 7a — Zánik oprávnění k výkonu advokacie
@@ -1428,6 +2264,56 @@ Tato dichotomie je významná z procesního hlediska: u **ex lege** vyškrtnutí
 **Typicky rozhodné důkazy / podklady:** rozhodnutí Komory či kárné rozhodnutí, záznam o vyškrtnutí a vyrozumění, úmrtní list / soudní rozhodnutí (u ex lege důvodů), doklady o opravných prostředcích a jejich lhůtách.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=6bfd23fa5a7d793a4e86 generator=2026-07-17.4 source_sha256=602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c -->
+#### Revizní doplnění k § 7a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1996/85-1996 Zákon o advokacii.md`; identifikátor verze: `SB-1996-00085_2026-01-01`; SHA-256: `602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c`.
+
+##### Znění ustanovení
+
+> Oprávnění k výkonu advokacie zaniká vyškrtnutím ze seznamu advokátů:
+>
+> - a) nastane-li některá ze skutečností uvedených v [[#§ 7b|§ 7b]],
+>
+> - b) rozhodne-li o tom Komora v případech uvedených v [[#§ 8|§ 8]] a [[#§ 10|10]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 7b, § 8, § 10
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6bfd23fa5a7d793a4e86 -->
 
 ### § 7b — Vyškrtnutí ex lege
 
@@ -1540,6 +2426,68 @@ Komora zaznamená vyškrtnutí **bez odkladu, nejpozději do 1 měsíce** od chv
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o prohlášení konkursu, výpis z OR (společník), kárné rozhodnutí, soudní rozhodnutí o svéprávnosti, úmrtní list, žádost o vyškrtnutí s ověřeným podpisem, záznam a vyrozumění Komory.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=7cf7144638b4be3d13da generator=2026-07-17.4 source_sha256=602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c -->
+#### Revizní doplnění k § 7b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1996/85-1996 Zákon o advokacii.md`; identifikátor verze: `SB-1996-00085_2026-01-01`; SHA-256: `602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c`.
+
+##### Znění ustanovení
+
+> (1) Ten,
+>
+> - a) kdo zemřel, je vyškrtnut ze seznamu advokátů ke dni úmrtí,
+>
+> - b) kdo byl prohlášen za mrtvého, je vyškrtnut ze seznamu advokátů ke dni právní moci rozhodnutí soudu o prohlášení za mrtvého,
+>
+> - c) kdo byl omezen ve svéprávnosti, je vyškrtnut ze seznamu advokátů ke dni právní moci rozhodnutí soudu, kterým byla jeho svéprávnost omezena,
+>
+> - d) komu bylo uloženo kárné opatření vyškrtnutí ze seznamu advokátů, je vyškrtnut ze seznamu advokátů ke dni právní moci rozhodnutí o uložení tohoto kárného opatření,
+>
+> - e) vůči komu byl prohlášen konkurs, je vyškrtnut ze seznamu advokátů ke dni právní moci rozhodnutí o prohlášení konkursu,
+>
+> - f) kdo je společníkem společnosti nebo zahraniční společnosti, vůči níž byl prohlášen konkurs, je vyškrtnut ze seznamu advokátů ke dni právní moci rozhodnutí o prohlášení konkursu,
+>
+> - g) kdo podal Komoře písemnou žádost o vyškrtnutí ze seznamu advokátů, je vyškrtnut uplynutím kalendářního měsíce, ve kterém byla žádost Komoře doručena, nebo k pozdějšímu dni uvedenému v žádosti; podpis na žádosti v listinné podobě musí být úředně ověřen.
+>
+> (2) Vyškrtnutí ze seznamu advokátů podle odstavce 1 zaznamená Komora v seznamu advokátů bez odkladu, nejpozději však do jednoho měsíce poté, co se o něm dozvěděla. O záznamu Komora písemně vyrozumí toho, jehož se záznam týká, jde-li o důvody vyškrtnutí uvedené v odstavci 1 písm. d) až g); v ostatních případech vyrozumí Komora písemně o záznamu osoby jemu blízké, jsou-li jí známy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7cf7144638b4be3d13da -->
 
 ### § 8 — Vyškrtnutí rozhodnutím Komory
 
@@ -1674,6 +2622,66 @@ Po **vykonatelnosti rozhodnutí** (typicky až po vyčerpání opravných prost�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=1a484ea24cf0e63f15a9 generator=2026-07-17.4 source_sha256=602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c -->
+#### Revizní doplnění k § 8
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1996/85-1996 Zákon o advokacii.md`; identifikátor verze: `SB-1996-00085_2026-01-01`; SHA-256: `602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c`.
+
+##### Znění ustanovení
+
+> (1) Ze seznamu advokátů vyškrtne Komora toho,
+>
+> - a) kdo byl zapsán do seznamu advokátů, ačkoliv nesplňuje některou z podmínek v tomto zákoně uvedených,
+>
+> - b) kdo byl pravomocně odsouzen k nepodmíněnému trestu odnětí svobody za úmyslný trestný čin spáchaný v souvislosti s výkonem advokacie,
+>
+> - c) kdo byl pravomocně odsouzen za jiný úmyslný trestný čin, než je uveden v písmenu b), nebo kdo byl za trestný čin uvedený v písmenu b) odsouzen k jinému trestu než nepodmíněnému trestu odnětí svobody, pokud tato trestná činnost ohrožuje důvěru v řádný výkon advokacie,
+>
+> - d) kdo je v prodlení delším než 6 měsíců se zaplacením příspěvku na činnost Komory nebo jiné platby podle § 30 odst. 1 a příspěvek nebo jinou platbu nezaplatil ani do jednoho měsíce poté, co byl k tomu Komorou vyzván s poučením o následcích nezaplacení; za stejných podmínek Komora vyškrtne ze seznamu advokátů toho, kdo je statutárním orgánem společnosti nebo zahraniční společnosti anebo vedoucím organizační složky zahraniční společnosti, jestliže k platbě podle § 30 odst. 1 je povinna tato společnost nebo zahraniční společnost,
+>
+> - e) kdo porušil povinnost být pojištěn podle § 24a odst. 1 ve výši minimálního limitu pojistného plnění z pojištění advokátů.
+>
+> (2) O vyškrtnutí ze seznamu advokátů podle odstavce 1 písm. a) je Komora oprávněna rozhodnout pouze do jednoho roku ode dne, kdy se o nesplnění podmínky pro zápis do seznamu advokátů dozvěděla; to neplatí, jde-li o podmínku uvedenou v § 5 odst. 1 písm. a), b) nebo d) anebo v § 5a odst. 1 písm. a).
+>
+> (3) Vyškrtnutí ze seznamu advokátů zaznamená Komora v seznamu advokátů bez odkladu, nejpozději však do jednoho měsíce poté, co se rozhodnutí o vyškrtnutí stalo vykonatelným.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 30, § 24a, § 5, § 5a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1a484ea24cf0e63f15a9 -->
+
 ## Pozastavení výkonu advokacie
 
 ### § 8a — Pozastavení výkonu advokacie — dvě cesty
@@ -1730,6 +2738,56 @@ Po **vykonatelnosti rozhodnutí** (typicky až po vyčerpání opravných prost�
 **Typicky rozhodné důkazy / podklady:** doklad o vzniku služebního/pracovního poměru, rozhodnutí o vazbě/výkonu trestu/zákazu činnosti, žádost o pozastavení, rozhodnutí či záznam Komory, doklady o zajištění zástupu a předání spisů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=92c42912158c50e25982 generator=2026-07-17.4 source_sha256=602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c -->
+#### Revizní doplnění k § 8a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1996/85-1996 Zákon o advokacii.md`; identifikátor verze: `SB-1996-00085_2026-01-01`; SHA-256: `602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c`.
+
+##### Znění ustanovení
+
+> K pozastavení výkonu advokacie dochází,
+>
+> - a) nastane-li některá ze skutečností uvedených v [[#§ 8b|§ 8b]],
+>
+> - b) rozhodne-li o tom Komora v případech uvedených v [[#§ 9|§ 9]] a [[#§ 10|10]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 8b, § 9, § 10
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=92c42912158c50e25982 -->
 
 ### § 8b — Pozastavení ex lege
 
@@ -1830,6 +2888,70 @@ Pozastavení podle § 8b je automatické a okamžité — záznam Komory má jen
 **Typicky rozhodné důkazy / podklady:** usnesení o prohlášení konkursu (doložka účinků), vykonatelné rozhodnutí o vzetí do vazby, rozhodnutí o nástupu trestu, pravomocné kárné/trestní rozhodnutí o zákazu činnosti, písemná žádost s úředně ověřeným podpisem, výpis ze seznamu advokátů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=008bb00df79135a044e4 generator=2026-07-17.4 source_sha256=602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c -->
+#### Revizní doplnění k § 8b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1996/85-1996 Zákon o advokacii.md`; identifikátor verze: `SB-1996-00085_2026-01-01`; SHA-256: `602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c`.
+
+##### Znění ustanovení
+
+> (1) Advokátovi,
+>
+> - a) vůči kterému byl prohlášen konkurs, je pozastaven výkon advokacie dnem, kdy nastaly účinky prohlášení konkursu,
+>
+> - b) který je společníkem společnosti nebo zahraniční společnosti, vůči níž byl prohlášen konkurs, je pozastaven výkon advokacie dnem, kdy nastaly účinky prohlášení konkursu,
+>
+> - c) kterému bylo uloženo kárné opatření dočasného zákazu výkonu advokacie [§ 32 odst. 3 písm. d)], je pozastaven výkon advokacie dnem, kdy nabylo právní moci rozhodnutí o uložení tohoto kárného opatření,
+>
+> - d) který byl vzat do vazby, je pozastaven výkon advokacie dnem, kdy se stalo vykonatelným rozhodnutí o vzetí do vazby,
+>
+> - e) který nastoupil výkon trestu odnětí svobody, je pozastaven výkon advokacie dnem nástupu výkonu tohoto trestu. Ustanovení § 8 odst. 1 písm. b) a c) tím není dotčeno,
+>
+> - f) kterému byl uložen trest zákazu činnosti1e) spočívající v zákazu výkonu advokacie, je pozastaven výkon advokacie dnem, kdy nabylo právní moci rozhodnutí, kterým byl tento trest uložen. Ustanovení § 8 odst. 1 písm. a) a c) tím není dotčeno,
+>
+> - g) který vykonává advokacii v pracovním poměru ([[#§ 15a|§ 15a]]), je pozastaven výkon advokacie dnem, kdy byl pozastaven výkon advokacie advokátovi, který je jeho zaměstnavatelem, nebo dnem, kdy byl pozastaven výkon advokacie poslednímu ze společníků společnosti nebo zahraniční společnosti, která je jeho zaměstnavatelem,
+>
+> - h) který podal Komoře písemnou žádost o pozastavení výkonu advokacie, je pozastaven výkon advokacie uplynutím kalendářního měsíce, ve kterém byla žádost Komoře doručena, nebo k pozdějšímu dni uvedenému v žádosti; podpis na žádosti v listinné podobě musí být úředně ověřen.
+>
+> (2) Pozastavení výkonu advokacie podle odstavce 1 zaznamená Komora v seznamu advokátů bez odkladu, nejpozději však do jednoho měsíce poté, co se o něm dozvěděla; o záznamu Komora advokáta písemně vyrozumí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 32, § 8, § 15a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=008bb00df79135a044e4 -->
 
 ### § 9 — Pozastavení rozhodnutím Komory
 
@@ -1948,6 +3070,74 @@ Pozastavení Komora zaznamená **bez odkladu, nejpozději do 1 měsíce** od vyk
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=30f16f9e46efb0d2a502 generator=2026-07-17.4 source_sha256=602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c -->
+#### Revizní doplnění k § 9
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1996/85-1996 Zákon o advokacii.md`; identifikátor verze: `SB-1996-00085_2026-01-01`; SHA-256: `602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c`.
+
+##### Znění ustanovení
+
+> (1) Komora pozastaví advokátovi výkon advokacie
+>
+> - a) vznikl-li mu pracovní poměr nebo služební poměr, s výjimkou pracovních poměrů uvedených v § 5 odst. 1 písm. g) nebo pracovního poměru podle [[#§ 15a|§ 15a]], anebo začal-li vykonávat jinou činnost neslučitelnou s výkonem advokacie,
+>
+> - b) brání-li mu ve vykonávání advokacie po dobu delší čtyř měsíců jiná překážka.
+>
+> (2) Komora může pozastavit advokátovi výkon advokacie,
+>
+> - a) byla-li na něho v trestním řízení podána obžaloba, návrh na schválení dohody o vině a trestu nebo návrh na potrestání pro úmyslný trestný čin, anebo bylo-li proti němu pro takový trestný čin zahájeno trestní stíhání a skutečnosti nasvědčující tomu, že byl takový trestný čin spáchán, ohrožují důvěru v další řádný výkon advokacie tímto advokátem; výkon advokacie může být z těchto důvodů pozastaven nejdéle do dne, kdy nabude právní moci rozhodnutí, kterým se trestní řízení končí nebo v případě pravomocného odsouzení do dne, kdy nabude právní moci rozhodnutí podle § 44 odst. 3 písm. a), nejdéle však do tří měsíců ode dne, kdy byl advokát pravomocně odsouzen,
+>
+> - b) bylo-li zahájeno řízení o omezení jeho svéprávnosti, a to nejdéle do dne, kdy nabude právní moci rozhodnutí, kterým se toto řízení končí,
+>
+> - c) bylo-li zahájeno insolvenční řízení, v němž se řeší úpadek nebo hrozící úpadek advokáta nebo společnosti nebo zahraniční společnosti, jíž je společníkem.
+>
+> (3) Komora může na návrh kárného žalobce (§ 46 odst. 3 a § 51 odst. 2) pozastavit výkon advokacie advokátovi, proti kterému bylo zahájeno kárné řízení, jestliže
+>
+> - a) skutečnosti nasvědčující tomu, že se advokát dopustil kárného provinění, jsou natolik závažné, že další výkon advokacie kárně obviněným advokátem ohrožuje důvěru v řádný výkon advokacie, nebo
+>
+> - b) od zahájení kárného řízení uplynul více než 1 rok, protože jednání v kárném řízení bylo v této době nejméně třikrát odročeno z důvodů spočívajících na straně kárně obviněného advokáta,
+>
+> a to nejdéle do dne, kdy nabude právní moci rozhodnutí, kterým se toto kárné řízení končí.
+>
+> (4) Pozastavení výkonu advokacie zaznamená Komora v seznamu advokátů bez odkladu, nejpozději však do jednoho měsíce poté, co se rozhodnutí o pozastavení výkonu advokacie stalo vykonatelným.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 5, § 15a, § 44, § 46, § 51
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=30f16f9e46efb0d2a502 -->
+
 ### § 9a — Důsledky pozastavení
 
 > **§ 9a**
@@ -2033,6 +3223,70 @@ Pozastavení znamená zákaz poskytovat právní služby a zánik aktivního pů
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=1517cb7e4c5b3a5d9b5f generator=2026-07-17.4 source_sha256=602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c -->
+#### Revizní doplnění k § 9a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1996/85-1996 Zákon o advokacii.md`; identifikátor verze: `SB-1996-00085_2026-01-01`; SHA-256: `602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c`.
+
+##### Znění ustanovení
+
+> (1) Po dobu pozastavení výkonu advokacie
+>
+> - a) advokát není oprávněn poskytovat právní služby,
+>
+> - b) advokát není oprávněn vykonávat další činnosti podle [[#§ 56|§ 56]], pokud podmínkou jejich výkonu je oprávnění vykonávat advokacii,
+>
+> - c) zaniká členství advokáta v orgánech Komory uvedených v § 41 odst. 1 písm. b), d) až f),
+>
+> - d) advokát nemůže být volen nebo jmenován do orgánů Komory uvedených v § 41 odst. 1 písm. b), d) až f).
+>
+> (2) Pozastavením výkonu advokacie
+>
+> - a) nezaniká účast advokáta ve sdružení podle [[#§ 14|§ 14]] nebo ve společnosti; účast advokáta v zahraniční společnosti nezaniká, pokud právní předpisy domovského státu, v němž má zahraniční společnost sídlo, nestanoví jinak,
+>
+> - b) není dotčena povinnost advokáta uvedená v § 24a odst. 1,
+>
+> - c) nezaniká povinnost advokáta provádět platby podle § 30 odst. 1,
+>
+> - d) není dotčena kárná odpovědnost advokáta, a to i pokud jde o kárné provinění, ke kterému došlo v době pozastavení výkonu advokacie.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 56, § 41, § 14, § 24a, § 30
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1517cb7e4c5b3a5d9b5f -->
+
 ### § 9b — Zánik pozastavení
 
 > **§ 9b**
@@ -2099,6 +3353,60 @@ Zánik pozastavení nastává trojím způsobem: pominutím okolnosti či uplynu
 **Typicky rozhodné důkazy / podklady:** písemná žádost advokáta o zrušení pozastavení, pravomocné rozhodnutí o skončení trestního/insolvenčního/svéprávnostního řízení, rozhodnutí opravného orgánu, záznam v seznamu advokátů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=31fce3a8e8c1aec58e75 generator=2026-07-17.4 source_sha256=602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c -->
+#### Revizní doplnění k § 9b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1996/85-1996 Zákon o advokacii.md`; identifikátor verze: `SB-1996-00085_2026-01-01`; SHA-256: `602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c`.
+
+##### Znění ustanovení
+
+> (1) Pozastavení výkonu advokacie zaniká
+>
+> - a) dnem, kdy pominula okolnost, která byla důvodem k pozastavení výkonu advokacie, a v případech podle § 9 odst. 2 písm. a) nebo b) anebo § 9 odst. 3 dnem, kdy uplynula doba, po kterou byl výkon advokacie pozastaven,
+>
+> - b) dnem právní moci rozhodnutí, kterým bylo rozhodnutí o pozastavení výkonu advokacie zrušeno nebo změněno (§ 55 odst. 7),
+>
+> - c) dnem doručení písemné žádosti advokáta, nebo dnem uvedeným v této žádosti, nepředchází-li dni doručení, došlo-li k pozastavení výkonu advokacie podle § 8b odst. 1 písm. h).
+>
+> (2) Zánik pozastavení výkonu advokacie zaznamená Komora v seznamu advokátů bez prodlení, nejpozději však do jednoho měsíce poté, co se o něm dozvěděla; o záznamu Komora advokáta písemně vyrozumí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 9, § 55, § 8b
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=31fce3a8e8c1aec58e75 -->
 
 ### § 10 — Mezinárodní rozměr — informování orgánů cizího státu
 
@@ -2168,6 +3476,58 @@ Mezinárodní informování zabraňuje **„regulatory shopping"** — strategic
 **Typicky rozhodné důkazy / podklady:** rozhodnutí cizího orgánu o ztrátě/pozastavení oprávnění, výpis ze seznamu advokátů s uvedením titulu zápisu, doklad o zápisu českého advokáta jako usazeného v cizině, korespondence s cizím orgánem.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c69cd9f0096a815e4074 generator=2026-07-17.4 source_sha256=602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c -->
+#### Revizní doplnění k § 10
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1996/85-1996 Zákon o advokacii.md`; identifikátor verze: `SB-1996-00085_2026-01-01`; SHA-256: `602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c`.
+
+##### Znění ustanovení
+
+> (1) Dojde-li u advokáta, který byl zapsán do seznamu advokátů podle [[#§ 5a|§ 5a]], k pozastavení či zániku oprávnění poskytovat právní služby v cizině, pozastaví mu Komora výkon advokacie podle tohoto zákona, popřípadě jej ze seznamu advokátů vyškrtne.
+>
+> (2) Komora informuje bez odkladu v potřebném rozsahu příslušný orgán cizího státu o pozastavení výkonu advokacie advokátovi, který byl zapsán do seznamu advokátů podle [[#§ 5a|§ 5a]], jakož i o vyškrtnutí tohoto advokáta ze seznamu advokátů.
+>
+> (3) Byl-li pozastaven výkon advokacie advokátovi, který byl zapsán do seznamu advokátů podle [[#§ 5b|§ 5b]], anebo byl-li tento advokát ze seznamu advokátů vyškrtnut, informuje Komora bez odkladu v potřebném rozsahu o těchto skutečnostech orgán domovského státu, od něhož získal oprávnění k poskytování právních služeb pod profesním označením podle § 2 odst. 1 písm. b) (dále jen „příslušný orgán domovského státu“).
+>
+> (4) Komora informuje bez odkladu v potřebném rozsahu příslušný orgán domovského státu, ve kterém advokát zapsaný do seznamu advokátů podle § 5 odst. 1 nebo [[#§ 57|§ 57]] poskytuje právní služby v postavení obdobném usazenému evropskému advokátovi podle tohoto zákona, o pozastavení výkonu advokacie tomuto advokátovi, jakož i o vyškrtnutí tohoto advokáta ze seznamu advokátů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 5a, § 5b, § 2, § 5, § 57
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c69cd9f0096a815e4074 -->
 
 ## HLAVA DRUHÁ — Způsob výkonu advokacie
 
@@ -2251,6 +3611,58 @@ Před rokem 1990 advokát mohl vykonávat advokacii **pouze v rámci advokátní
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=2e8bf38c823eaacfb280 generator=2026-07-17.4 source_sha256=602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c -->
+#### Revizní doplnění k § 11
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1996/85-1996 Zákon o advokacii.md`; identifikátor verze: `SB-1996-00085_2026-01-01`; SHA-256: `602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c`.
+
+##### Znění ustanovení
+
+> Advokát vykonává advokacii
+>
+> - a) samostatně, nebo
+>
+> - b) jako společník společnosti podle [[občanského zákoníku|občanského zákoníku]] (dále jen „sdružení“), nebo jako společník společnosti podle [[#§ 15|§ 15]] anebo jako společník zahraniční společnosti, nebo
+>
+> - c) v pracovním poměru podle [[#§ 15a|§ 15a]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 15, § 15a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2e8bf38c823eaacfb280 -->
+
 ### § 12 — Označení advokátní praxe, advokátní kancelář
 
 > **§ 12**
@@ -2325,6 +3737,60 @@ Neoprávněné používání označení „advokát" či „advokátní kancelá
 **Typicky rozhodné důkazy / podklady:** snímky webu a marketingových materiálů, faktury a smlouvy s klienty, výpis z OR a ze seznamu advokátů, doklad o (ne)splnění podmínek § 15.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=8c0c0843a80584291f6a generator=2026-07-17.4 source_sha256=602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c -->
+#### Revizní doplnění k § 12
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1996/85-1996 Zákon o advokacii.md`; identifikátor verze: `SB-1996-00085_2026-01-01`; SHA-256: `602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c`.
+
+##### Znění ustanovení
+
+> (1) Při výkonu advokacie je advokát povinen používat označení „advokát“.
+>
+> (2) Ze společného jména sdružení nebo z obchodní firmy společnosti musí být zřejmé, že se jedná o sdružení nebo společnost, jejichž předmětem činnosti je výkon advokacie.
+>
+> (3) Podrobnosti o používání označení podle odstavce 1 a společného jména sdružení a obchodní firmy společnosti podle odstavce 2 stanoví stavovský předpis; za podmínek stanovených stavovským předpisem jsou advokát, sdružení nebo společnost oprávněni používat dodatků vztahujících se k poskytovaným právním službám.
+>
+> (4) Advokát, poskytující právní služby jménem zahraniční společnosti podle [[#§ 35s|§ 35s]], používá obchodní firmu nebo název této zahraniční společnosti nebo její organizační složky podle zápisu v obchodním rejstříku.
+>
+> (5) Používat označení „advokát“, „advokátní kancelář“ nebo odvozené tvary těchto označení, ačkoli nejsou splněny zákonné podmínky pro používání takových označení, se zakazuje.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 35s
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8c0c0843a80584291f6a -->
 
 ### § 13 — Sídlo advokáta
 
@@ -2403,6 +3869,58 @@ Sídlo advokáta musí být skutečnou, dosažitelnou adresou v ČR, kde lze dor
 **Typicky rozhodné důkazy / podklady:** výpis ze seznamu advokátů (sídlo), smlouva o poskytnutí sídla / nájemní smlouva, doručenky a doklady o (ne)přebírání pošty, výpis z OR u společnosti.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=526940332ecb6428b533 generator=2026-07-17.4 source_sha256=602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c -->
+#### Revizní doplnění k § 13
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1996/85-1996 Zákon o advokacii.md`; identifikátor verze: `SB-1996-00085_2026-01-01`; SHA-256: `602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c`.
+
+##### Znění ustanovení
+
+> (1) Advokát musí mít na území České republiky sídlo, které se zapisuje do seznamu advokátů; to neplatí, pokud byl advokátovi výkon advokacie pozastaven.
+>
+> (2) Vykonává-li advokát advokacii samostatně nebo ve sdružení, je jeho sídlo podle odstavce 1 sídlem podnikatele podle zvláštních právních předpisů.
+>
+> (3) Sídlem advokáta, který vykonává advokacii ve společnosti podle [[#§ 15|§ 15]], je sídlo této společnosti.
+>
+> (4) Sídlem advokáta vykonávajícího advokacii v pracovním poměru (§ 15a odst. 1) k jinému advokátovi nebo ke společnosti je sídlo jeho zaměstnavatele podle odstavce 1 nebo podle odstavce 3.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 15, § 15a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=526940332ecb6428b533 -->
 
 ### § 14 — Sdružení advokátů
 
@@ -2496,6 +4014,60 @@ Sdružení advokátů je smluvní společnost bez právní subjektivity; majetek
 **Typicky rozhodné důkazy / podklady:** smlouva o sdružení, doklady o pořízení a financování společného majetku, evidence odměn a pohledávek, výpis ze seznamu advokátů, případné smlouvy uzavřené jménem sdružení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=bd51068ffdbbeb2ebccb generator=2026-07-17.4 source_sha256=602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c -->
+#### Revizní doplnění k § 14 — Sdružení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1996/85-1996 Zákon o advokacii.md`; identifikátor verze: `SB-1996-00085_2026-01-01`; SHA-256: `602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c`.
+
+##### Znění ustanovení
+
+> (1) Advokáti se mohou sdružit za účelem společného výkonu advokacie; v takovém případě si upraví vzájemné vztahy písemnou smlouvou podle [[občanského zákoníku|občanského zákoníku]]. Společníky sdružení mohou být pouze advokáti a jsou povinni vykonávat advokacii pod společným jménem. K dosažení sjednaného účelu sdružení jsou jeho jednotliví společníci oprávněni zaměstnávat další advokáty podle [[#§ 15a|§ 15a]]; tito advokáti nejsou společníky sdružení.
+>
+> (2) Majetek získaný při společném výkonu advokacie se stává spoluvlastnictvím všech společníků sdružení, nestanoví-li smlouva jinak. Má-li podle smlouvy rozhodovat o správě společných věcí většina hlasů společníků, náleží každému ze společníků jeden hlas, nestanoví-li smlouva jinak. Správou společných věcí nelze pověřit třetí osobu.
+>
+> (3) Advokáti, kteří jsou společníky sdružení, musí mít společné sídlo; dojde-li k porušení této povinnosti, nastávají účinky doručení i tehdy, když písemnost určená některému ze společníků sdružení je doručena kterémukoliv jinému společníkovi.
+>
+> (4) Advokát, který je společníkem sdružení, nemůže ode dne vzniku účasti do dne jejího zániku současně vykonávat advokacii samostatně, jako společník společnosti nebo jako společník zahraniční společnosti, v jiném sdružení, ani v pracovním poměru.
+>
+> (5) Ustanovení odstavců 1 až 4 se nepoužijí, dohodnou-li se advokáti na společném poskytování právních služeb v jednom nebo více případech.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 15a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bd51068ffdbbeb2ebccb -->
 
 ### § 15 — Společnost (s.r.o., v.o.s., k.s.)
 
@@ -2646,6 +4218,68 @@ Advokátní společnost (v.o.s., k.s., s.r.o.; nikoli a.s. či družstvo) musí 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e485be50906d75ea92f4 generator=2026-07-17.4 source_sha256=602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c -->
+#### Revizní doplnění k § 15 — Společnost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1996/85-1996 Zákon o advokacii.md`; identifikátor verze: `SB-1996-00085_2026-01-01`; SHA-256: `602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c`.
+
+##### Znění ustanovení
+
+> (1) Advokáti mohou vykonávat advokacii jako společníci veřejné obchodní společnosti, komanditní společnosti nebo společnosti s ručením omezeným, pokud předmětem podnikání takové společnosti je pouze výkon advokacie a jejími společníky jsou pouze advokáti; předmětem podnikání veřejné obchodní společnosti může být i výkon činnosti insolvenčního správce podle zvláštního právního předpisu4a). Skutečným majitelem podle zákona upravujícího evidenci skutečných majitelů a fyzickou osobou, která je v postavení obdobném postavení člena statutárního orgánu takovéto společnosti, může být jen osoba bezúhonná.
+>
+> (2) Nestanoví-li tento zákon jinak, použijí se pro společnost ustanovení zákona upravujícího právní poměry obchodních společností a družstev.
+>
+> (3) Advokát je oprávněn vykonávat advokacii ve společnosti až po svém zápisu jako společníka společnosti do obchodního rejstříku a po zápisu splnění vkladové povinnosti v plném rozsahu do obchodního rejstříku; oprávnění advokáta vykonávat do té doby advokacii samostatně, ve sdružení nebo v jiné společnosti tím není dotčeno.
+>
+> (4) Advokáti, kteří jsou společníky společnosti, vykonávají advokacii jménem společnosti a na její účet. Pokud výkon advokacie jménem společnosti nepřipouštějí v jednotlivých případech zvláštní právní předpisy4c), vykonávají advokáti advokacii vlastním jménem a na účet společnosti; to samé platí i v případě, byl-li advokát, který je společníkem společnosti, k poskytnutí právních služeb určen podle tohoto zákona. Jako účastník právních vztahů založených v souvislosti s poskytováním právních služeb advokátem vykonávajícím advokacii ve společnosti vystupuje vůči klientovi, jakož i vůči třetím osobám, vždy společnost; tyto právní vztahy se řídí tímto zákonem (§ 24 odst. 2 a [[#§ 3|3]]) a zvláštními právními předpisy.
+>
+> (5) Jednatel společnosti s ručením omezeným může být jmenován pouze z řad jejích společníků; prokuristou společnosti může být ustanoven pouze advokát. Na advokáty, kteří jsou jednateli nebo prokuristy společnosti, se vztahuje povinnost mlčenlivosti podle [[#§ 21|§ 21]], pokud se jedná o skutečnosti týkající se poskytování právních služeb touto společností.
+>
+> (6) Vyškrtnutím ze seznamu advokátů nebo změnou způsobu výkonu advokacie účast společníka ve společnosti zanikne a vznikne mu právo na vyplacení vypořádacího podílu podle zvláštního právního předpisu.
+>
+> (7) Dědicem obchodního podílu ve společnosti může být jen advokát; právo dědice, který není advokátem, na vyplacení vypořádacího podílu podle zvláštních právních předpisů tím není dotčeno.
+>
+> (8) Advokát, který vykonává advokacii jako společník společnosti, nemůže ode dne vzniku účasti do dne jejího zániku nebo do okamžiku rozhodnutí o likvidaci společnosti současně vykonávat advokacii samostatně, ve sdružení, jako společník jiné společnosti nebo jako společník zahraniční společnosti, ani v pracovním poměru ([[#§ 15a|§ 15a]]).
+>
+> (9) Ustanovení § 18 odst. 1, [[#§ 19|§ 19]], [[#§ 20|20]], § 22 odst. 1, [[#§ 23|§ 23]], [[#§ 25|25]], [[#§ 28|28]] a [[#§ 29|29]] se použijí pro společnost přiměřeně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 24, § 3, § 21, § 15a, § 18, § 19, § 20, § 22, § 23, § 25, § 28, § 29
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e485be50906d75ea92f4 -->
+
 ### § 15a — Zaměstnaný advokát
 
 > **§ 15a**
@@ -2769,6 +4403,62 @@ Zaměstnaný advokát kombinuje pracovněprávní podřízenost s profesní nez�
 **Typicky rozhodné důkazy / podklady:** pracovní smlouva, písemné pokyny zaměstnavatele a výhrady advokáta, koncepty výstupů, komunikace s klientem, doklady o případném souběžném výkonu či zaměstnávání.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=340071a345c62943f4d2 generator=2026-07-17.4 source_sha256=602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c -->
+#### Revizní doplnění k § 15a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1996/85-1996 Zákon o advokacii.md`; identifikátor verze: `SB-1996-00085_2026-01-01`; SHA-256: `602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c`.
+
+##### Znění ustanovení
+
+> (1) Advokát může vykonávat advokacii v pracovním poměru k jinému advokátovi nebo ke společnosti anebo k zahraniční společnosti (dále jen „zaměstnaný advokát“).
+>
+> (2) Není-li dále stanoveno jinak, řídí se pracovněprávní vztahy zaměstnaných advokátů zákoníkem práce.
+>
+> (3) Advokát může být zaměstnancem pouze jednoho advokáta nebo jedné společnosti anebo jedné zahraniční společnosti; zaměstnaný advokát není oprávněn vykonávat současně advokacii samostatně, ve sdružení, jako společník společnosti nebo jako společník zahraniční společnosti.
+>
+> (4) Zaměstnaný advokát je povinen používat při výkonu advokacie označení „advokát“ spolu s označením svého zaměstnavatele; jiných označení nebo dodatků podle [[#§ 12|§ 12]] je zaměstnaný advokát oprávněn používat pouze po dohodě se svým zaměstnavatelem.
+>
+> (5) Zaměstnaný advokát není oprávněn uzavřít jako zaměstnavatel pracovněprávní vztah s jiným advokátem nebo s advokátním koncipientem [§ 37 odst. 1 písm. e)] anebo v souvislosti s výkonem advokacie zaměstnávat další osoby.
+>
+> (6) Při výkonu advokacie postupuje zaměstnaný advokát podle ustanovení § 3 odst. 1 a [[#§ 16|§ 16]] s tím, že je přitom povinen řídit se pokyny zaměstnavatele, pokud tyto pokyny nejsou v rozporu s právními nebo stavovskými předpisy anebo s pokyny klienta.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 12, § 37, § 3, § 16
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=340071a345c62943f4d2 -->
 
 ### §§ 15b – 15d — Doplňky k zaměstnanému advokátovi
 
@@ -2939,6 +4629,152 @@ Zaměstnaný advokát vystupuje zpravidla jménem zaměstnavatele, ale při zast
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=75bfe715bc486f654542 generator=2026-07-17.4 source_sha256=602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c -->
+#### Revizní doplnění k § 15b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1996/85-1996 Zákon o advokacii.md`; identifikátor verze: `SB-1996-00085_2026-01-01`; SHA-256: `602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c`.
+
+##### Znění ustanovení
+
+> (1) Zaměstnaný advokát vykonává advokacii jménem zaměstnavatele a na jeho účet; se souhlasem zaměstnavatele je zaměstnaný advokát oprávněn vykonávat advokacii i vlastním jménem a na účet zaměstnavatele, pokud
+>
+> - a) zvláštní právní předpisy výkon advokacie zaměstnaným advokátem jménem zaměstnavatele v jednotlivých případech nepřipouštějí,
+>
+> - b) mají právní služby spočívat v zastupování v řízení před soudy nebo jinými orgány, včetně obhajoby v trestním řízení.
+>
+> (2) Byl-li zaměstnaný advokát k poskytování právních služeb podle tohoto zákona určen nebo podle zvláštních právních předpisů ustanoven, poskytuje právní služby vlastním jménem a na účet zaměstnavatele.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=75bfe715bc486f654542 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=f32cc19851531831095b generator=2026-07-17.4 source_sha256=602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c -->
+#### Revizní doplnění k § 15c
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1996/85-1996 Zákon o advokacii.md`; identifikátor verze: `SB-1996-00085_2026-01-01`; SHA-256: `602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c`.
+
+##### Znění ustanovení
+
+> Škoda způsobená zaměstnaným advokátem zaměstnavateli při poskytování právních služeb podle [[#§ 15a|§ 15a]] a [[#§ 15b|15b]] nebo v přímé souvislosti s ním je škodou způsobenou při plnění pracovních úkolů; zaměstnaný advokát za tuto škodu zaměstnavateli odpovídá podle [[zákoníku práce|zákoníku práce]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 15a, § 15b
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f32cc19851531831095b -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=37e5b8d99018a6d2be65 generator=2026-07-17.4 source_sha256=602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c -->
+#### Revizní doplnění k § 15d
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1996/85-1996 Zákon o advokacii.md`; identifikátor verze: `SB-1996-00085_2026-01-01`; SHA-256: `602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c`.
+
+##### Znění ustanovení
+
+> (1) V případě, že se advokát, který doposud vykonával advokacii samostatně, stane zaměstnaným advokátem, přecházejí dnem vzniku pracovního poměru jeho dosavadní práva a povinnosti ve vztahu ke klientům na jeho zaměstnavatele, nedohodne-li se advokát s klientem do dne vzniku pracovního poměru jinak nebo neučiní-li klient do dne vzniku pracovního poměru jiné opatření. Advokát je povinen informovat své klienty o tom, že se stane zaměstnaným advokátem, do 3 dnů ode dne uzavření pracovní smlouvy, nejpozději však do 15 dnů přede dnem vzniku pracovního poměru.
+>
+> (2) Předmětem přechodu práv a povinností podle odstavce 1 není povinnost zaměstnaného advokáta k náhradě újmy podle § 24 odst. 1, jakož i povinnost k vrácení věcí, včetně peněžních prostředků poskytnutých klientem. Na zaměstnavatele nepřecházejí také další povinnosti a práva vyplývající z původního smluvního vztahu mezi advokátem a klientem, pokud by byl zaměstnavatel v důsledku jejich přechodu vůči tomuto advokátovi bezdůvodně zvýhodněn nebo znevýhodněn anebo pokud by splnění těchto povinností nebylo možno po zaměstnavateli spravedlivě požadovat.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 24
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=37e5b8d99018a6d2be65 -->
+
 ## Trvalá spolupráce mezi advokáty (§§ 15e, 15f)
 
 ### § 15e — Smlouva o trvalé spolupráci
@@ -3008,6 +4844,58 @@ Smlouva o trvalé spolupráci je hybridní model: spolupracující advokát zůs
 - [ ] Aplikovat kolizní pravidla § 19 na úrovni advokáta i partnerského subjektu.
 
 **Typicky rozhodné důkazy / podklady:** písemná smlouva o trvalé spolupráci, písemné souhlasy společníků sdružení, výpis ze seznamu advokátů, doklady o pojištění spolupracujícího advokáta, evidence klientů a kolizních prověrek.
+
+
+<!-- LEGAL-REVISION:BEGIN id=a7d881eec88a4e29f712 generator=2026-07-17.4 source_sha256=602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c -->
+#### Revizní doplnění k § 15e
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1996/85-1996 Zákon o advokacii.md`; identifikátor verze: `SB-1996-00085_2026-01-01`; SHA-256: `602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c`.
+
+##### Znění ustanovení
+
+> (1) Advokát, vykonávající advokacii samostatně, může trvale poskytovat právní služby pro jiného advokáta vykonávajícího advokacii samostatně, pro společnost nebo pro zahraniční společnost, na základě smlouvy, kterou o trvalém poskytování právních služeb uzavře s jiným advokátem, společností nebo zahraniční společností (dále jen „smlouva o trvalé spolupráci“). Smlouva o trvalé spolupráci musí mít písemnou formu a nesmí omezovat nezávislost advokáta při poskytování právních služeb podle § 3 odst. 1 a [[#§ 16|§ 16]].
+>
+> (2) Advokát, vykonávající advokacii samostatně, může trvale poskytovat právní služby též advokátům ve sdružení, pokud uzavře smlouvu o trvalé spolupráci alespoň s některým ze společníků sdružení a ostatní společníci sdružení s tím písemně vysloví souhlas.
+>
+> (3) Ustanovení [[#§ 19|§ 19]] není ustanoveními odstavců 1 a [[#§ 2|2]] dotčeno.
+>
+> (4) Advokát, poskytující právní služby na základě smlouvy o trvalé spolupráci (dále jen „spolupracující advokát“), může spolupracovat pouze s jedním advokátem nebo s jednou společností nebo s jednou zahraniční společností anebo s jedním sdružením; ustanovení § 14 odst. 5 tím není dotčeno.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 3, § 16, § 19, § 2, § 14
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a7d881eec88a4e29f712 -->
 
 ### § 15f — Obsahové náležitosti smlouvy o trvalé spolupráci
 
@@ -3087,6 +4975,66 @@ Pokud byl spolupracující advokát **určen Komorou** (§ 18 a násl.) nebo **u
 **Typicky rozhodné důkazy / podklady:** písemná smlouva o trvalé spolupráci se všemi náležitostmi, doklad o předchozím informování klienta, určení Komory / ustanovení soudem, faktury a evidence vyúčtování.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=05f42fa15f5f4ec6f9ce generator=2026-07-17.4 source_sha256=602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c -->
+#### Revizní doplnění k § 15f
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1996/85-1996 Zákon o advokacii.md`; identifikátor verze: `SB-1996-00085_2026-01-01`; SHA-256: `602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c`.
+
+##### Znění ustanovení
+
+> (1) Smlouva o trvalé spolupráci musí obsahovat
+>
+> - a) vymezení předmětu a rozsahu právních služeb poskytovaných spolupracujícím advokátem,
+>
+> - b) vymezení vzájemných vztahů a způsobu koordinace při poskytování právních služeb spolupracujícím advokátem,
+>
+> - c) vymezení způsobu materiálně technického zabezpečení při poskytování právních služeb spolupracujícím advokátem, například případným pronájmem kanceláře spolupracujícímu advokátovi, jejím vybavením nebo společným využíváním administrativně technických prostředků,
+>
+> - d) ujednání, zda spolupracující advokát bude poskytovat právní služby podle smlouvy o trvalé spolupráci svým jménem nebo jménem advokáta, společnosti, zahraniční společnosti nebo sdružení, se kterými spolupracuje, popřípadě jak a za jakých podmínek bude jméno advokáta, společnosti, zahraniční společnosti nebo sdružení při poskytování právních služeb na základě smlouvy o trvalé spolupráci užíváno,
+>
+> - e) stanovení způsobu vyúčtování právních služeb poskytnutých spolupracujícím advokátem na základě smlouvy o trvalé spolupráci.
+>
+> (2) Pokud spolupracující advokát poskytuje právní služby na základě smlouvy o trvalé spolupráci, je povinen na to klienta předem upozornit.
+>
+> (3) Na základě smlouvy o trvalé spolupráci nelze poskytovat právní služby v případech, kdy byl spolupracující advokát k poskytování právních služeb podle tohoto zákona určen nebo podle zvláštních právních předpisů ustanoven; ustanovení § 16 odst. 1 tím není dotčeno.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 16
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=05f42fa15f5f4ec6f9ce -->
 
 ## HLAVA TŘETÍ — Práva a povinnosti advokátů (§§ 16–19)
 
@@ -3179,6 +5127,54 @@ Druhý odstavec formuluje **standard kvality výkonu advokacie**:
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=0bec44e5e36bc2f8f6af generator=2026-07-17.4 source_sha256=602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c -->
+#### Revizní doplnění k § 16
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1996/85-1996 Zákon o advokacii.md`; identifikátor verze: `SB-1996-00085_2026-01-01`; SHA-256: `602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c`.
+
+##### Znění ustanovení
+
+> (1) Advokát je povinen chránit a prosazovat práva a oprávněné zájmy klienta a řídit se jeho pokyny. Pokyny klienta však není vázán, jsou-li v rozporu s právním nebo stavovským předpisem; o tom je advokát povinen klienta přiměřeně poučit.
+>
+> (2) Při výkonu advokacie je advokát povinen jednat čestně a svědomitě; je povinen využívat důsledně všechny zákonné prostředky a v jejich rámci uplatnit v zájmu klienta vše, co podle svého přesvědčení pokládá za prospěšné.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0bec44e5e36bc2f8f6af -->
+
 ### § 17 — Důstojnost advokátního stavu, profesionální etika
 
 > **§ 17**
@@ -3267,6 +5263,52 @@ Druhá věta § 17 — **„výkon politických práv tím není dotčen"** — 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=0a91c9f525615cd24714 generator=2026-07-17.4 source_sha256=602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c -->
+#### Revizní doplnění k § 17
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1996/85-1996 Zákon o advokacii.md`; identifikátor verze: `SB-1996-00085_2026-01-01`; SHA-256: `602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c`.
+
+##### Znění ustanovení
+
+> Advokát postupuje zejména při výkonu advokacie tak, aby nesnižoval důstojnost advokátního stavu; za tím účelem je zejména povinen dodržovat pravidla profesionální etiky a pravidla soutěže. Výkon politických práv tím není dotčen. Pravidla profesionální etiky a pravidla soutěže stanoví stavovský předpis.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0a91c9f525615cd24714 -->
+
 ### § 17a — Stavovský oděv (talár)
 
 > **§ 17a**
@@ -3346,6 +5388,56 @@ V řízeních před okresními soudy a krajskými soudy v civilní/správní age
 **Typicky rozhodné důkazy / podklady:** protokol o jednání s poznámkou o (ne)použití taláru, stavovský předpis o vzhledu oděvu, doklad o pořízení taláru, výpis ze seznamu advokátů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=2b9f245c058f40fbe3de generator=2026-07-17.4 source_sha256=602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c -->
+#### Revizní doplnění k § 17a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1996/85-1996 Zákon o advokacii.md`; identifikátor verze: `SB-1996-00085_2026-01-01`; SHA-256: `602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c`.
+
+##### Znění ustanovení
+
+> (1) V trestním řízení před soudem, v řízení před Nejvyšším soudem, Nejvyšším správním soudem a Ústavním soudem je advokát povinen používat stavovský oděv advokáta.
+>
+> (2) Komora stavovským předpisem stanoví vzhled stavovského oděvu advokáta.
+>
+> (3) Komora je oprávněna na základě provedeného výběrového řízení určit jednoho nebo více dodavatelů stavovského oděvu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2b9f245c058f40fbe3de -->
 
 ### § 18 — Odmítnutí poskytnutí právní služby
 
@@ -3430,6 +5522,58 @@ Mimo případy ustanovení soudem a určení Komorou má advokát plnou volnost 
 **Typicky rozhodné důkazy / podklady:** poptávková komunikace, záznam o úvodní poradě, absence rozhodnutí soudu o ustanovení a rozhodnutí Komory o určení, případná plná moc nebo její absence.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=31a4260b27f3540b842b generator=2026-07-17.4 source_sha256=602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c -->
+#### Revizní doplnění k § 18
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1996/85-1996 Zákon o advokacii.md`; identifikátor verze: `SB-1996-00085_2026-01-01`; SHA-256: `602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c`.
+
+##### Znění ustanovení
+
+> (1) Advokát je oprávněn poskytnutí právních služeb odmítnout, pokud nebyl podle zvláštních právních předpisů ustanoven nebo Komorou k poskytnutí právních služeb podle odstavce 2 a § 18a až 18c určen; ustanovení [[#§ 19|§ 19]] tím není dotčeno.
+>
+> (2) Ten, kdo nesplňuje podmínky pro ustanovení advokáta soudem podle zvláštních právních předpisů7c) a ani si nemůže zajistit poskytnutí právních služeb jinak (dále jen „žadatel“), má právo, aby mu Komora na základě jeho včasné žádosti určila advokáta k poskytnutí
+>
+> - a) právní porady podle [[#§ 18a|§ 18a]] nebo
+>
+> - b) právní služby podle [[#§ 18c|§ 18c]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 18a, § 19, § 18c
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=31a4260b27f3540b842b -->
 
 ### §§ 18a – 18d — Určení advokáta Komorou pro právní pomoc
 
@@ -3637,6 +5781,244 @@ Cíl: **rovnoměrné rozdělování** povinnosti právní pomoci mezi advokáty 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=62f1980d7deaf0815859 generator=2026-07-17.4 source_sha256=602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c -->
+#### Revizní doplnění k § 18a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1996/85-1996 Zákon o advokacii.md`; identifikátor verze: `SB-1996-00085_2026-01-01`; SHA-256: `602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c`.
+
+##### Znění ustanovení
+
+> (1) Žadatel, jehož průměrný měsíční příjem za období 6 kalendářních měsíců předcházejících podání žádosti nepřesahuje trojnásobek životního minima jednotlivce nebo osob s ním společně posuzovaných podle zákona upravujícího životní a existenční minimum, a který není ve věci, v níž žádá poskytnutí právní porady, zastoupen jiným advokátem nebo osobou podle § 2 odst. 2 písm. a), má právo na to, aby mu Komora určila advokáta k poskytnutí právní porady. Jsou-li pro to důvody zvláštního zřetele hodné, lze splnění podmínek kladených na průměrný měsíční příjem prominout.
+>
+> (2) Právní porada se poskytne jednomu žadateli v minimální délce 30 minut, nejvýše do vyčerpání 120 minut délky právní porady za každý kalendářní rok; do celkového ročního časového limitu se započítává každých započatých 30 minut právní porady.
+>
+> (3) Žádost o určení advokáta k poskytnutí právní porady lze podat pouze na formuláři. Žádost kromě obecných náležitostí stanovených správním řádem obsahuje
+>
+> - a) prohlášení žadatele, že jeho poměry odpovídají podmínkám pro přiznání nároku na poskytnutí právní porady podle odstavce 1, a
+>
+> - b) prohlášení žadatele, že jej ve věci, v níž je právní porada žádána, nezastupuje jiný advokát nebo osoba podle § 2 odst. 2 písm. a).
+>
+> (4) Podrobnosti náležitostí žádosti včetně vzoru jejího formuláře stanoví Ministerstvo spravedlnosti vyhláškou.
+>
+> (5) Žadatel je povinen spolu s podáním žádosti uhradit Komoře poplatek za vyřízení žádosti ve výši 100 Kč. Poplatek je příjmem Komory. Poplatek nehradí:
+>
+> - a) cizinci umístění v zařízení pro zajištění cizinců podle zákona upravujícího pobyt cizinců na území České republiky nebo přijímacím středisku podle zákona [[o azylu|o azylu]],
+>
+> - b) držitelé průkazu ZTP nebo ZTP/P,
+>
+> - c) osoby pobírající dávku státní sociální pomoci, jejíž součástí je složka na živobytí,
+>
+> - d) osoby mladší 15 let,
+>
+> - e) osoby, které jsou poživateli příspěvku na péči ve stupni III (těžká závislost) a IV (úplná závislost) podle zákona [[o sociálních službách|o sociálních službách]], a
+>
+> - f) osoby pečující o osoby, které mají přiznaný příspěvek na péči ve stupni III (těžká závislost) a IV (úplná závislost) podle zákona [[o sociálních službách|o sociálních službách]].
+>
+> (6) Komora určí advokáta k poskytnutí právní porady žadateli, který osvědčil splnění zákonných podmínek a uhradil poplatek podle odstavce 5, bez zbytečného odkladu. Rozhodnutí o tom se nevyhotovuje v písemné formě.
+>
+> (7) Nevyhoví-li Komora žádosti, vydá o tom rozhodnutí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=62f1980d7deaf0815859 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=e43805264e0596064f1e generator=2026-07-17.4 source_sha256=602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c -->
+#### Revizní doplnění k § 18b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1996/85-1996 Zákon o advokacii.md`; identifikátor verze: `SB-1996-00085_2026-01-01`; SHA-256: `602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c`.
+
+##### Znění ustanovení
+
+> (1) Na základě podnětu provozovatele zařízení pro zajištění cizinců podle zákona upravujícího pobyt cizinců na území České republiky nebo přijímacího střediska podle zákona [[o azylu|o azylu]] určí Komora advokáta k poskytnutí jednorázové právní porady neurčenému počtu osob umístěných v takovém zařízení; § 18a odst. 3 písm. b) a § 18a odst. 6 se použijí obdobně.
+>
+> (2) Podnět podle odstavce 1 lze podat pouze na formuláři, jehož vzor stanoví Ministerstvo spravedlnosti vyhláškou.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 18a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e43805264e0596064f1e -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=2627d0ac9a31ff880646 generator=2026-07-17.4 source_sha256=602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c -->
+#### Revizní doplnění k § 18c
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1996/85-1996 Zákon o advokacii.md`; identifikátor verze: `SB-1996-00085_2026-01-01`; SHA-256: `602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c`.
+
+##### Znění ustanovení
+
+> (1) Žadatel, který není ve věci, v níž žádá poskytnutí právní služby, zastoupen jiným advokátem nebo osobou podle § 2 odst. 2 písm. a), má právo, aby mu Komora určila advokáta k poskytnutí právní služby. V téže věci může být žadateli určen Komorou advokát pouze jednou; to neplatí, odmítne-li v této věci dříve určený advokát poskytnout právní služby z důvodů uvedených v [[#§ 19|§ 19]], nebo nastane-li situace uvedená v § 20 odst. 2.
+>
+> (2) Žádost o určení advokáta k poskytnutí právní služby lze podat pouze na formuláři, jehož vzor stanoví Ministerstvo spravedlnosti vyhláškou. Žádost kromě obecných náležitostí stanovených správním řádem obsahuje
+>
+> - a) popis věci, v níž by měla být právní služba poskytována, a
+>
+> - b) prohlášení žadatele, že jej ve věci, v níž je právní služba žádána, nezastupuje jiný advokát nebo osoba podle § 2 odst. 2 písm. a).
+>
+> (3) Nejde-li o poskytnutí právní služby na náklady státu podle § 23 odst. 3, je žadatel povinen v žádosti podle odstavce 2 doložit, že se neúspěšně pokusil zajistit si poskytnutí právní služby prostřednictvím alespoň dvou oslovených advokátů.
+>
+> (4) K žádosti o určení advokáta k poskytnutí právní služby bezplatně musí žadatel přiložit doklady o výši příjmu žadatele a společně s ním posuzovaných osob za období 6 kalendářních měsíců předcházejících podání žádosti, jakož i doklady o jeho majetkových poměrech. Podrobnosti náležitostí žádosti a způsob prokazování příjmových a majetkových poměrů žadatele v případě žádosti o poskytnutí právní služby bezplatně, jakož i rozsah údajů, které je žadatel povinen Komoře sdělit, stanoví Ministerstvo spravedlnosti vyhláškou.
+>
+> (5) Komora určí advokáta k poskytnutí právní služby bezplatně žadateli, jehož příjmové a majetkové poměry to odůvodňují. Komora určí advokáta k poskytnutí právní služby žadateli, který osvědčil splnění zákonných podmínek, bez zbytečného odkladu. Komora žádosti nevyhoví, jestliže jde o zneužití práva nebo jde-li o zjevně bezdůvodné uplatňování nebo bránění práva.
+>
+> (6) V rozhodnutí o určení advokáta Komora určí, zda advokát poskytne právní služby bezplatně, vymezí věc, v níž je advokát povinen právní služby poskytnout, jakož i rozsah těchto služeb. Komora může v rozhodnutí o určení advokáta stanovit i další podmínky poskytnutí právních služeb. Komorou určený advokát je povinen právní služby žadateli poskytnout za Komorou určených podmínek. To neplatí, jsou-li dány důvody pro odmítnutí poskytnutí právních služeb uvedené v [[#§ 19|§ 19]] nebo jde-li o zneužití práva, zjevně bezdůvodné uplatňování nebo bránění práva, nebo nastane-li situace uvedená v § 20 odst. 2; v těchto případech advokát o důvodech neposkytnutí právních služeb bez odkladu písemně vyrozumí žadatele a Komoru. Určení advokáta Komorou nenahrazuje plnou moc vyžadovanou zvláštními právními předpisy k obhajobě toho, jemuž byl advokát Komorou určen, v trestním řízení nebo k jeho zastupování v jiném řízení.
+>
+> (7) Komora určení advokáta k poskytnutí právní služby bezplatně zruší, jestliže během poskytování právních služeb tímto advokátem v příslušné věci vyjde najevo, že příjmové a majetkové poměry klienta poskytnutí právních služeb neodůvodňovaly. Komora určení advokáta k poskytnutí právní služby bezplatně zruší také tehdy, jestliže během poskytování právních služeb tímto advokátem v příslušné věci vyjde najevo, že se příjmové a majetkové poměry klienta změnily tak, že poskytnutí právních služeb bezplatně již neodůvodňují; určení advokáta k poskytnutí právní služby bezplatně Komora zruší k okamžiku změny těchto poměrů. Nedohodne-li se advokát s klientem jinak nebo neučiní-li klient jiné opatření, je advokát povinen po dobu 15 dnů ode dne, kdy došlo ke zrušení jeho určení k poskytování právních služeb, činit veškeré neodkladné úkony tak, aby klient neutrpěl na svých právech nebo oprávněných zájmech újmu. To neplatí, pokud klient advokátovi písemně sdělí, že na splnění této povinnosti netrvá.
+>
+> (8) Ode dne, ke kterému bylo zrušeno určení advokáta Komorou k poskytnutí právní služby bezplatně, má advokát nárok na úhradu odměny za poskytnutí právní služby po klientovi podle právního předpisu upravujícího mimosmluvní odměnu, nedohodne-li se advokát s klientem jinak.
+>
+> (9) Změní-li se v průběhu poskytování právních služeb příjmové a majetkové poměry žadatele, kterému byl určen advokát k poskytnutí právní služby bezplatně, je žadatel povinen tuto skutečnost bez zbytečného odkladu oznámit Komoře.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2, § 19, § 20, § 23
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2627d0ac9a31ff880646 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=f7244d8d8000e4db30a8 generator=2026-07-17.4 source_sha256=602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c -->
+#### Revizní doplnění k § 18d
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1996/85-1996 Zákon o advokacii.md`; identifikátor verze: `SB-1996-00085_2026-01-01`; SHA-256: `602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c`.
+
+##### Znění ustanovení
+
+> (1) Pro účely poskytování právních porad podle [[#§ 18a|§ 18a]] a poskytování právních služeb podle [[#§ 18c|§ 18c]] vede Komora seznam žadatelů. Tento seznam je neveřejný. Do seznamu žadatelů se zapisují identifikační údaje žadatelů o právní pomoc, kontaktní údaje uvedené v žádosti, údaje nezbytné k posouzení nároku a údaje, v jakém rozsahu jim byla právní pomoc poskytnuta. Údaje o žadatelích jsou uchovávány po dobu 3 let od ukončení poskytování právní služby, která byla předmětem určení.
+>
+> (2) Pro účely určení advokáta vede Komora seznam advokátů, kteří vyjádřili souhlas s poskytováním právních služeb podle § 18a až 18c; při určování advokáta k takovému poskytnutí právních služeb dbá Komora na to, aby advokáti byli určováni rovnoměrně, a to i s ohledem na charakter a složitost věci, ve které mají být právní služby poskytnuty, a na možné náklady, které mohou určenému advokátovi v souvislosti s poskytnutím právních služeb vzniknout. Nelze-li určit advokáta z tohoto seznamu, určí Komora advokáta ze seznamu vedeného Komorou podle [[#§ 4|§ 4]].
+>
+> (3) Povinnosti advokáta při poskytování právní služby podle § 18 až 18c stanoví stavovský předpis.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 18a, § 18c, § 4, § 18
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f7244d8d8000e4db30a8 -->
+
 ### § 19 — Povinné odmítnutí pro kolizi zájmů
 
 > **§ 19**
@@ -3757,3 +6139,62 @@ Pro kolize **d) a e)** (osobní zájmy advokáta, účast advokáta na projedná
 ---
 
 > **Pokračování:** kapitola 02 — Hlava třetí pokračování (§§ 20–35), Hlava čtvrtá (povinné pojištění, odpovědnost za škodu, advokátní úschova), evropští advokáti, vyhotovení obhajoby (§§ 35a–35w), a část třetí (Česká advokátní komora a její orgány). Klíčová témata: **smlouva o poskytování právních služeb a její skončení (§§ 20–23), odměna advokáta (§§ 22, 24c–25), pojištění a odpovědnost (§§ 24, 24a, 24b), úschovy (§ 56a) a kárná odpovědnost (§§ 32–35b).**
+
+<!-- LEGAL-REVISION:BEGIN id=b0245c4f836e8a77c4ab generator=2026-07-17.4 source_sha256=602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c -->
+#### Revizní doplnění k § 19
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1996/85-1996 Zákon o advokacii.md`; identifikátor verze: `SB-1996-00085_2026-01-01`; SHA-256: `602489094a058d6d32f420a05ac2a76df79c83ce341755b94a87fc80fb929c1c`.
+
+##### Znění ustanovení
+
+> (1) Advokát je povinen poskytnutí právních služeb odmítnout, jestliže
+>
+> - a) v téže věci nebo ve věci související již poskytl právní služby jinému, jehož zájmy jsou v rozporu se zájmy toho, kdo o poskytnutí právních služeb žádá,
+>
+> - b) osobě, jejíž zájmy jsou v rozporu se zájmy toho, kdo o právní služby žádá, poskytl již v téže věci nebo věci související právní služby advokát, s nímž vykonává advokacii jako společník sdružení, společnosti nebo zahraniční společnosti, nebo v případě zaměstnaného advokáta advokát, který je jeho zaměstnavatelem, anebo advokát, který je zaměstnancem stejného zaměstnavatele,
+>
+> - c) by informace, kterou má o jiném klientovi nebo o bývalém klientovi, mohla toho, kdo o poskytnutí právních služeb žádá, neoprávněně zvýhodnit,
+>
+> - d) projednání věci se zúčastnil advokát, případně osoba advokátovi blízká,
+>
+> - e) zájmy toho, kdo o poskytnutí právních služeb žádá, jsou v rozporu se zájmy advokáta nebo osoby advokátovi blízké.
+>
+> (2) Účastí na projednání věci podle odstavce 1 písm. d) není poskytování právních služeb advokátem nebo osobami uvedenými v § 2 odst. 2.
+>
+> (3) V případech podle odstavce 1 písm. a) až c) není advokát povinen poskytnutí právních služeb odmítnout, pokud s tím písemně vysloví souhlas všechny dotčené osoby, advokát dotčeným osobám předem sdělí všechny podstatné okolnosti týkající se dané věci, není-li to v neprospěch slabší strany a nedojde-li k ohrožení práv a oprávněných zájmů dotčených osob nebo ke zhoršení jejich postavení. Souhlas může dotčená osoba kdykoli odvolat. Odvolaný souhlas nelze znovu udělit.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b0245c4f836e8a77c4ab -->
