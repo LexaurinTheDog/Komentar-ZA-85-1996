@@ -161,7 +161,7 @@ Tito jsou nositeli **dílčího právnického monopolu** v rozsahu daném jejich
 - **Notář** — sepisování notářských zápisů (§ 62 NotZ), legalizace, vidimace, dědické řízení jako soudní komisař (§ 100 z. ř. s.), úschovy; nesmí zastupovat v civilním sporu (s výjimkou § 3 NotZ — právní porady a sepis listin).
 - **Soudní exekutor** — vede exekuční řízení (§ 28 a násl. EŘ), sepisuje exekutorské zápisy, ale **od 1. 1. 2013** mu byla zrušena pravomoc sepisovat exekutorské zápisy se svolením k vykonatelnosti, jež dříve konkurovaly notářskému zápisu. Souvisí novela 2025 zpřísňující neslučitelnost exekutorské a advokátní činnosti — viz výklad § 5 odst. 1 písm. g) níže.
 - **Daňový poradce** — daňové poradenství (§ 1 odst. 1 zák. č. 523/1992 Sb.), zastupování v daňových řízeních (§ 25 odst. 1 písm. c) DŘ); nesmí poskytovat obecné právní služby mimo daňovou agendu.
-- **Patentový zástupce** — zastupování v řízení před Úřadem průmyslového vlastnictví, EUIPO, WIPO atd.; nesmí zastupovat v civilním sporu o porušení duševního vlastnictví (s výjimkou v rozsahu daném § 7 zák. č. 417/2004 Sb.).
+- **Patentový zástupce** — odborná pomoc ve věcech průmyslového vlastnictví, zejména zastupování před orgány státní správy a v řízení před soudy (§ 1 odst. 2 zák. č. 417/2004 Sb.), v rozsahu svého oprávnění (§ 2 téhož zákona); v občanském soudním řízení jej účastník může zvolit zástupcem s výjimkou dovolání (§ 25b o. s. ř.).
 
 #### Podnikový právník — in-house counsel (odst. 2 písm. b))
 
